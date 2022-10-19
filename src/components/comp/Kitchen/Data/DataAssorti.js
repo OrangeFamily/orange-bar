@@ -26,7 +26,7 @@ const AssortiMass=[
         title:"сирна тарілка 200г/30г",
         price:"149 грн",
         src:require('../img/asorti/tarelkachees.png'),
-        text:"гауда, пармезан, брі, дорблю",
+        text:"гауда, пармезан, брі, дорблю, мед",
     },
     {
         id:4,

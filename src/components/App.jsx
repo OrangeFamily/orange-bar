@@ -56,6 +56,7 @@ import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
 import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
+import { Bear } from './comp/Bar/List/Bear';
 
 
 export const App = () => {
@@ -277,7 +278,7 @@ export const App = () => {
                   <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
-                        Десерти
+                        Морозиво
                       </AccordionButton>
                     </h2>
                     <AccordionPanel>
@@ -432,7 +433,7 @@ export const App = () => {
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
-                        <List data={dataBear} onModal={dataModal} />
+                        <Bear data={dataBear} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
                     <AccordionItem>

@@ -4,6 +4,7 @@
     margin-right: 15px;
     
 }
+
 .item{
     font-family: centuryGotic;
     display: flex;
@@ -22,7 +23,7 @@
     width: 1020px;
     font-size: 25px;
     @media (min-width: 320px) and (max-width: 480px) {
-        width: 357px;
+        width: 270px;
       }
 }
 .text{
@@ -50,14 +51,14 @@
 .price{
     color: white;
     display: flex;
-    width: 125px;
+    width: 200px;
     justify-content: flex-end;
     text-align: center;
     margin: 0 0 0 auto;
     
     @media (min-width: 320px) and (max-width: 480px) {
         font-size: 13px;
-        width: 80px;
+        width: 85px;
       }
 }
 p{
