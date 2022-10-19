@@ -33,7 +33,7 @@ const AssortiMass=[
         title:"фруктова тарілка 600г",
         price:"159 грн",
         src:require('../img/asorti/fruttar.png'),
-        text:"",
+        text:"Апельсин, лимон, виноград, ківі, банан, яблоко, мараскінова вишня",
     },
    
     
