@@ -141,7 +141,7 @@ export const App = () => {
           </a>
         </header>
         <section className={s.main}>
-          <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
+          
           <img
             src={require('./img/orangeLogo.png')}
             alt=""
@@ -286,7 +286,9 @@ export const App = () => {
                     </AccordionPanel>
                   </AccordionItem>
                 </Accordion>
+                <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
               </AccordionPanel>
+              
             </AccordionItem>
 
             <AccordionItem>
@@ -487,8 +489,10 @@ export const App = () => {
                       </AccordionPanel>
                     </AccordionItem>
                   </Accordion>
+                  <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
                 </AccordionPanel>
               </>
+            
             </AccordionItem>
 
             <AccordionItem>
@@ -601,8 +605,10 @@ export const App = () => {
                       </AccordionPanel>
                     </AccordionItem>
                   </Accordion>
+                  <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
                 </AccordionPanel>
               </>
+              
             </AccordionItem>
             {showModal && (
               <Modal objectModal={objectModal} toggleModal={toggleModal} />
