@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.e261f546.css",
-    "main.js": "/orange-bar/static/js/main.c197a08b.js",
+    "main.js": "/orange-bar/static/js/main.16ddf8ee.js",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/steykpig.png": "/orange-bar/static/media/steykpig.d8c4fe74cd97bcf14931.png",
     "static/media/steykkur.png": "/orange-bar/static/media/steykkur.1cac9d49fc459dc04d26.png",
@@ -38,6 +38,7 @@
     "static/media/jagcof.png": "/orange-bar/static/media/jagcof.cc4d164d52d0067d8abb.png",
     "static/media/orange.png": "/orange-bar/static/media/orange.4b45c182adf2e97042ad.png",
     "static/media/tartobear.png": "/orange-bar/static/media/tartobear.92a7c8c0f9f4aec98882.png",
+    "static/media/tort.png": "/orange-bar/static/media/tort.15099a51d60b9704832e.png",
     "static/media/bul.png": "/orange-bar/static/media/bul.fcb0d7978ab8f7712150.png",
     "static/media/seefood.png": "/orange-bar/static/media/seefood.5ca10d420d937a31cbb1.png",
     "static/media/doshkomp.png": "/orange-bar/static/media/doshkomp.7c964ddca060b2a512ac.png",
@@ -179,10 +180,10 @@
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/orange-bar/index.html",
     "main.e261f546.css.map": "/orange-bar/static/css/main.e261f546.css.map",
-    "main.c197a08b.js.map": "/orange-bar/static/js/main.c197a08b.js.map"
+    "main.16ddf8ee.js.map": "/orange-bar/static/js/main.16ddf8ee.js.map"
   },
   "entrypoints": [
     "static/css/main.e261f546.css",
-    "static/js/main.c197a08b.js"
+    "static/js/main.16ddf8ee.js"
   ]
 }
