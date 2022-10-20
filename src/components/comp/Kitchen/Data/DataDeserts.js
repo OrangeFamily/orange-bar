@@ -1,25 +1,19 @@
 const DesertsMass=[
     {
         id:1,
-        title:"полуничне 100г",
-        price:"59 грн",
+        title:"торт шоколадно-помаранчевий 100г",
+        price:"79 грн",
         src: require('../img/icee.png'),
         text:"",
     },
     {
         id:2,
-        title:"шоколадне 100г",
+        title:"морозиво 100г",
         price:"59 грн",
         src: require('../img/icee.png'),
-        text:"",
+        text:"пломбір, полуничне, шоколадне",
     },
-    {
-        id:3,
-        title:"пломбір 100г",
-        price:"59 грн",
-        src: require('../img/icee.png'),
-        text:"",
-    },
+   
     
 ]
 
