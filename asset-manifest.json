@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.e261f546.css",
-    "main.js": "/orange-bar/static/js/main.d65daf09.js",
+    "main.js": "/orange-bar/static/js/main.0af55833.js",
     "static/media/fon1.jpg": "/orange-bar/static/media/fon1.fecba46590088500bb50.jpg",
     "static/media/steykpig.png": "/orange-bar/static/media/steykpig.d8c4fe74cd97bcf14931.png",
     "static/media/steykkur.png": "/orange-bar/static/media/steykkur.1cac9d49fc459dc04d26.png",
@@ -182,10 +182,10 @@
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
     "index.html": "/orange-bar/index.html",
     "main.e261f546.css.map": "/orange-bar/static/css/main.e261f546.css.map",
-    "main.d65daf09.js.map": "/orange-bar/static/js/main.d65daf09.js.map"
+    "main.0af55833.js.map": "/orange-bar/static/js/main.0af55833.js.map"
   },
   "entrypoints": [
     "static/css/main.e261f546.css",
-    "static/js/main.d65daf09.js"
+    "static/js/main.0af55833.js"
   ]
 }
