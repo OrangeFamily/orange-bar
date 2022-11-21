@@ -6,6 +6,7 @@ import {
 } from '@chakra-ui/react';
 
 import { useState } from 'react';
+import LazyLoad from 'react-lazy-load';
 
 import { Modal } from './Modal/Modal';
 import s from './App.module.scss';
@@ -117,7 +118,7 @@ export const App = () => {
   };
   return (
     <>
-    
+    <LazyLoad>
       <div className={s.upper}>
         <header className={s.header}>
           <a
@@ -616,6 +617,7 @@ export const App = () => {
           </Accordion>
         </section>
       </div>
+      </LazyLoad>
     </>
   );
 };
