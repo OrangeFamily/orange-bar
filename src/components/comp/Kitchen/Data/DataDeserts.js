@@ -6,13 +6,13 @@ const DesertsMass=[
         src: require('../img/tort.webp'),
         text:"",
     },
-    {
-        id:2,
-        title:"морозиво 100г",
-        price:"59 грн",
-        src: require('../img/icee.webp'),
-        text:"пломбір, полуничне, шоколадне",
-    },
+    // {
+    //     id:2,
+    //     title:"морозиво 100г",
+    //     price:"59 грн",
+    //     src: require('../img/icee.webp'),
+    //     text:"пломбір, полуничне, шоколадне",
+    // },
    
     
 ]
