@@ -31,7 +31,7 @@ const MainMass=[
         id:5,
         title:"Паста з куркою і грибами 250г",
         price:"115 грн",
-        src: require('../img/chiken.webp'),
+        src: require('../img/chikenpasta.webp'),
         text:"філе куряче, паста, вершки, печериці, пармезан",
     },
     {
