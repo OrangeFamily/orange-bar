@@ -32,14 +32,14 @@ const BurgerMass=[
         id:5,
         title:"бургер із тигровою креветкою 250г",
         price:"159 грн",
-        src: require('../img/tiger.webp'),
+        src: require('../img/tigerburg.webp'),
         text:"булка, соус часниковий, соус для бургеру, цибуля ялта, помідор, сир чеддер, лист салату, тигрова креветка",
     },
     {
         id:6,
         title:"сирний бургер 270г",
         price:"120 грн",
-        src:require('../img/chees.webp'),
+        src:require('../img/cheesburg.webp'),
         text:"булка, соус часниковий, соус для бургеру, сир дорблю, сир чеддер, сир фрі, лист салату",
     },
     

@@ -52,7 +52,7 @@ const ToBearMass=[
         id:8,
         title:"Сир фрі 150г/50г",
         price:"89 грн",
-        src: require('../img/chees.webp'),
+        src: require('../img/cheesbeer.webp'),
         text:"сир гауда, паніровка, часничний соус",
     },
     {

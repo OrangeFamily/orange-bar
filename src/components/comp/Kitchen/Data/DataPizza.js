@@ -3,7 +3,7 @@ const PizzaMass=[
         id:1,
         title:"«Піца «Цезар» 500г/1000г",
         price:"189грн/299грн",
-        src: require('../img/cezar.webp'),
+        src: require('../img/cezarpizza.webp'),
         text:"томатний соус, куряче філе, помідор, лист салату, пармезан, бекон, моцарелла, соус Цезар",
     },
     {
@@ -38,14 +38,14 @@ const PizzaMass=[
         id:6,
         title:"Шинка-печериці 500г/1000г",
         price:"189грн/299грн",
-        src: require('../img/mush.webp'),
+        src: require('../img/mushpizza.webp'),
         text:"шинка, печериці, моцарелла, томатний соус",
     },
     {
         id:7,
         title:"Піца з лососем 450г/900г",
         price:"189грн/299грн",
-        src: require('../img/red-fish.webp'),
+        src: require('../img/red-fishpizza.webp'),
         text:"вершковий соус, лосось, моцарелла, маслини, пармезан",
     },
     {
@@ -59,7 +59,7 @@ const PizzaMass=[
         id:9,
         title:"Піца з телятиною 500г/1000г",
         price:"189грн/299грн",
-        src: require('../img/caw.webp'),
+        src: require('../img/cawpizza.webp'),
         text:"телятина, бекон, соус томатний, цибуля ялта, перець болгарський, сир моцарела",
     },
 ]

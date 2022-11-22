@@ -45,7 +45,7 @@ const SaladsMass=[
         id:7,
         title:"Салат з тигровими креветками 250г",
         price:"179 грн",
-        src:require('../img/tiger.webp'),
+        src:require('../img/tigersal.webp'),
         text:"тигрова кереветка, мікс-салат, помідор, кунжут, олія оливкова, мед, лимон, авокадо",
     },
 ]
