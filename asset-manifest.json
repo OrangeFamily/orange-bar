@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0c2a7284.css",
-    "main.js": "/orange-bar/static/js/main.4f290c19.js",
+    "main.js": "/orange-bar/static/js/main.79f719c0.js",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
     "static/media/inst.png": "/orange-bar/static/media/inst.da61275da83501aa7a6f.png",
     "static/media/century-gotic.ttf": "/orange-bar/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
@@ -58,6 +58,7 @@
     "static/media/or.webp": "/orange-bar/static/media/or.36b24d996cc3c5a224f6.webp",
     "static/media/lem.webp": "/orange-bar/static/media/lem.a8f72f13b8e2155a6163.webp",
     "static/media/lemon.webp": "/orange-bar/static/media/lemon.4a214cdf5749c07339ec.webp",
+    "static/media/chikenpasta.webp": "/orange-bar/static/media/chikenpasta.64e1aef9517c851271e0.webp",
     "static/media/jd.webp": "/orange-bar/static/media/jd.3d6ea6c2275aa191eefd.webp",
     "static/media/moh.webp": "/orange-bar/static/media/moh.41a0f72eca95137e87bc.webp",
     "static/media/tigersal.webp": "/orange-bar/static/media/tigersal.5e3aa286eac1f46c54ce.webp",
@@ -192,10 +193,10 @@
     "static/media/dontinto.webp": "/orange-bar/static/media/dontinto.e2be5e3f2f1cff2b8d74.webp",
     "index.html": "/orange-bar/index.html",
     "main.0c2a7284.css.map": "/orange-bar/static/css/main.0c2a7284.css.map",
-    "main.4f290c19.js.map": "/orange-bar/static/js/main.4f290c19.js.map"
+    "main.79f719c0.js.map": "/orange-bar/static/js/main.79f719c0.js.map"
   },
   "entrypoints": [
     "static/css/main.0c2a7284.css",
-    "static/js/main.4f290c19.js"
+    "static/js/main.79f719c0.js"
   ]
 }
