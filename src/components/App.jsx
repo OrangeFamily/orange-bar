@@ -113,6 +113,10 @@ export const App = () => {
     toggleModal();
     setObjectModal({ title, price, text, src });
   };
+  const dataModalBeer = (title, price, price2, text, src) => {
+    toggleModal();
+    setObjectModal({title, price, text, src});
+  };
   const toggleModal = () => {
     setShowModal(showModal => !showModal);
   };
@@ -436,7 +440,7 @@ export const App = () => {
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
-                        <Bear data={dataBear} onModal={dataModal} />
+                        <Bear data={dataBear} onModal={dataModalBeer} />
                       </AccordionPanel>
                     </AccordionItem>
                     <AccordionItem>
