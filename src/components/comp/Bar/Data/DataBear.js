@@ -17,7 +17,7 @@ const BearMass=[
     },
     {
         id:3,
-        title:"Стелла артуа (Україна) кегове",
+        title:"Стелла артуа (Бельгія) кегове",
         price:"0,5л - 69 грн",
         price2:"0,33л - 55 грн",
         src: require('../img/stelakeg.png'),
