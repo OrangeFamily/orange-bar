@@ -46,7 +46,7 @@ import ToBearMass from './comp/Kitchen/Data/DataToBear';
 import PizzaMass from './comp/Kitchen/Data/DataPizza';
 import AdditivesMass from './comp/Kitchen/Data/DataAdd';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
-import { Coffe } from './comp/Bar/List/List';
+import { Coffe } from './comp/Bar/List/Coffe';
 import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';

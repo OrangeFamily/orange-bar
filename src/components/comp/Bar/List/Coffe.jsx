@@ -1,4 +1,4 @@
-import s from './List.module.scss'
+import s from './Coffe.module.scss'
  export const Coffe = ({data, onModal}) => {
 
     return data.map(e=>(
