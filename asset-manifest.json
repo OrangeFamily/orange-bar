@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.0c2a7284.css",
-    "main.js": "/orange-bar/static/js/main.219fd39f.js",
+    "main.css": "/orange-bar/static/css/main.0865f27f.css",
+    "main.js": "/orange-bar/static/js/main.c57821f9.js",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
     "static/media/hmelevus.png": "/orange-bar/static/media/hmelevus.8e7c0adea99f48ca648d.png",
     "static/media/stelakeg.png": "/orange-bar/static/media/stelakeg.91fa438e57a0c44002a5.png",
@@ -194,11 +194,11 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "static/media/dontinto.webp": "/orange-bar/static/media/dontinto.e2be5e3f2f1cff2b8d74.webp",
     "index.html": "/orange-bar/index.html",
-    "main.0c2a7284.css.map": "/orange-bar/static/css/main.0c2a7284.css.map",
-    "main.219fd39f.js.map": "/orange-bar/static/js/main.219fd39f.js.map"
+    "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
+    "main.c57821f9.js.map": "/orange-bar/static/js/main.c57821f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c2a7284.css",
-    "static/js/main.219fd39f.js"
+    "static/css/main.0865f27f.css",
+    "static/js/main.c57821f9.js"
   ]
 }
