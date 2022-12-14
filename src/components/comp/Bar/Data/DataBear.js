@@ -30,14 +30,14 @@ const BearMass=[
         src: require('../img/dunkel.webp'),
         text:"",
     },
-    {
-        id:5,
-        title:"Carlsberg (Данія) кегове",
-        price:"0,5л - 69 грн",
-        price2:"0,33л - 55 грн",
-        src: require('../img/carl.webp'),
-        text:"",
-    },
+    // {
+    //     id:5,
+    //     title:"Carlsberg (Данія) кегове",
+    //     price:"0,5л - 69 грн",
+    //     price2:"0,33л - 55 грн",
+    //     src: require('../img/carl.webp'),
+    //     text:"",
+    // },
     {
         id:6,
         title:"Corona Extra (Mexico) пляшкове 0,355",
