@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.0fb5c251.js",
+    "main.js": "/orange-bar/static/js/main.cbe9353f.js",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
     "static/media/hmelevus.png": "/orange-bar/static/media/hmelevus.8e7c0adea99f48ca648d.png",
     "static/media/stelakeg.png": "/orange-bar/static/media/stelakeg.91fa438e57a0c44002a5.png",
@@ -177,7 +177,6 @@
     "static/media/absolut.webp": "/orange-bar/static/media/absolut.aa63f5426bab17510fce.webp",
     "static/media/bels.webp": "/orange-bar/static/media/bels.c27bf2c1b3f0bde18645.webp",
     "static/media/kmd.webp": "/orange-bar/static/media/kmd.fa12c669b91ca144fe13.webp",
-    "static/media/carl.webp": "/orange-bar/static/media/carl.4f4ac87f9adf6a61118f.webp",
     "static/media/tonic.webp": "/orange-bar/static/media/tonic.e95d8cc993129bc206fa.webp",
     "static/media/bush.webp": "/orange-bar/static/media/bush.84c43b6090d4f792f787.webp",
     "static/media/aperol.webp": "/orange-bar/static/media/aperol.853faa0bc6dd3146cded.webp",
@@ -195,10 +194,10 @@
     "static/media/dontinto.webp": "/orange-bar/static/media/dontinto.e2be5e3f2f1cff2b8d74.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.0fb5c251.js.map": "/orange-bar/static/js/main.0fb5c251.js.map"
+    "main.cbe9353f.js.map": "/orange-bar/static/js/main.cbe9353f.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.0fb5c251.js"
+    "static/js/main.cbe9353f.js"
   ]
 }
