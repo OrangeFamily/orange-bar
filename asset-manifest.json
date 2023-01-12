@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.ee7b188d.js",
-    "static/media/solVafli.png": "/orange-bar/static/media/solVafli.65ded88c598a0cfb22df.png",
+    "main.js": "/orange-bar/static/js/main.ce7fc944.js",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
+    "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
     "static/media/hmelevus.png": "/orange-bar/static/media/hmelevus.8e7c0adea99f48ca648d.png",
     "static/media/stelakeg.png": "/orange-bar/static/media/stelakeg.91fa438e57a0c44002a5.png",
     "static/media/inst.png": "/orange-bar/static/media/inst.da61275da83501aa7a6f.png",
     "static/media/beloe.png": "/orange-bar/static/media/beloe.d324c90c58c31a7606c8.png",
     "static/media/sanSimonKrasn.png": "/orange-bar/static/media/sanSimonKrasn.5b731b813d5f1a4c9706.png",
+    "static/media/baronSimonBel.png": "/orange-bar/static/media/baronSimonBel.63b1442db750135f7551.png",
     "static/media/sanSimonBel.png": "/orange-bar/static/media/sanSimonBel.e072e86cac2cc3b31a0e.png",
     "static/media/century-gotic.ttf": "/orange-bar/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
     "static/media/steykkur.webp": "/orange-bar/static/media/steykkur.86d93836760bb5f966ac.webp",
@@ -135,7 +136,6 @@
     "static/media/sparkling.webp": "/orange-bar/static/media/sparkling.5e90b1fd6b4ab4737254.webp",
     "static/media/up.webp": "/orange-bar/static/media/up.b19b2e17e325c134d1c9.webp",
     "static/media/milk.webp": "/orange-bar/static/media/milk.c56c51593acd7a55015c.webp",
-    "static/media/sensiveneto.webp": "/orange-bar/static/media/sensiveneto.cf5e18a258a1daa7d881.webp",
     "static/media/rmvsop.webp": "/orange-bar/static/media/rmvsop.bba004ff4eb7d65266b0.webp",
     "static/media/bovar.webp": "/orange-bar/static/media/bovar.3f573b7182b6333e8d0b.webp",
     "static/media/sensidal.webp": "/orange-bar/static/media/sensidal.7edfefce43224db42ec8.webp",
@@ -196,10 +196,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.ee7b188d.js.map": "/orange-bar/static/js/main.ee7b188d.js.map"
+    "main.ce7fc944.js.map": "/orange-bar/static/js/main.ce7fc944.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.ee7b188d.js"
+    "static/js/main.ce7fc944.js"
   ]
 }
