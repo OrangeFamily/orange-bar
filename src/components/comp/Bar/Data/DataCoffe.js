@@ -9,14 +9,14 @@ const CoffeMass=[
     {
         id:2,
         title:"Еспрессо 0,030л",
-        price:"25 грн",
+        price:"30 грн",
         src: require('../img/cof.webp'),
         text:"",
     },
     {
         id:3,
         title:"Амерікано 0,120л",
-        price:"25 грн",
+        price:"30 грн",
         src: require('../img/cof.webp'),
         text:"",
     },
@@ -37,7 +37,7 @@ const CoffeMass=[
     {
         id:6,
         title:"Латте 0,200л",
-        price:"45 грн",
+        price:"50 грн",
         src: require('../img/cof.webp'),
         text:"",
     },
