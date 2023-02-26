@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.93e59573.js",
+    "main.js": "/orange-bar/static/js/main.0dc3d22b.js",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
@@ -104,13 +104,11 @@
     "static/media/marengos.webp": "/orange-bar/static/media/marengos.c3a3481d4a69015fe221.webp",
     "static/media/jkg.webp": "/orange-bar/static/media/jkg.2c2a786cda83cb3edc6d.webp",
     "static/media/zaliv.webp": "/orange-bar/static/media/zaliv.c725004096edfd8e090e.webp",
-    "static/media/skrip.webp": "/orange-bar/static/media/skrip.d9089403b5b55c4d2f5e.webp",
     "static/media/gordons.webp": "/orange-bar/static/media/gordons.612ef8701420c3bb1642.webp",
     "static/media/aper.webp": "/orange-bar/static/media/aper.e355d5b651bc99c70445.webp",
     "static/media/hiro.webp": "/orange-bar/static/media/hiro.130ec0f95a2efc2f51c4.webp",
     "static/media/bich.webp": "/orange-bar/static/media/bich.e8be9c8440db911be3db.webp",
     "static/media/sk4.webp": "/orange-bar/static/media/sk4.a2e98b99e2303f3eac89.webp",
-    "static/media/elj.webp": "/orange-bar/static/media/elj.c8116dcac5f1912052e8.webp",
     "static/media/sau.webp": "/orange-bar/static/media/sau.2c47bd45696db41bd6a8.webp",
     "static/media/jks.webp": "/orange-bar/static/media/jks.83495eeb4b97d853a7a2.webp",
     "static/media/may.webp": "/orange-bar/static/media/may.838ffcfae329f1f84b0c.webp",
@@ -196,10 +194,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.93e59573.js.map": "/orange-bar/static/js/main.93e59573.js.map"
+    "main.0dc3d22b.js.map": "/orange-bar/static/js/main.0dc3d22b.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.93e59573.js"
+    "static/js/main.0dc3d22b.js"
   ]
 }
