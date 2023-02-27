@@ -58,7 +58,8 @@ import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 import { Bear } from './comp/Bar/List/Bear';
-
+import TeaMirabell from './comp/Bar/Data/DataTeaMirabell';
+import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
@@ -66,7 +67,7 @@ export const App = () => {
 
   // const dataFrut = FrutMass;
   const dataBurgers = BurgerMass;
-  const dataAssorti = AssortiMass
+  const dataAssorti = AssortiMass;
   const dataSalads = SaladsMass;
   const dataHot = HotMass;
   const dataFirst = FirstMass;
@@ -94,6 +95,8 @@ export const App = () => {
   const dataBear = BearMass;
   const dataCoffe = CoffeMass;
   const dataTea = TeaMass;
+  const dataTeaMirabell = TeaMirabell;
+  const dataTeaNatural = TeaNatural
   const dataDrink = DrinkMass;
   const dataEnergy = EnergyMass;
   const dataAdd = AddMass;
@@ -115,51 +118,50 @@ export const App = () => {
   };
   const dataModalBeer = (title, price, price2, text, src) => {
     toggleModal();
-    setObjectModal({title, price, text, src});
+    setObjectModal({ title, price, text, src });
   };
   const toggleModal = () => {
     setShowModal(showModal => !showModal);
   };
   return (
     <>
-    <LazyLoad>
-      <div className={s.upper}>
-        <header className={s.header}>
-          <a
-            href="https://misteram.com.ua/chernigov/orangebar"
-            target="_blank"
-            rel="noreferrer"
-          >
-            {/* <img src={require('./img/am.png')} alt="" className={s.iconAm} /> */}
-            <button className={s.iconAm}>ДОСТАВКА</button>
-          </a>
-          <a href="tel:+380939179177" className={s.tel}>
-            <p className={s.telSize}>+38 093 91 79 177</p>
-          </a>
-          <a
-            href="https://instagram.com/orange.bar_club?igshid=YmMyMTA2M2Y="
-            target="_blank"
-            rel="noreferrer"
-            className={s.link}
-          >
-            <img src={require('./img/inst.png')} alt="" className={s.icon} />
-          </a>
-        </header>
-        <section className={s.main}>
-          
-          <img
-            src={require('./img/orangeLogo.png')}
-            alt=""
-            className={s.logo}
-          />
-          <Accordion allowMultiple>
-            <AccordionItem>
-              <h1>
-                <AccordionButton className={s.title}>Кухня</AccordionButton>
-              </h1>
-              <AccordionPanel>
-                <Accordion allowMultiple>
-                  {/* <AccordionItem>
+      <LazyLoad>
+        <div className={s.upper}>
+          <header className={s.header}>
+            <a
+              href="https://misteram.com.ua/chernigov/orangebar"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {/* <img src={require('./img/am.png')} alt="" className={s.iconAm} /> */}
+              <button className={s.iconAm}>ДОСТАВКА</button>
+            </a>
+            <a href="tel:+380939179177" className={s.tel}>
+              <p className={s.telSize}>+38 093 91 79 177</p>
+            </a>
+            <a
+              href="https://instagram.com/orange.bar_club?igshid=YmMyMTA2M2Y="
+              target="_blank"
+              rel="noreferrer"
+              className={s.link}
+            >
+              <img src={require('./img/inst.png')} alt="" className={s.icon} />
+            </a>
+          </header>
+          <section className={s.main}>
+            <img
+              src={require('./img/orangeLogo.png')}
+              alt=""
+              className={s.logo}
+            />
+            <Accordion allowMultiple>
+              <AccordionItem>
+                <h1>
+                  <AccordionButton className={s.title}>Кухня</AccordionButton>
+                </h1>
+                <AccordionPanel>
+                  <Accordion allowMultiple>
+                    {/* <AccordionItem>
                     <h2>
                       <AccordionButton className={s.titleItem}>
                         Фруктова нарізка
@@ -169,458 +171,481 @@ export const App = () => {
                       <Coffe data={dataFrut} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem> */}
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        колекція асорті
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataAssorti} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Салати
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataSalads} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Перші страви
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataFirst} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Гарячі закуски
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataHot} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Основне
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataMain} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Бургери
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataBurgers} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        піца
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataPizza} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Гарнір
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataGarnish} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        До пива
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataToBear} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Добавки
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <Coffe data={dataKitAdd} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        Coуси
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <Coffe data={dataSous} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          колекція асорті
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataAssorti} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Салати
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataSalads} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Перші страви
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataFirst} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Гарячі закуски
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataHot} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Основне
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataMain} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Бургери
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataBurgers} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          піца
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataPizza} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Гарнір
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataGarnish} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          До пива
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <List data={dataToBear} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Добавки
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <Coffe data={dataKitAdd} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          Coуси
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <Coffe data={dataSous} onModal={dataModal} />
+                      </AccordionPanel>
+                    </AccordionItem>
 
-                  <AccordionItem>
-                    <h2>
-                      <AccordionButton className={s.titleItem}>
-                        десерти
-                      </AccordionButton>
-                    </h2>
-                    <AccordionPanel>
-                      <List data={dataDeserts} onModal={dataModal} />
-                    </AccordionPanel>
-                  </AccordionItem>
-                </Accordion>
-                <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
-              </AccordionPanel>
-              
-            </AccordionItem>
-
-            <AccordionItem>
-              <>
-                <h1>
-                  <AccordionButton className={s.title}>Бар</AccordionButton>
-                </h1>
-                <AccordionPanel>
-                  <Accordion allowMultiple>
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
-                          Народні коктейлі
+                          десерти
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
-                        <List data={dataNarCoct} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Настоянки & Аперитиви
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataAperetiv} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Ром
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataRom} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Текіла №1 в світі
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataTekila} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Віскі & Теннессі
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataWiskey} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Коньяки & Бренді
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataCognak} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Лікери
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataLiqur} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Крижаний шот
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataShot} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Горілка
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataVodka} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Джин
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataGin} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Шампанське & Игристі вина
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataShampan} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Вина
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataVine} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Вермути
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataVermut} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Пиво
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Bear data={dataBear} onModal={dataModalBeer} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Напої
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataDrink} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Кава
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Coffe data={dataCoffe} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Чай
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataTea} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Енергетик
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataEnergy} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          Доповнення
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataAdd} onModal={dataModal} />
+                        <List data={dataDeserts} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
                   </Accordion>
-                  <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
+                  <h3 className={s.orign}>
+                    *фото можуть не відповідати оригіналу
+                  </h3>
                 </AccordionPanel>
-              </>
-            
-            </AccordionItem>
+              </AccordionItem>
 
-            <AccordionItem>
-              <>
-                <h1>
-                  <AccordionButton className={s.title}>
-                    Коктейлі
-                  </AccordionButton>
-                </h1>
-                <AccordionPanel>
-                  <Accordion allowMultiple>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          новинки від оранж бар банди
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataBanda} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          авторські коктейлі
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataAuth} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          безалкогольні коктейлі
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataNon} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          класичні коктейлі
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataClasic} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          екстрим & шоти
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <List data={dataShotDrink} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          jagermeister
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Coffe data={dataJager} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          mix drinks
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Coffe data={dataMixDrink} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          party mixes
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Coffe data={dataPartyMzix} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          холодні чаї
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Coffe data={dataColdTea} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                    <AccordionItem>
-                      <h2>
-                        <AccordionButton className={s.titleItem}>
-                          лимонади
-                        </AccordionButton>
-                      </h2>
-                      <AccordionPanel>
-                        <Coffe data={dataLemonad} onModal={dataModal} />
-                      </AccordionPanel>
-                    </AccordionItem>
-                  </Accordion>
-                  <h3 className={s.orign}>*фото можуть не відповідати оригіналу</h3>
-                </AccordionPanel>
-              </>
-              
-            </AccordionItem>
-            {showModal && (
-              <Modal objectModal={objectModal} toggleModal={toggleModal} />
-            )}
-          </Accordion>
-        </section>
-      </div>
+              <AccordionItem>
+                <>
+                  <h1>
+                    <AccordionButton className={s.title}>Бар</AccordionButton>
+                  </h1>
+                  <AccordionPanel>
+                    <Accordion allowMultiple>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Народні коктейлі
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataNarCoct} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Настоянки & Аперитиви
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataAperetiv} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Ром
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataRom} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Текіла №1 в світі
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataTekila} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Віскі & Теннессі
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataWiskey} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Коньяки & Бренді
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataCognak} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Лікери
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataLiqur} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Крижаний шот
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataShot} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Горілка
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataVodka} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Джин
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataGin} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Шампанське & Игристі вина
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataShampan} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Вина
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataVine} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Вермути
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataVermut} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Пиво
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Bear data={dataBear} onModal={dataModalBeer} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Напої
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataDrink} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Кава
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataCoffe} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Розсипні чаї
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataTea} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Натуральні чаї Maribell
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataTeaMirabell} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Натуральні чаї
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataTeaNatural} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Енергетик
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataEnergy} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Доповнення
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataAdd} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                    </Accordion>
+                    <h3 className={s.orign}>
+                      *фото можуть не відповідати оригіналу
+                    </h3>
+                  </AccordionPanel>
+                </>
+              </AccordionItem>
+
+              <AccordionItem>
+                <>
+                  <h1>
+                    <AccordionButton className={s.title}>
+                      Коктейлі
+                    </AccordionButton>
+                  </h1>
+                  <AccordionPanel>
+                    <Accordion allowMultiple>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            новинки від оранж бар банди
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataBanda} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            авторські коктейлі
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataAuth} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            безалкогольні коктейлі
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataNon} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            класичні коктейлі
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataClasic} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            екстрим & шоти
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataShotDrink} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            jagermeister
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataJager} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            mix drinks
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataMixDrink} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            party mixes
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataPartyMzix} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            холодні чаї
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataColdTea} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            лимонади
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataLemonad} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                    </Accordion>
+                    <h3 className={s.orign}>
+                      *фото можуть не відповідати оригіналу
+                    </h3>
+                  </AccordionPanel>
+                </>
+              </AccordionItem>
+              {showModal && (
+                <Modal objectModal={objectModal} toggleModal={toggleModal} />
+              )}
+            </Accordion>
+          </section>
+        </div>
       </LazyLoad>
     </>
   );
