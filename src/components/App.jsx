@@ -96,7 +96,7 @@ export const App = () => {
   const dataCoffe = CoffeMass;
   const dataTea = TeaMass;
   const dataTeaMirabell = TeaMirabell;
-  const dataTeaNatural = TeaNatural
+  const dataTeaNatural = TeaNatural;
   const dataDrink = DrinkMass;
   const dataEnergy = EnergyMass;
   const dataAdd = AddMass;
@@ -264,7 +264,7 @@ export const App = () => {
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
-                          Добавки
+                          Доповнення
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>

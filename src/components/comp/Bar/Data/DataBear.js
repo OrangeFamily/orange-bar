@@ -23,13 +23,13 @@ const BearMass=[
         src: require('../img/stelakeg.png'),
         text:"",
     },
-    {
-        id:4,
-        title:"Dunkel темне (Україна) кегове",
-        price:"0,5л - 69 грн",
-        src: require('../img/dunkel.webp'),
-        text:"",
-    },
+    // {
+    //     id:4,
+    //     title:"Dunkel темне (Україна) кегове",
+    //     price:"0,5л - 69 грн",
+    //     src: require('../img/dunkel.webp'),
+    //     text:"",
+    // },
     // {
     //     id:5,
     //     title:"Carlsberg (Данія) кегове",
