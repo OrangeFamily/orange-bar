@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.0068ec40.js",
+    "main.js": "/orange-bar/static/js/main.91a361a6.js",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
@@ -194,7 +194,6 @@
     "static/media/mush.webp": "/orange-bar/static/media/mush.a88d2c0485da5fac12ad.webp",
     "static/media/corona.webp": "/orange-bar/static/media/corona.06e33848279998f2a963.webp",
     "static/media/cherry.webp": "/orange-bar/static/media/cherry.241a9b00bba9d5ca6846.webp",
-    "static/media/dunkel.webp": "/orange-bar/static/media/dunkel.4adb42a065f0b8a04b35.webp",
     "static/media/absolut.webp": "/orange-bar/static/media/absolut.aa63f5426bab17510fce.webp",
     "static/media/bels.webp": "/orange-bar/static/media/bels.c27bf2c1b3f0bde18645.webp",
     "static/media/kmd.webp": "/orange-bar/static/media/kmd.fa12c669b91ca144fe13.webp",
@@ -214,10 +213,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.0068ec40.js.map": "/orange-bar/static/js/main.0068ec40.js.map"
+    "main.91a361a6.js.map": "/orange-bar/static/js/main.91a361a6.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.0068ec40.js"
+    "static/js/main.91a361a6.js"
   ]
 }
