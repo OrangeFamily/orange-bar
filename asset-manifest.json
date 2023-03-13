@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.4a257931.js",
+    "main.js": "/orange-bar/static/js/main.96e71756.js",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
@@ -23,6 +23,7 @@
     "static/media/persha.png": "/orange-bar/static/media/persha.af96eb9c832cb34aa081.png",
     "static/media/legenda.png": "/orange-bar/static/media/legenda.3f20a25e441e36566a3d.png",
     "static/media/beloe.png": "/orange-bar/static/media/beloe.d324c90c58c31a7606c8.png",
+    "static/media/mangor.png": "/orange-bar/static/media/mangor.ca1568c842a524d4d3f4.png",
     "static/media/geovaleybel.png": "/orange-bar/static/media/geovaleybel.f7efec97efc40b25eb3e.png",
     "static/media/donbel.png": "/orange-bar/static/media/donbel.9b831a034c8320d62279.png",
     "static/media/sensipino.png": "/orange-bar/static/media/sensipino.871af1e64cdbee94acd1.png",
@@ -206,10 +207,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.4a257931.js.map": "/orange-bar/static/js/main.4a257931.js.map"
+    "main.96e71756.js.map": "/orange-bar/static/js/main.96e71756.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.4a257931.js"
+    "static/js/main.96e71756.js"
   ]
 }
