@@ -469,11 +469,11 @@ export const App = () => {
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
-                            Розсипні чаї
+                            Натуральні чаї
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <List data={dataTea} onModal={dataModal} />
+                          <List data={dataTeaNatural} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
@@ -489,11 +489,11 @@ export const App = () => {
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
-                            Натуральні чаї
+                            Розсипні чаї
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <List data={dataTeaNatural} onModal={dataModal} />
+                          <List data={dataTea} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
