@@ -71,7 +71,7 @@ const CoffeMass=[
     },
     {
         id:11,
-        title:"Кокосовий 0,350л",
+        title:"Кокосова кава 0,350л",
         price:"69 грн",
         src: require('../img/cof.webp'),
         text:"",
