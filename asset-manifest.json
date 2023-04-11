@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.2a0700f8.js",
+    "main.js": "/orange-bar/static/js/main.3d7a0bec.js",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
@@ -25,6 +25,7 @@
     "static/media/beloe.png": "/orange-bar/static/media/beloe.d324c90c58c31a7606c8.png",
     "static/media/mangor.png": "/orange-bar/static/media/mangor.ca1568c842a524d4d3f4.png",
     "static/media/whitedon.png": "/orange-bar/static/media/whitedon.86cf4be632070103c2a6.png",
+    "static/media/stelababut.png": "/orange-bar/static/media/stelababut.a902487f1901403f23e2.png",
     "static/media/donbel.png": "/orange-bar/static/media/donbel.9b831a034c8320d62279.png",
     "static/media/reddon.png": "/orange-bar/static/media/reddon.404b235f27cba0120786.png",
     "static/media/sensipino.png": "/orange-bar/static/media/sensipino.871af1e64cdbee94acd1.png",
@@ -189,7 +190,6 @@
     "static/media/tonic.webp": "/orange-bar/static/media/tonic.e95d8cc993129bc206fa.webp",
     "static/media/aperol.webp": "/orange-bar/static/media/aperol.853faa0bc6dd3146cded.webp",
     "static/media/kmg.webp": "/orange-bar/static/media/kmg.6751f2dd027595ff4c07.webp",
-    "static/media/carlnon.webp": "/orange-bar/static/media/carlnon.df5a9fa79afc137f6352.webp",
     "static/media/xenta.webp": "/orange-bar/static/media/xenta.f1abe57ca562584903fc.webp",
     "static/media/1.webp": "/orange-bar/static/media/1.40539eee89666303d5ec.webp",
     "static/media/123123.webp": "/orange-bar/static/media/123123.40539eee89666303d5ec.webp",
@@ -200,10 +200,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.2a0700f8.js.map": "/orange-bar/static/js/main.2a0700f8.js.map"
+    "main.3d7a0bec.js.map": "/orange-bar/static/js/main.3d7a0bec.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.2a0700f8.js"
+    "static/js/main.3d7a0bec.js"
   ]
 }
