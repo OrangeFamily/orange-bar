@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.66bc8fe9.js",
+    "main.js": "/orange-bar/static/js/main.62ad75f6.js",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
@@ -100,7 +100,6 @@
     "static/media/fea.webp": "/orange-bar/static/media/fea.2519a5e7a05f53319e34.webp",
     "static/media/spokusa.webp": "/orange-bar/static/media/spokusa.1bfdd6b7d7c1382bc33e.webp",
     "static/media/krevetki-kalmar.webp": "/orange-bar/static/media/krevetki-kalmar.3d47b433bca04558d6fe.webp",
-    "static/media/co.webp": "/orange-bar/static/media/co.a0486777fb2625f656b3.webp",
     "static/media/che.webp": "/orange-bar/static/media/che.bc32ead681e0cda71f81.webp",
     "static/media/kosmo.webp": "/orange-bar/static/media/kosmo.b2581f46b8dc4662686c.webp",
     "static/media/chiken-mush.webp": "/orange-bar/static/media/chiken-mush.ae3a76c05dd7c3eb5af1.webp",
@@ -200,10 +199,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.66bc8fe9.js.map": "/orange-bar/static/js/main.66bc8fe9.js.map"
+    "main.62ad75f6.js.map": "/orange-bar/static/js/main.62ad75f6.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.66bc8fe9.js"
+    "static/js/main.62ad75f6.js"
   ]
 }
