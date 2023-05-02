@@ -9,12 +9,20 @@ const BearMass=[
     },
     {
         id:2,
-        title:"Хмелевус вайс (Україна) кегове",
+        title:"Повна діжка (Україна) кегове",
         price:"0,5л - 65 грн",
         price2:"0,33л - 50 грн",
-        src: require('../img/hmelevus.png'),
+        src: require('../img/dizhka.png'),
         text:"",
     },
+    // {
+    //     id:2,
+    //     title:"Хмелевус вайс (Україна) кегове",
+    //     price:"0,5л - 65 грн",
+    //     price2:"0,33л - 50 грн",
+    //     src: require('../img/hmelevus.png'),
+    //     text:"",
+    // },
     {
         id:3,
         title:"Стелла артуа (Бельгія) кегове",
