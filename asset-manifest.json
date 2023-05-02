@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.62ad75f6.js",
+    "main.js": "/orange-bar/static/js/main.fa91e557.js",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
     "static/media/smirnoff.png": "/orange-bar/static/media/smirnoff.fc1298dc3be346ba2d4a.png",
+    "static/media/fayniyjin.png": "/orange-bar/static/media/fayniyjin.93f8c5d020fed7d6a030.png",
     "static/media/stellagb.png": "/orange-bar/static/media/stellagb.0167ef0c9537f44ba0ad.png",
     "static/media/kmgbs.png": "/orange-bar/static/media/kmgbs.cfc64613fce0c36c7a90.png",
     "static/media/JaranaR.png": "/orange-bar/static/media/JaranaR.6379a6380a15c02be276.png",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
+    "static/media/pekelnamala.png": "/orange-bar/static/media/pekelnamala.f6af920723a78be387fc.png",
     "static/media/bulit.png": "/orange-bar/static/media/bulit.78bad35d53945cbaea15.png",
     "static/media/Tanqueray.png": "/orange-bar/static/media/Tanqueray.26d465186a9680c4f03d.png",
     "static/media/henessi.png": "/orange-bar/static/media/henessi.79933514bd6c60ae4c5c.png",
@@ -199,10 +201,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.62ad75f6.js.map": "/orange-bar/static/js/main.62ad75f6.js.map"
+    "main.fa91e557.js.map": "/orange-bar/static/js/main.fa91e557.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.62ad75f6.js"
+    "static/js/main.fa91e557.js"
   ]
 }
