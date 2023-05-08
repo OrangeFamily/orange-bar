@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.91d6dbe2.js",
+    "main.js": "/orange-bar/static/js/main.bc6133c6.js",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
@@ -62,7 +62,6 @@
     "static/media/kre.webp": "/orange-bar/static/media/kre.0dc98a7fa4e71a1fb60b.webp",
     "static/media/fruttar.webp": "/orange-bar/static/media/fruttar.035e7708e85f2908fc0f.webp",
     "static/media/steykkrevetki.webp": "/orange-bar/static/media/steykkrevetki.b2c50998403dc99a7462.webp",
-    "static/media/glin.webp": "/orange-bar/static/media/glin.1cc0e2d2cf5d7ca1d902.webp",
     "static/media/cof.webp": "/orange-bar/static/media/cof.366a86478220e0ab3555.webp",
     "static/media/icee.webp": "/orange-bar/static/media/icee.b32b704a3905575df6aa.webp",
     "static/media/skovorspar.webp": "/orange-bar/static/media/skovorspar.3191af9672dd708a96b8.webp",
@@ -202,10 +201,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.91d6dbe2.js.map": "/orange-bar/static/js/main.91d6dbe2.js.map"
+    "main.bc6133c6.js.map": "/orange-bar/static/js/main.bc6133c6.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.91d6dbe2.js"
+    "static/js/main.bc6133c6.js"
   ]
 }
