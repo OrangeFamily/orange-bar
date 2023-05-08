@@ -174,13 +174,13 @@ const ClasicMass=[
         src: require('../img/belbar.webp'),
         text:"горілка, н/к «Coffee», лікер кавовий, сироп ванільний, вершки",
     },
-    {
-        id:26,
-        title:"Глінтвейн 250мл",
-        price:"89 грн",
-        src: require('../img/glin.webp'),
-        text:"вино, сік яблучний, ром, мед, апельсин, кориця",
-    },
+    // {
+    //     id:26,
+    //     title:"Глінтвейн 250мл",
+    //     price:"89 грн",
+    //     src: require('../img/glin.webp'),
+    //     text:"вино, сік яблучний, ром, мед, апельсин, кориця",
+    // },
 ]
 
 export default ClasicMass;
