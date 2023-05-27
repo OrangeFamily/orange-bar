@@ -2,7 +2,7 @@ const AssortiMass=[
     {
         id:1,
         title:"м'ясна тарілка 200г",
-        price:"185 грн",
+        price:"255 грн",
         src: require('../img/meattarelka.webp'),
         text:"Шинка, Ковбаса СК, бастурма, хамон",
     },
