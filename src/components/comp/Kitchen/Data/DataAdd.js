@@ -41,6 +41,7 @@ const AdditivesMass=[
         src:require('../img/123123.webp'),
         text:"",
     },
+    
 ]
 
 export default AdditivesMass;
