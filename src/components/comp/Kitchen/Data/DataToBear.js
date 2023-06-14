@@ -47,7 +47,7 @@ const ToBearMass=[
         id:19,
         title:"хамон 50г",
         price:"89 грн",
-        src:require('../img/123123.webp'),
+        src:require('../img/hamon.png'),
         text:"",
     },
     {
