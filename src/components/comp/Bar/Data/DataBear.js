@@ -7,6 +7,14 @@ const BearMass = [
     src: require('../img/beloe.png'),
     text: '',
   },
+  {
+    id: 2,
+    title: 'Чернігівське Біла Ніч (Україна) кегове',
+    price: '0,5л - 65 грн',
+    price2: '0,33л - 50 грн',
+    src: require('../img/bilanich.png'),
+    text: '',
+  },
   // {
   //     id:2,
   //     title:"Повна діжка (Україна) кегове",
