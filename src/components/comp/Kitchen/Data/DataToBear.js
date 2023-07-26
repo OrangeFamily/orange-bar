@@ -60,14 +60,14 @@ const ToBearMass=[
     {
         id:2,
         title:"Фірмові нагетси 150г/50г",
-        price:"99 грн",
+        price:"110 грн",
         src: require('../img/naget.webp'),
         text:"куряче філе в паніровці, медово - гірчичний соус",
     },
     {
         id:3,
         title:"Печериці фрі 180г/50г",
-        price:"89 грн",
+        price:"95 грн",
         src: require('../img/mush.webp'),
         text:"печериці в паніровці, тар-тар",
     },
@@ -95,7 +95,7 @@ const ToBearMass=[
     {
         id:7,
         title:"Мисливські ковбаски 150г",
-        price:"85 грн",
+        price:"89 грн",
         src: require('../img/soeg.webp'),
         text:"ковбаски, зелень",
     },
@@ -130,24 +130,3 @@ const ToBearMass=[
 ]
 
 export default ToBearMass;
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-	
-
-
-
-
-
