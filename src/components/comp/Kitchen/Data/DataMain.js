@@ -4,7 +4,7 @@ const MainMass=[
         title:"Ребра BBQ 350г/50г",
         price:"199 грн",
         src:require('../img/bbq.png'),
-        text:"Свинні ребра, соус BBQ, смажена цибуля",
+        text:"Свинні ребра, соус BBQ, перець чілі",
     },
     {
         id:15,
