@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.0865f27f.css",
-    "main.js": "/orange-bar/static/js/main.cc233efe.js",
+    "main.js": "/orange-bar/static/js/main.272635d4.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
     "static/media/hamonmacarella.png": "/orange-bar/static/media/hamonmacarella.1e36f8f8695d642fb01d.png",
     "static/media/sirgrusha.png": "/orange-bar/static/media/sirgrusha.fa63965e29fdf0ddea11.png",
+    "static/media/munhenkovb.png": "/orange-bar/static/media/munhenkovb.0566f4ecbb0383021e12.png",
     "static/media/okroshka.png": "/orange-bar/static/media/okroshka.ca6e62115f42cb48ab18.png",
     "static/media/sirnayapasta.png": "/orange-bar/static/media/sirnayapasta.2201648d9f2f993506b3.png",
     "static/media/vaflizfrut.png": "/orange-bar/static/media/vaflizfrut.313739ee4fdcc61fa519.png",
@@ -212,10 +213,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.0865f27f.css.map": "/orange-bar/static/css/main.0865f27f.css.map",
-    "main.cc233efe.js.map": "/orange-bar/static/js/main.cc233efe.js.map"
+    "main.272635d4.js.map": "/orange-bar/static/js/main.272635d4.js.map"
   },
   "entrypoints": [
     "static/css/main.0865f27f.css",
-    "static/js/main.cc233efe.js"
+    "static/js/main.272635d4.js"
   ]
 }
