@@ -1,16 +1,16 @@
 const AssortiMass=[
     {
         id:6,
-        title:"оливки 15г",
+        title:"оливки 80г",
         price:"39 грн",
-        
+        src: require('../img/olivki.png'),
      
     },
     {
         id:7,
-        title:"маслини 15г",
+        title:"маслини 80г",
         price:"39 грн",
-        
+        src: require('../img/maslini.png'),
         
     },
     {
