@@ -73,7 +73,7 @@ const ToBearMass=[
     },
     {
         id:3,
-        title:"Печериці фрі 280г/50г",
+        title:"Печериці фрі 180г/50г",
         price:"95 грн",
         src: require('../img/mush.webp'),
         text:"печериці в паніровці, тар-тар",
