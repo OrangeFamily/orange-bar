@@ -628,7 +628,7 @@ export const App = () => {
                           <Coffe data={dataPartyMzix} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
-                      <AccordionItem>
+                      {/* <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             холодні чаї
@@ -637,7 +637,7 @@ export const App = () => {
                         <AccordionPanel>
                           <Coffe data={dataColdTea} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
+                      </AccordionItem> */}
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
