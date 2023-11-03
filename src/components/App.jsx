@@ -50,7 +50,7 @@ import { Coffe } from './comp/Bar/List/Coffe';
 import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
-import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
+// import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
 import JagerMass from './comp/Cocotail/Data/DataJager';
 import LemonadMass from './comp/Cocotail/Data/DataLemonad';
 import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
@@ -106,7 +106,7 @@ export const App = () => {
   const dataAuth = AuthMass;
   const dataBanda = BandaMass;
   const dataClasic = ClasicMass;
-  const dataColdTea = ColdTeaMass;
+  // const dataColdTea = ColdTeaMass;
   const dataJager = JagerMass;
   const dataLemonad = LemonadMass;
   const dataMixDrink = MixDrinkMass;
