@@ -60,6 +60,8 @@ import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 import { Bear } from './comp/Bar/List/Bear';
 import TeaMirabell from './comp/Bar/Data/DataTeaMirabell';
 import TeaNatural from './comp/Bar/Data/DataTeaNatural';
+import eger from './img/norm.jpg'
+// import egerakc from './img/akc.jpg'
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
@@ -171,6 +173,8 @@ export const App = () => {
                       <Coffe data={dataFrut} onModal={dataModal} />
                     </AccordionPanel>
                   </AccordionItem> */}
+                  
+                    
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
@@ -306,6 +310,17 @@ export const App = () => {
                   </h1>
                   <AccordionPanel>
                     <Accordion allowMultiple>
+                    <AccordionItem>
+                      <h2>
+                        <AccordionButton className={s.titleItem}>
+                          пропозиція Егермейстер
+                        </AccordionButton>
+                      </h2>
+                      <AccordionPanel>
+                        <img src={eger} alt="" className={s.imgeger}/>
+                        {/* <img src={egerakc} alt="" className={s.imgeger}/> */}
+                      </AccordionPanel>
+                    </AccordionItem>
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
