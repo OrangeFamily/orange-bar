@@ -1,18 +1,26 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.c81a1f23.css",
-    "main.js": "/orange-bar/static/js/main.707716fb.js",
+    "main.js": "/orange-bar/static/js/main.712c0bb0.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/norm.jpg": "/orange-bar/static/media/norm.618f6607c58fdbf2b0d1.jpg",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
-    "static/media/hamonmacarella.png": "/orange-bar/static/media/hamonmacarella.1e36f8f8695d642fb01d.png",
     "static/media/munhenkovb.png": "/orange-bar/static/media/munhenkovb.0566f4ecbb0383021e12.png",
+    "static/media/salatsvin.png": "/orange-bar/static/media/salatsvin.8c9b08fc3cfe0c62e174.png",
+    "static/media/pastamidii.png": "/orange-bar/static/media/pastamidii.21501253c7b72a22310d.png",
+    "static/media/pszzasvin.png": "/orange-bar/static/media/pszzasvin.0c3188145c61b4b9f615.png",
+    "static/media/skovormore.png": "/orange-bar/static/media/skovormore.f5e4566da8732e361e54.png",
+    "static/media/hamonmacarella2.png": "/orange-bar/static/media/hamonmacarella2.66772654868daf91c683.png",
     "static/media/sirnayapasta.png": "/orange-bar/static/media/sirnayapasta.2201648d9f2f993506b3.png",
     "static/media/sirgrusha.png": "/orange-bar/static/media/sirgrusha.f41e9e0927b7b6ae58ff.png",
+    "static/media/pizzamidii.png": "/orange-bar/static/media/pizzamidii.cbe79bcedf9b22673ba2.png",
+    "static/media/margaritta.png": "/orange-bar/static/media/margaritta.2645e0b203ea77fc2571.png",
     "static/media/chizcake.png": "/orange-bar/static/media/chizcake.bf008d2880bac0d454f1.png",
+    "static/media/skovorkalmar.png": "/orange-bar/static/media/skovorkalmar.7d282eb60b647d81904c.png",
     "static/media/hamon.png": "/orange-bar/static/media/hamon.75daafc29f4cfc2d3816.png",
     "static/media/mushpizza.png": "/orange-bar/static/media/mushpizza.c09b3b86aca1d505aa5b.png",
+    "static/media/skovormidii.png": "/orange-bar/static/media/skovormidii.c5d117a6be668d8bc9f6.png",
     "static/media/lukkolca.png": "/orange-bar/static/media/lukkolca.5c3e1c912df98dac08d5.png",
     "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
     "static/media/kurkot.png": "/orange-bar/static/media/kurkot.455ef42f7344f75eb29c.png",
@@ -216,10 +224,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.c81a1f23.css.map": "/orange-bar/static/css/main.c81a1f23.css.map",
-    "main.707716fb.js.map": "/orange-bar/static/js/main.707716fb.js.map"
+    "main.712c0bb0.js.map": "/orange-bar/static/js/main.712c0bb0.js.map"
   },
   "entrypoints": [
     "static/css/main.c81a1f23.css",
-    "static/js/main.707716fb.js"
+    "static/js/main.712c0bb0.js"
   ]
 }
