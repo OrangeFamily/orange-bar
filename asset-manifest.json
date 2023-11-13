@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.c81a1f23.css",
-    "main.js": "/orange-bar/static/js/main.7f26393d.js",
+    "main.js": "/orange-bar/static/js/main.b3383fdb.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/norm.jpg": "/orange-bar/static/media/norm.618f6607c58fdbf2b0d1.jpg",
@@ -22,7 +22,6 @@
     "static/media/mushpizza.png": "/orange-bar/static/media/mushpizza.c09b3b86aca1d505aa5b.png",
     "static/media/skovormidii.png": "/orange-bar/static/media/skovormidii.c5d117a6be668d8bc9f6.png",
     "static/media/lukkolca.png": "/orange-bar/static/media/lukkolca.5c3e1c912df98dac08d5.png",
-    "static/media/solVafli.png": "/orange-bar/static/media/solVafli.1a05b04d965d8d35a71d.png",
     "static/media/kurkot.png": "/orange-bar/static/media/kurkot.455ef42f7344f75eb29c.png",
     "static/media/fishandchips.png": "/orange-bar/static/media/fishandchips.dc3a79a2b7471e1e44b7.png",
     "static/media/havai.png": "/orange-bar/static/media/havai.c5b14b3335c3cae03a67.png",
@@ -224,10 +223,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.c81a1f23.css.map": "/orange-bar/static/css/main.c81a1f23.css.map",
-    "main.7f26393d.js.map": "/orange-bar/static/js/main.7f26393d.js.map"
+    "main.b3383fdb.js.map": "/orange-bar/static/js/main.b3383fdb.js.map"
   },
   "entrypoints": [
     "static/css/main.c81a1f23.css",
-    "static/js/main.7f26393d.js"
+    "static/js/main.b3383fdb.js"
   ]
 }
