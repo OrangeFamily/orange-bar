@@ -21,7 +21,7 @@ const CognakMass=[
     //     text:"50мл - 50 грн",
     // },
     {
-        id:4,
+        id:3,
         title:"Хеннессі Very Special (Франція) 0,5л",
         price:"2700 грн",
         src: require('../img/henessi.png'),

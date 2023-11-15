@@ -105,7 +105,7 @@ const MainMass=[
         text:"кальмар, перець болгарський, соєвий соус",
     },
     {
-        id:18,
+        id:19,
         title:"сковорідка з мідіями 200г",
         price:"120 грн",
         src:require('../img/skovormidii.png'),
