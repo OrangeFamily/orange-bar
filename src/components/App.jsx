@@ -313,7 +313,7 @@ export const App = () => {
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
-                          пропозиція Егермейстер
+                          пропозиція єгермайстер
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
