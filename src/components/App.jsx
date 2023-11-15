@@ -61,10 +61,13 @@ import { Bear } from './comp/Bar/List/Bear';
 import TeaMirabell from './comp/Bar/Data/DataTeaMirabell';
 import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 import eger from './img/norm.jpg'
+// import { ListAction } from './ModalAction/ListAction/ListAction';
+import { ModalAction } from './ModalAction/ModalAction';
 // import egerakc from './img/akc.jpg'
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
+  const [showModalAction, setShowModalAction] = useState(true);
   const [objectModal, setObjectModal] = useState({});
 
   // const dataFrut = FrutMass;
@@ -125,8 +128,19 @@ export const App = () => {
   const toggleModal = () => {
     setShowModal(showModal => !showModal);
   };
+
+  // const dataModalAction = () => {
+  //   toggleModalAction();
+  //   setObjectModal()
+  // };
+  const toggleModalAction = () => {
+    setShowModalAction(showModalAction => !showModalAction);
+  };
+ 
   return (
+    
     <>
+    {/* <ListAction data={eger} onModal={dataModalAction}/> */}
       <LazyLoad>
         <div className={s.upper}>
           <header className={s.header}>
@@ -657,6 +671,9 @@ export const App = () => {
               </AccordionItem>
               {showModal && (
                 <Modal objectModal={objectModal} toggleModal={toggleModal} />
+              )}
+              {showModalAction && (
+                <ModalAction objectModal={eger} toggleModal={toggleModalAction}/>
               )}
             </Accordion>
           </section>
