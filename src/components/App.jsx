@@ -60,10 +60,10 @@ import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 import { Bear } from './comp/Bar/List/Bear';
 import TeaMirabell from './comp/Bar/Data/DataTeaMirabell';
 import TeaNatural from './comp/Bar/Data/DataTeaNatural';
-import eger from './img/norm.jpg'
+// import eger from './img/norm.jpg'
 // import { ListAction } from './ModalAction/ListAction/ListAction';
 import { ModalAction } from './ModalAction/ModalAction';
-// import egerakc from './img/akc.jpg'
+import egerakc from './img/akc.jpg'
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
@@ -673,7 +673,7 @@ export const App = () => {
                 <Modal objectModal={objectModal} toggleModal={toggleModal} />
               )}
               {showModalAction && (
-                <ModalAction objectModal={eger} toggleModal={toggleModalAction}/>
+                <ModalAction objectModal={egerakc} toggleModal={toggleModalAction}/>
               )}
             </Accordion>
           </section>
