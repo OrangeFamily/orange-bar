@@ -23,6 +23,7 @@ export const ModalAction = ({
       <div className={s.modal}>
         <h2>Акція від Єгермайстер</h2>
         <img src={objectModal} alt="" />
+        <h3>всі кошти с продажу цих позицій в цей день підуть до благодійного фонду<h3>
       </div>
     </div>
   );
