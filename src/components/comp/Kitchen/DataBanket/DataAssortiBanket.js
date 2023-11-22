@@ -31,7 +31,7 @@ const AssortiMassBanket=[
     },
     {
         id:12,
-        title:"солене асорті 500г",
+        title:"Соління асорті 500г",
         price:"170 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"помідор, огірок, капуста",
