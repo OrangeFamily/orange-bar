@@ -62,12 +62,12 @@ import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 import { Bear } from './comp/Bar/List/Bear';
 import TeaMirabell from './comp/Bar/Data/DataTeaMirabell';
 import TeaNatural from './comp/Bar/Data/DataTeaNatural';
-// import eger from './img/norm.jpg'
+import eger from './img/norm.jpg'
 // import { ListAction } from './ModalAction/ListAction/ListAction';
 import { ModalAction } from './ModalAction/ModalAction';
 import AssortiMassBanket from './comp/Kitchen/DataBanket/DataAssortiBanket';
 import HotMassBanket from './comp/Kitchen/DataBanket/DataHotBanket';
-import egerakc from './img/akc.jpg'
+// import egerakc from './img/akc.jpg'
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
@@ -334,8 +334,8 @@ export const App = () => {
                         </AccordionButton>
                       </h2>
                       <AccordionPanel>
-                        {/* <img src={eger} alt="" className={s.imgeger}/> */}
-                        <img src={egerakc} alt="" className={s.imgeger}/>
+                        <img src={eger} alt="" className={s.imgeger}/>
+                        {/* <img src={egerakc} alt="" className={s.imgeger}/> */}
                       </AccordionPanel>
                     </AccordionItem>
                       <AccordionItem>
@@ -1183,7 +1183,7 @@ export const App = () => {
                 <Modal objectModal={objectModal} toggleModal={toggleModal} />
               )}
               {showModalAction && (
-                <ModalAction objectModal={egerakc} toggleModal={toggleModalAction}/>
+                <ModalAction objectModal={eger} toggleModal={toggleModalAction}/>
               )}
             </Accordion>
           </section>
