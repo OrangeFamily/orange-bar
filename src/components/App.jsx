@@ -62,16 +62,16 @@ import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
 import { Bear } from './comp/Bar/List/Bear';
 import TeaMirabell from './comp/Bar/Data/DataTeaMirabell';
 import TeaNatural from './comp/Bar/Data/DataTeaNatural';
-import eger from './img/norm.jpg'
+// import eger from './img/norm.jpg'
 // import { ListAction } from './ModalAction/ListAction/ListAction';
-import { ModalAction } from './ModalAction/ModalAction';
+// import { ModalAction } from './ModalAction/ModalAction';
 import AssortiMassBanket from './comp/Kitchen/DataBanket/DataAssortiBanket';
 import HotMassBanket from './comp/Kitchen/DataBanket/DataHotBanket';
 // import egerakc from './img/akc.jpg'
 
 export const App = () => {
   const [showModal, setShowModal] = useState(false);
-  const [showModalAction, setShowModalAction] = useState(true);
+  // const [showModalAction, setShowModalAction] = useState(true);
   const [objectModal, setObjectModal] = useState({});
 
   // const dataFrut = FrutMass;
@@ -136,9 +136,9 @@ export const App = () => {
   };
 
 
-  const toggleModalAction = () => {
-    setShowModalAction(showModalAction => !showModalAction);
-  };
+  // const toggleModalAction = () => {
+  //   setShowModalAction(showModalAction => !showModalAction);
+  // };
  
   return (
     
@@ -327,7 +327,7 @@ export const App = () => {
                   </h1>
                   <AccordionPanel>
                     <Accordion allowMultiple>
-                    <AccordionItem>
+                    {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           пропозиція єгермайстер
@@ -335,9 +335,9 @@ export const App = () => {
                       </h2>
                       <AccordionPanel>
                         <img src={eger} alt="" className={s.imgeger}/>
-                        {/* <img src={egerakc} alt="" className={s.imgeger}/> */}
+                        <img src={egerakc} alt="" className={s.imgeger}/>
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem> */}
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
@@ -1182,9 +1182,9 @@ export const App = () => {
               {showModal && (
                 <Modal objectModal={objectModal} toggleModal={toggleModal} />
               )}
-              {showModalAction && (
+              {/* {showModalAction && (
                 <ModalAction objectModal={eger} toggleModal={toggleModalAction}/>
-              )}
+              )} */}
             </Accordion>
           </section>
         </div>
