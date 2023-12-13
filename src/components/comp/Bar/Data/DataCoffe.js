@@ -97,6 +97,13 @@ const CoffeMass=[
         src: require('../img/cof.webp'),
         text:"",
     },
+    {
+        id:13,
+        title:"Какао з маршмелоу 0,250л",
+        price:"49 грн",
+        src: require('../img/cof.webp'),
+        text:"",
+    },
     
     
 ]
