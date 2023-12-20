@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.c81a1f23.css",
-    "main.js": "/orange-bar/static/js/main.cc741c5a.js",
+    "main.js": "/orange-bar/static/js/main.d24b87de.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
@@ -55,6 +55,7 @@
     "static/media/whitedon.png": "/orange-bar/static/media/whitedon.86cf4be632070103c2a6.png",
     "static/media/donbel.png": "/orange-bar/static/media/donbel.9b831a034c8320d62279.png",
     "static/media/reddon.png": "/orange-bar/static/media/reddon.404b235f27cba0120786.png",
+    "static/media/moet.png": "/orange-bar/static/media/moet.d98c571b408e116a6b66.png",
     "static/media/sensipino.png": "/orange-bar/static/media/sensipino.871af1e64cdbee94acd1.png",
     "static/media/metaxa.png": "/orange-bar/static/media/metaxa.e8c34570c0213f5a0b9e.png",
     "static/media/donkr.png": "/orange-bar/static/media/donkr.5fac167059f1b81c9303.png",
@@ -223,10 +224,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.c81a1f23.css.map": "/orange-bar/static/css/main.c81a1f23.css.map",
-    "main.cc741c5a.js.map": "/orange-bar/static/js/main.cc741c5a.js.map"
+    "main.d24b87de.js.map": "/orange-bar/static/js/main.d24b87de.js.map"
   },
   "entrypoints": [
     "static/css/main.c81a1f23.css",
-    "static/js/main.cc741c5a.js"
+    "static/js/main.d24b87de.js"
   ]
 }
