@@ -12,6 +12,11 @@ import { Modal } from './Modal/Modal';
 import s from './App.module.scss';
 
 import { List } from './comp/List/List';
+import first from './img/1.PNG'
+import second from './img/2.JPG'
+import third from './img/3.JPG'
+import fourth from './img/4.jpg'
+import fifth from './img/5.JPG'
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
@@ -174,6 +179,26 @@ export const App = () => {
               className={s.logo}
             />
             <Accordion allowMultiple>
+
+
+            <AccordionItem>
+                <h1>
+                  <AccordionButton className={s.titleAction}>Акції</AccordionButton>
+                </h1>
+                <AccordionPanel>
+                  <Accordion allowMultiple>
+                    
+                  <img src={first} alt="" className={s.fctionPhoto}/>
+                  <img src={second} alt="" className={s.fctionPhoto}/>
+                  <img src={third} alt="" className={s.fctionPhoto}/>
+                  <img src={fourth} alt="" className={s.fctionPhoto}/>
+                  <img src={fifth} alt="" className={s.fctionPhoto}/>
+                  </Accordion>
+                </AccordionPanel>
+              </AccordionItem>
+
+
+
               <AccordionItem>
                 <h1>
                   <AccordionButton className={s.title}>Кухня</AccordionButton>

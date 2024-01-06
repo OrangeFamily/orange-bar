@@ -180,6 +180,26 @@ li {
   }
 }
 
+.titleAction {
+  // border-bottom: 5px solid #f47424;
+  border-bottom: none;
+  font-family: centuryGotic;
+  text-transform: uppercase;
+  font-size: 40px;
+  font-weight: 800;
+  justify-content: center;
+  cursor: pointer;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 25px;
+  color: white;
+  background-color: #f47424;
+  @media (min-width: 320px) and (max-width: 480px) {
+    font-size: 30px;
+  }
+}
+
 .titleItem {
   font-family: centuryGotic;
   font-size: 30px;
@@ -208,3 +228,7 @@ li {
 //   border-radius: 25px;
 //   background-color: #80614f;
 // }
+
+.fctionPhoto{
+  width: 350px;
+}
