@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.24294654.css",
-    "main.js": "/orange-bar/static/js/main.a2a8e148.js",
+    "main.js": "/orange-bar/static/js/main.f397993b.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -44,6 +44,7 @@
     "static/media/bulit.png": "/orange-bar/static/media/bulit.78bad35d53945cbaea15.png",
     "static/media/maslini.png": "/orange-bar/static/media/maslini.f400606d5ed5532aa671.png",
     "static/media/Tanqueray.png": "/orange-bar/static/media/Tanqueray.26d465186a9680c4f03d.png",
+    "static/media/chernsvitle.png": "/orange-bar/static/media/chernsvitle.26e51335db037649e9a4.png",
     "static/media/henessi.png": "/orange-bar/static/media/henessi.79933514bd6c60ae4c5c.png",
     "static/media/kosk.png": "/orange-bar/static/media/kosk.18fcbbfd3433dd3ab673.png",
     "static/media/JaranaB.png": "/orange-bar/static/media/JaranaB.7e7e873f70bee6fc593e.png",
@@ -232,10 +233,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.24294654.css.map": "/orange-bar/static/css/main.24294654.css.map",
-    "main.a2a8e148.js.map": "/orange-bar/static/js/main.a2a8e148.js.map"
+    "main.f397993b.js.map": "/orange-bar/static/js/main.f397993b.js.map"
   },
   "entrypoints": [
     "static/css/main.24294654.css",
-    "static/js/main.a2a8e148.js"
+    "static/js/main.f397993b.js"
   ]
 }
