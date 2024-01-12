@@ -1,6 +1,14 @@
 const BearMass = [
   {
     id: 1,
+    title: 'Чернігівське Світле (Україна) кегове',
+    price: '0,5л - 69 грн',
+    price2: '0,33л - 55 грн',
+    src: require('../img/bilanich.png'),
+    text: '',
+  },
+  {
+    id: 2,
     title: 'Чернігівське Біле (Україна) кегове',
     price: '0,5л - 69 грн',
     price2: '0,33л - 55 грн',
@@ -8,7 +16,7 @@ const BearMass = [
     text: '',
   },
   {
-    id: 2,
+    id: 3,
     title: 'Чернігівське Біла Ніч (Україна) кегове',
     price: '0,5л - 69 грн',
     price2: '0,33л - 55 грн',
@@ -16,7 +24,7 @@ const BearMass = [
     text: '',
   },
   // {
-  //     id:2,
+  //     id:4,
   //     title:"Повна діжка (Україна) кегове",
   //     price:"0,5л - 65 грн",
   //     price2:"0,33л - 50 грн",
@@ -24,7 +32,7 @@ const BearMass = [
   //     text:"",
   // },
   // {
-  //     id:2,
+  //     id:5,
   //     title:"Хмелевус вайс (Україна) кегове",
   //     price:"0,5л - 65 грн",
   //     price2:"0,33л - 50 грн",
@@ -32,7 +40,7 @@ const BearMass = [
   //     text:"",
   // },
   {
-    id: 3,
+    id: 6,
     title: 'Стелла артуа (Бельгія) кегове',
     price: '0,5л - 75 грн',
     price2: '0,33л - 60 грн',
@@ -40,7 +48,7 @@ const BearMass = [
     text: '',
   },
   //{
-    //id: 4,
+    //id: 7,
     //title: 'Dunkel темне (Україна) кегове',
     //price: '0,5л - 65 грн',
     //price2: '0,33л - 50 грн',
@@ -48,7 +56,7 @@ const BearMass = [
     //text: '',
   //},
   // {
-  //     id:5,
+  //     id:8,
   //     title:"Carlsberg (Данія) кегове",
   //     price:"0,5л - 69 грн",
   //     price2:"0,33л - 55 грн",
@@ -56,28 +64,28 @@ const BearMass = [
   //     text:"",
   // },
   {
-    id: 6,
+    id: 9,
     title: 'Corona Extra (Mexico) пляшкове 0,355',
     price: '120 грн',
     src: require('../img/corona.webp'),
     text: '',
   },
   // {
-  //     id:7,
+  //     id:10,
   //     title:"Carlsberg (Данія)(Б/А) пляшкове 0,5л",
   //     price:"69 грн",
   //     src: require('../img/carlnon.webp'),
   //     text:"",
   // },
   {
-    id: 8,
+    id: 11,
     title: 'Hoegaarden (Бельгія) пляшкове 0,33',
     price: '120 грн',
     src: require('../img/hoegarden.webp'),
     text: '',
   },
   {
-    id: 9,
+    id: 12,
     title: 'Стелла артуа (Бельгія)(Б/А) пляшкове 0,33',
     price: '59 грн',
     src: require('../img/stellagb.png'),
