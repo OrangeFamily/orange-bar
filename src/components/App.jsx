@@ -18,6 +18,13 @@ import third from './img/3.JPG'
 import fourth from './img/4.jpg'
 import fifth from './img/5.JPG'
 
+import pn from './img/pn.jpg'
+import vt from './img/vt.jpg'
+import sr from './img/sr.jpg'
+import cht from './img/cht.jpg'
+import ned from './img/ned.jpg'
+
+
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
 import AssortiMass from './comp/Kitchen/Data/DataAssorti';
@@ -187,6 +194,11 @@ export const App = () => {
                 </h1>
                 <AccordionPanel>
                   <Accordion allowMultiple>
+                  <img src={pn} alt="" className={s.fctionPhoto}/>
+                  <img src={vt} alt="" className={s.fctionPhoto}/>
+                  <img src={sr} alt="" className={s.fctionPhoto}/>
+                  <img src={cht} alt="" className={s.fctionPhoto}/>
+                  <img src={ned} alt="" className={s.fctionPhoto}/>
                     
                   <img src={first} alt="" className={s.fctionPhoto}/>
                   <img src={second} alt="" className={s.fctionPhoto}/>
