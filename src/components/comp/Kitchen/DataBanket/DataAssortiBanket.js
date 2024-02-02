@@ -2,21 +2,21 @@ const AssortiMassBanket=[
     {
         id:8,
         title:"оселедець з цибулею 100г/40г",
-        price:"89 грн",
+        price:"104 грн",
         src: require('../../../img/orangeLogo.png'),
      
     },
     {
         id:9,
         title:"скумбрія холодного копчення 100г",
-        price:"89 грн",
+        price:"104 грн",
         src: require('../../../img/orangeLogo.png'),
      
     },
     {
         id:10,
         title:"рибне асорті 300г",
-        price:"250 грн",
+        price:"265 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"оселедець, скумбрія х/к, лосось",
      
@@ -24,7 +24,7 @@ const AssortiMassBanket=[
     {
         id:11,
         title:"овочеве асорті 350г",
-        price:"180 грн",
+        price:"195 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"помідор, огірок, перець болгарський, кріп",
      
@@ -32,7 +32,7 @@ const AssortiMassBanket=[
     {
         id:12,
         title:"Соління асорті 500г",
-        price:"170 грн",
+        price:"185 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"помідор, огірок, капуста",
      
@@ -54,14 +54,14 @@ const AssortiMassBanket=[
     {
         id:1,
         title:"м'ясна тарілка 200г",
-        price:"269 грн",
+        price:"284 грн",
         src: require('../img/meattarelka.webp'),
         text:"Шинка, Ковбаса СК, бастурма, хамон",
     },
     {
         id:2,
         title:"тарілка під пиво 150г",
-        price:"199 грн",
+        price:"214 грн",
         src:require('../img/tartobear.webp'),
         text:"курка в'ялена, свинина в'ялена, хамон",
     },
@@ -69,21 +69,21 @@ const AssortiMassBanket=[
     {
         id:3,
         title:"тарілка під горілку 150г/30г",
-        price:"159 грн",
+        price:"174 грн",
         src:require('../img/tovodka.webp'),
         text:"сало, підчеревок, корнішони, гірчиця",
     },
     {
         id:4,
         title:"сирна тарілка 200г/30г",
-        price:"230 грн",
+        price:"245 грн",
         src:require('../img/tarelkachees.webp'),
         text:"гауда, пармезан, брі, дорблю, мед",
     },
     {
         id:5,
         title:"фруктова тарілка 480г",
-        price:"205 грн",
+        price:"220 грн",
         src:require('../img/fruttar.webp'),
         text:"Апельсин, грейпфрут, виноград, ківі, банан, яблоко, мараскінова вишня",
     },

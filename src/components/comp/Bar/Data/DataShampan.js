@@ -38,9 +38,9 @@ const ShampanMass=[
     {
         id:5,
         title:"Маренго брют (Україна) сух./біл. 0,75л",
-        price:"330 грн",
+        price:"345 грн",
         src: require('../img/marengob.webp'),
-        text:"100мл - 44 грн",
+        text:"100мл - 46 грн",
     },
     {
         id:6,
