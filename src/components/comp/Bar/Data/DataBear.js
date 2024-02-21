@@ -2,8 +2,8 @@ const BearMass = [
   {
     id: 1,
     title: 'Чернігівське Світле (Україна) кегове',
-    price: '0,5л - 79 грн',
-    price2: '0,33л - 65 грн',
+    price: '0,5л - 59 грн',
+    price2: '0,33л - 45 грн',
     src: require('../img/chernsvitle.png'),
     text: '',
   },
