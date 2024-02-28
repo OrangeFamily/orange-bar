@@ -1,5 +1,12 @@
 const ToBearMass=[
     {
+        id:22,
+        title:"фісташки 50г",
+        price:"80 грн",
+        src: require('../../../img/orangeLogo.png'),
+        text:"",
+    },
+    {
         id:1,
         title:"Мюнхенські ковбаски 220г/50г",
         price:"140 грн",
