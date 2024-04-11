@@ -3,7 +3,7 @@ const ToBearMass=[
         id:22,
         title:"фісташки 50г",
         price:"80 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/fist.png'),
         text:"",
     },
     {
@@ -47,14 +47,21 @@ const ToBearMass=[
         id:6,
         title:"курка в'ялена 50г",
         price:"80 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/vyalkur.png'),
         text:"",
     },
     {
         id:7,
         title:"свинина в'ялена 50г",
         price:"90 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/vyalsv.png'),
+        text:"",
+    },
+    {
+        id:23,
+        title:"яловичина в'ялена 50г",
+        price:"90 грн",
+        src: require('../img/vyalgov.png'),
         text:"",
     },
     {
