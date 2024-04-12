@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.24294654.css",
-    "main.js": "/orange-bar/static/js/main.d89d747c.js",
+    "main.css": "/orange-bar/static/css/main.709eaa79.css",
+    "main.js": "/orange-bar/static/js/main.759008c2.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -36,6 +36,7 @@
     "static/media/myastar.png": "/orange-bar/static/media/myastar.f10e39da7efd55ba832e.png",
     "static/media/vyalgov.png": "/orange-bar/static/media/vyalgov.bf21578560d2ebf7abc7.png",
     "static/media/fishandchips.png": "/orange-bar/static/media/fishandchips.dc3a79a2b7471e1e44b7.png",
+    "static/media/brendycoe.png": "/orange-bar/static/media/brendycoe.6b92b11d78c0173e3054.png",
     "static/media/havai.png": "/orange-bar/static/media/havai.c5b14b3335c3cae03a67.png",
     "static/media/jalburg.png": "/orange-bar/static/media/jalburg.295b2ba10447f59b905c.png",
     "static/media/vyalkur.png": "/orange-bar/static/media/vyalkur.8469241fb3a10ae56835.png",
@@ -47,6 +48,7 @@
     "static/media/fayniyjin.png": "/orange-bar/static/media/fayniyjin.93f8c5d020fed7d6a030.png",
     "static/media/stellagb.png": "/orange-bar/static/media/stellagb.0167ef0c9537f44ba0ad.png",
     "static/media/olivki.png": "/orange-bar/static/media/olivki.517d11cb53711d9c3cd8.png",
+    "static/media/vikr.png": "/orange-bar/static/media/vikr.fdb81bdb640ed2ff285a.png",
     "static/media/kmgbs.png": "/orange-bar/static/media/kmgbs.cfc64613fce0c36c7a90.png",
     "static/media/JaranaR.png": "/orange-bar/static/media/JaranaR.6379a6380a15c02be276.png",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
@@ -75,6 +77,7 @@
     "static/media/sensipino.png": "/orange-bar/static/media/sensipino.871af1e64cdbee94acd1.png",
     "static/media/kanoni.png": "/orange-bar/static/media/kanoni.3bcae90544ec59370d9d.png",
     "static/media/metaxa.png": "/orange-bar/static/media/metaxa.e8c34570c0213f5a0b9e.png",
+    "static/media/firmshot.png": "/orange-bar/static/media/firmshot.62a617fc8ff8051ddc98.png",
     "static/media/donkr.png": "/orange-bar/static/media/donkr.5fac167059f1b81c9303.png",
     "static/media/rada.png": "/orange-bar/static/media/rada.5f9e61eb92efdce29137.png",
     "static/media/century-gotic.ttf": "/orange-bar/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
@@ -103,7 +106,6 @@
     "static/media/kre.webp": "/orange-bar/static/media/kre.0dc98a7fa4e71a1fb60b.webp",
     "static/media/fruttar.webp": "/orange-bar/static/media/fruttar.035e7708e85f2908fc0f.webp",
     "static/media/steykkrevetki.webp": "/orange-bar/static/media/steykkrevetki.b2c50998403dc99a7462.webp",
-    "static/media/glin.webp": "/orange-bar/static/media/glin.1cc0e2d2cf5d7ca1d902.webp",
     "static/media/cof.webp": "/orange-bar/static/media/cof.366a86478220e0ab3555.webp",
     "static/media/icee.webp": "/orange-bar/static/media/icee.b32b704a3905575df6aa.webp",
     "static/media/skovorspar.webp": "/orange-bar/static/media/skovorspar.3191af9672dd708a96b8.webp",
@@ -242,11 +244,11 @@
     "static/media/fragolinor.webp": "/orange-bar/static/media/fragolinor.bee0c14e1e773298fd5a.webp",
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
-    "main.24294654.css.map": "/orange-bar/static/css/main.24294654.css.map",
-    "main.d89d747c.js.map": "/orange-bar/static/js/main.d89d747c.js.map"
+    "main.709eaa79.css.map": "/orange-bar/static/css/main.709eaa79.css.map",
+    "main.759008c2.js.map": "/orange-bar/static/js/main.759008c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.24294654.css",
-    "static/js/main.d89d747c.js"
+    "static/css/main.709eaa79.css",
+    "static/js/main.759008c2.js"
   ]
 }
