@@ -174,12 +174,26 @@ const ClasicMass=[
         src: require('../img/belbar.webp'),
         text:"горілка, лікер кавовий, сироп ванільний, вершки",
     },
+    // {
+    //     id:26,
+    //     title:"Глінтвейн 250мл",
+    //     price:"114 грн",
+    //     src: require('../img/glin.webp'),
+    //     text:"вино, сік яблучний, апельсин, кориця, цукровий сироп",
+    // },
     {
         id:26,
-        title:"Глінтвейн 250мл",
-        price:"114 грн",
-        src: require('../img/glin.webp'),
-        text:"вино, сік яблучний, апельсин, кориця, цукровий сироп",
+        title:"викрутка 250мл",
+        price:"79 грн",
+        src: require('../img/vikr.png'),
+        text:"горілка, сік апельсиновий",
+    },
+    {
+        id:27,
+        title:"бренді кола 250мл",
+        price:"89 грн",
+        src: require('../img/brendycoe.png'),
+        text:"бренді коблево, пепсі",
     },
 ]
 

@@ -42,6 +42,13 @@ const ShotDrinkMass=[
         text:"текіла, банановий лікер, лимонний фреш",
     },
     {
+        id:9,
+        title:"фірмовий шот 70мл",
+        price:"90 грн",
+        src: require('../img/firmshot.png'),
+        text:"сироп, сік, народний коктейль",
+    },
+    {
         id:7,
         title:"Текіла Бум 120мл",
         price:"180 грн",
