@@ -79,6 +79,7 @@ import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 // import { ModalAction } from './ModalAction/ModalAction';
 import AssortiMassBanket from './comp/Kitchen/DataBanket/DataAssortiBanket';
 import HotMassBanket from './comp/Kitchen/DataBanket/DataHotBanket';
+import CoronaMass from './comp/Cocotail/Data/DataCorona';
 // import egerakc from './img/akc.jpg'
 
 export const App = () => {
@@ -129,6 +130,7 @@ export const App = () => {
   const dataClasic = ClasicMass;
   // const dataColdTea = ColdTeaMass;
   const dataJager = JagerMass;
+  const dataCorona = CoronaMass;
   const dataLemonad = LemonadMass;
   const dataMixDrink = MixDrinkMass;
   const dataNon = NonMass;
@@ -661,6 +663,16 @@ export const App = () => {
                         </h2>
                         <AccordionPanel>
                           <Coffe data={dataJager} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                          Corona cocktails
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataCorona} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
