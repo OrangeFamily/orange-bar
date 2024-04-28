@@ -605,6 +605,16 @@ export const App = () => {
                   </h1>
                   <AccordionPanel>
                     <Accordion allowMultiple>
+                       <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                          Corona cocktails
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <Coffe data={dataCorona} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
@@ -665,16 +675,7 @@ export const App = () => {
                           <Coffe data={dataJager} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
-                      <AccordionItem>
-                        <h2>
-                          <AccordionButton className={s.titleItem}>
-                          Corona cocktails
-                          </AccordionButton>
-                        </h2>
-                        <AccordionPanel>
-                          <Coffe data={dataCorona} onModal={dataModal} />
-                        </AccordionPanel>
-                      </AccordionItem>
+                     
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
