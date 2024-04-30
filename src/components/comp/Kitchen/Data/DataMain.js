@@ -1,6 +1,18 @@
 const MainMass=[
     {
         id:14,
+        title:"Стейк з тунця 200г/50г",
+        price:"299 грн",
+        src:require('../img/steyktun.png'),
+        text:"тунець, соус з авокадо",
+    },
+
+
+
+
+
+    {
+        id:14,
         title:"Ребра BBQ 350г/50г",
         price:"214 грн",
         src:require('../img/bbq.png'),
