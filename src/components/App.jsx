@@ -612,7 +612,7 @@ export const App = () => {
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <Coffe data={dataCorona} onModal={dataModal} />
+                          <List data={dataCorona} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
