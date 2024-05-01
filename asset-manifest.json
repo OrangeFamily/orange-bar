@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.709eaa79.css",
-    "main.js": "/orange-bar/static/js/main.2729c612.js",
+    "main.js": "/orange-bar/static/js/main.b4b4a661.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -133,7 +133,6 @@
     "static/media/doshkomp.webp": "/orange-bar/static/media/doshkomp.eef9458dfbdde1214298.webp",
     "static/media/tartobear.webp": "/orange-bar/static/media/tartobear.223dda6bf382872fdbe3.webp",
     "static/media/jun.webp": "/orange-bar/static/media/jun.e4d0a4c8c65aeeb8ed09.webp",
-    "static/media/jagcof.webp": "/orange-bar/static/media/jagcof.06810d77aa099ce9e7d8.webp",
     "static/media/selo.webp": "/orange-bar/static/media/selo.2ae0c80b086e11ee750a.webp",
     "static/media/tovodka.webp": "/orange-bar/static/media/tovodka.c3416bcb3374dd3640fe.webp",
     "static/media/band.webp": "/orange-bar/static/media/band.b12bfee9026d18f3c90c.webp",
@@ -277,10 +276,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.709eaa79.css.map": "/orange-bar/static/css/main.709eaa79.css.map",
-    "main.2729c612.js.map": "/orange-bar/static/js/main.2729c612.js.map"
+    "main.b4b4a661.js.map": "/orange-bar/static/js/main.b4b4a661.js.map"
   },
   "entrypoints": [
     "static/css/main.709eaa79.css",
-    "static/js/main.2729c612.js"
+    "static/js/main.b4b4a661.js"
   ]
 }
