@@ -22,7 +22,7 @@ const BandaMass=[
     },
     {
         id:4,
-        title:"Джері 350мл ",
+        title:"Джеррі 350мл ",
         price:"179 грн",
         src: require('../img/jarry.png'),
         text:"вишневий лікер, горілка, сік грейпфрут, тонік",
