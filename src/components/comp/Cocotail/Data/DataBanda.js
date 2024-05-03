@@ -105,13 +105,13 @@ const BandaMass=[
         src: require('../img/pekelnamala.png'),
         text:"гордон`c середземноморський апельсин, лимонний сік, сироп гренадін",
     },
-    {
-        id:13,
-        title:"Бабуся не проти 350мл",
-        price:"155 грн",
-        src: require('../img/granma.webp'),
-        text:"горілка, н/к «Currant», тонік, сік вишневий, сік лимонний",
-    },
+    //{
+        //id:13,
+        //title:"Бабуся не проти 350мл",
+        //price:"155 грн",
+        //src: require('../img/granma.webp'),
+        //text:"горілка, н/к «Currant», тонік, сік вишневий, сік лимонний",
+    //},
     {
         id:14,
         title:"Німецька ніч 350мл",
@@ -133,13 +133,13 @@ const BandaMass=[
         src: require('../img/azia.webp'),
         text:"горілка, ром золотий, джин, лікер диня, сік лимона, 7up",
     },
-    {
-        id:17,
-        title:"Jager Coffe 120мл",
-        price:"165 грн",
-        src: require('../img/jagcof.webp'),
-        text:"горілка, jagermaister, кавовий лікер, сироп грінадін",
-    },
+   // {
+    //    id:17,
+      //  title:"Jager Coffe 120мл",
+      //  price:"165 грн",
+      //  src: require('../img/jagcof.webp'),
+     //   text:"горілка, jagermaister, кавовий лікер, сироп грінадін",
+   // },
     
     {
         id:18,
