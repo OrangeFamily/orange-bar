@@ -15,7 +15,7 @@ import { List } from './comp/List/List';
 import first from './img/1.PNG'
 import second from './img/2.JPG'
 import third from './img/3.JPG'
-import fourth from './img/4.jpg'
+// import fourth from './img/4.jpg'
 import fifth from './img/5.JPG'
 
 import pn from './img/pn.jpg'
@@ -206,7 +206,7 @@ export const App = () => {
                   <img src={first} alt="" className={s.fctionPhoto}/>
                   <img src={second} alt="" className={s.fctionPhoto}/>
                   <img src={third} alt="" className={s.fctionPhoto}/>
-                  <img src={fourth} alt="" className={s.fctionPhoto}/>
+                  {/* <img src={fourth} alt="" className={s.fctionPhoto}/> */}
                   <img src={fifth} alt="" className={s.fctionPhoto}/>
                   </Accordion>
                 </AccordionPanel>
