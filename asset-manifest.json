@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.709eaa79.css",
-    "main.js": "/orange-bar/static/js/main.0195ffb0.js",
+    "main.js": "/orange-bar/static/js/main.1058af60.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -185,7 +185,6 @@
     "static/media/che.webp": "/orange-bar/static/media/che.bc32ead681e0cda71f81.webp",
     "static/media/kosmo.webp": "/orange-bar/static/media/kosmo.b2581f46b8dc4662686c.webp",
     "static/media/chiken-mush.webp": "/orange-bar/static/media/chiken-mush.ae3a76c05dd7c3eb5af1.webp",
-    "static/media/4.jpg": "/orange-bar/static/media/4.41607c70199f7f53ca88.jpg",
     "static/media/long.webp": "/orange-bar/static/media/long.c85d5c31dcdb329f3b24.webp",
     "static/media/pepsil.webp": "/orange-bar/static/media/pepsil.bd6498674e040cd225af.webp",
     "static/media/sambuka.webp": "/orange-bar/static/media/sambuka.4847a3cc0a899e68d788.webp",
@@ -278,10 +277,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.709eaa79.css.map": "/orange-bar/static/css/main.709eaa79.css.map",
-    "main.0195ffb0.js.map": "/orange-bar/static/js/main.0195ffb0.js.map"
+    "main.1058af60.js.map": "/orange-bar/static/js/main.1058af60.js.map"
   },
   "entrypoints": [
     "static/css/main.709eaa79.css",
-    "static/js/main.0195ffb0.js"
+    "static/js/main.1058af60.js"
   ]
 }
