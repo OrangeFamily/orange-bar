@@ -26,7 +26,7 @@ const BearMass = [
   
   {
     id:4,
-    title:"Сидр Somersby (Україна) кег.",
+    title:"Сидр Somersby Чорничний (Україна) кег.",
     price:"0,5л - 79 грн",
     price2:"0,33л - 65 грн",
     src: require('../img/somers.png'),
