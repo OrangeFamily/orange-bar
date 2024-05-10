@@ -76,6 +76,13 @@ const TeaMass=[
         src: require('../img/tea.webp'),
         text:"",
     },
+    {
+        id:12,
+        title:"Ройбуш 0,450л",
+        price:"45 грн",
+        src: require('../img/tea.webp'),
+        text:"",
+    },
     
 ]
 
