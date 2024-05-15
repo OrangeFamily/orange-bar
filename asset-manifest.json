@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.709eaa79.css",
-    "main.js": "/orange-bar/static/js/main.49833801.js",
+    "main.js": "/orange-bar/static/js/main.efd1867f.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -40,7 +40,6 @@
     "static/media/kurkot.png": "/orange-bar/static/media/kurkot.455ef42f7344f75eb29c.png",
     "static/media/myastar.png": "/orange-bar/static/media/myastar.f10e39da7efd55ba832e.png",
     "static/media/vyalgov.png": "/orange-bar/static/media/vyalgov.bf21578560d2ebf7abc7.png",
-    "static/media/fishandchips.png": "/orange-bar/static/media/fishandchips.dc3a79a2b7471e1e44b7.png",
     "static/media/greeny.png": "/orange-bar/static/media/greeny.e827536877c39d490ae0.png",
     "static/media/fiesta.png": "/orange-bar/static/media/fiesta.bd89d87b9943cfdc0f5e.png",
     "static/media/fiat.png": "/orange-bar/static/media/fiat.c893d9a46fb81dace121.png",
@@ -278,10 +277,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.709eaa79.css.map": "/orange-bar/static/css/main.709eaa79.css.map",
-    "main.49833801.js.map": "/orange-bar/static/js/main.49833801.js.map"
+    "main.efd1867f.js.map": "/orange-bar/static/js/main.efd1867f.js.map"
   },
   "entrypoints": [
     "static/css/main.709eaa79.css",
-    "static/js/main.49833801.js"
+    "static/js/main.efd1867f.js"
   ]
 }
