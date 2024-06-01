@@ -22,7 +22,7 @@ const TeaMirabell=[
     },
     {
         id:4,
-        title:"облепиха 0,450л",
+        title:"обліпиха 0,450л",
         price:"55 грн",
         src: require('../img/tea.webp'),
         text:"",

@@ -2,6 +2,7 @@ const BandaMass=[
     {
         id:1,
         title:"Чіназез 450мл ",
+        isNew: true,
         price:"189 грн",
         src: require('../img/chinazez.png'),
         text:"ром золотий, егермайстер, кокосовий лікер, лимонний сік, вишневий сік",
@@ -9,6 +10,7 @@ const BandaMass=[
     {
         id:2,
         title:"Працьовитий ротик 200мл ",
+        isNew: true,
         price:"189 грн",
         src: require('../img/pracovrotik.png'),
         text:"текіла, сироп блю кюрасао, лікер блю кюрасао, бейліс, ананасовий сік",
@@ -16,6 +18,7 @@ const BandaMass=[
     {
         id:3,
         title:"Грінні 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/greeny.png'),
         text:"ром золотий, лікер амаретто, сік яблучний, лимонний сік",
@@ -23,6 +26,7 @@ const BandaMass=[
     {
         id:4,
         title:"Джеррі 350мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/jarry.png'),
         text:"вишневий лікер, горілка, сік грейпфрут, тонік",
@@ -30,6 +34,7 @@ const BandaMass=[
     {
         id:5,
         title:"Simba 350мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/simba.png'),
         text:"ром золотий, егермайстер, лікер банан, ванільний сироп, ананасовий сік",
@@ -37,6 +42,7 @@ const BandaMass=[
     {
         id:6,
         title:"Навколо світу 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/navkolosvitu.png'),
         text:"ром золотий, лікер апельсиновий, ангостура, ананасовий сироп, лимонний сік, апельсин, м'ята",
@@ -44,6 +50,7 @@ const BandaMass=[
     {
         id:7,
         title:"Pussy kiss 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/pussykiss.png'),
         text:"джин, вишневий лікер, полуничний сироп, ананасовий сік",
@@ -51,6 +58,7 @@ const BandaMass=[
     {
         id:8,
         title:"Summer kiss 250мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/summerkiss.png'),
         text:"текіла, апероль, полуничний сироп, лимонний сік, ізі фом",
@@ -58,6 +66,7 @@ const BandaMass=[
     {
         id:9,
         title:"Фієста 350мл ",
+        isNew: true,
         price:"179 грн",
         src: require('../img/fiesta.png'),
         text:"золотий ром, джин оранж, лікер амаретто, лікер кокос, ананасовий сік, лимонний сік",
