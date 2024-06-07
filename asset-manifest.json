@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.2003e5c1.css",
-    "main.js": "/orange-bar/static/js/main.551cf04b.js",
+    "main.js": "/orange-bar/static/js/main.17e4d1fc.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -12,6 +12,7 @@
     "static/media/munhenkovb.png": "/orange-bar/static/media/munhenkovb.0566f4ecbb0383021e12.png",
     "static/media/salatstuncom.png": "/orange-bar/static/media/salatstuncom.ed084a10108c627eb93c.png",
     "static/media/salatsvin.png": "/orange-bar/static/media/salatsvin.8c9b08fc3cfe0c62e174.png",
+    "static/media/salchikananas.png": "/orange-bar/static/media/salchikananas.5662d0fa768da8a37904.png",
     "static/media/cht.jpg": "/orange-bar/static/media/cht.42aabc389f94134d7ec2.jpg",
     "static/media/sr.jpg": "/orange-bar/static/media/sr.f3c6fd8a4a4d9e0e9a69.jpg",
     "static/media/pastamidii.png": "/orange-bar/static/media/pastamidii.21501253c7b72a22310d.png",
@@ -277,10 +278,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.2003e5c1.css.map": "/orange-bar/static/css/main.2003e5c1.css.map",
-    "main.551cf04b.js.map": "/orange-bar/static/js/main.551cf04b.js.map"
+    "main.17e4d1fc.js.map": "/orange-bar/static/js/main.17e4d1fc.js.map"
   },
   "entrypoints": [
     "static/css/main.2003e5c1.css",
-    "static/js/main.551cf04b.js"
+    "static/js/main.17e4d1fc.js"
   ]
 }
