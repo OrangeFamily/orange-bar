@@ -34,13 +34,13 @@ const CoffeMass=[
         src: require('../img/cof.webp'),
         text:"",
     },
-    {
-        id:13,
-        title:"Капучино на безлактозному молоці 0,160л",
-        price:"50 грн",
-        src: require('../img/cof.webp'),
-        text:"",
-    },
+    //{
+        //id:13,
+        //title:"Капучино на безлактозному молоці 0,160л",
+        //price:"50 грн",
+        //src: require('../img/cof.webp'),
+        //text:"",
+    //},
     {
         id:6,
         title:"Лате 0,200л",
