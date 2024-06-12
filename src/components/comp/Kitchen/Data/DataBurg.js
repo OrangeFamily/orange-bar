@@ -9,7 +9,7 @@ const BurgerMass=[
     },
     {
         id:2,
-        title:"сирний бургер з картоплею фрі 400г",
+        title:"бургер з сирним соусом з картоплею фрі 400г",
         isNew: true,
         price:"199 грн",
         src:require('../img/burgchees.png'),
