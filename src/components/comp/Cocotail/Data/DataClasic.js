@@ -107,7 +107,7 @@ const ClasicMass=[
     {
         id:16,
         title:"Секс на пляжі 350мл",
-        price:"160 грн",
+        price:"170 грн",
         src: require('../img/bich.webp'),
         text:"горілка, персиковий лікер, сік апельсиновий, журавлиний морс",
     },
@@ -184,7 +184,7 @@ const ClasicMass=[
     {
         id:26,
         title:"викрутка 250мл",
-        price:"79 грн",
+        price:"85 грн",
         src: require('../img/vikr.png'),
         text:"горілка, сік апельсиновий",
     },

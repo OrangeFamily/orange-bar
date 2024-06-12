@@ -65,7 +65,7 @@ const  NonMass=[
     {
         id:10,
         title:"Мілк шейк 350мл",
-        price:"104 грн",
+        price:"90 грн",
         src: require('../img/shak.webp'),
         text:"в асортименті",
     },

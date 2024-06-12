@@ -9,7 +9,7 @@ const ColdTeaMass=[
     {
         id:2,
         title:"Цитрусовий 450мл",
-        price:"65 грн",
+        price:"69 грн",
         src: require('../img/iceteanew.png'),
         text:"чай зелений, лимон, апельсин, лайм",
     },

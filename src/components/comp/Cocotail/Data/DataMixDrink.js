@@ -9,7 +9,7 @@ const MixDrinkMass=[
     {
         id:2,
         title:"Red Bull Whiskey 300мл",
-        price:"165 грн",
+        price:"170 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"Red Bull, віскі",
     },
