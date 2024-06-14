@@ -53,6 +53,20 @@ const LemonadMass=[
         src: require('../img/chornicya.png'),
         text:"лимонний сік, чорниця, цукровий сироп, м'ята, 7up",
     },
+    {
+        id:8,
+        title:"Бамбл 350мл",
+        price:"65 грн",
+        src: require('../img/bambl.png'),
+        text:"сік на вибір, еспресо, карамельний сироп",
+    },
+    {
+        id:9,
+        title:"Фіалковий 450мл",
+        price:"69 грн",
+        src: require('../img/flem.png'),
+        text:"сироп фіалки, лимонний сік, лимон, 7up",
+    },
 ]
 
 export default LemonadMass;
