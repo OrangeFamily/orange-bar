@@ -46,13 +46,13 @@ const LemonadMass=[
         src: require('../img/ogirok.png'),
         text:"огірок, апельсин, медовий сироп, лимонний сік, 7up",
     },
-    {
-        id:7,
-        title:"Чорниця мята 450мл",
-        price:"89 грн",
-        src: require('../img/chornicya.png'),
-        text:"лимонний сік, чорниця, цукровий сироп, м'ята, 7up",
-    },
+    //{
+    // id:7,
+       // title:"Чорниця мята 450мл",
+       // price:"89 грн",
+       // src: require('../img/chornicya.png'),
+       // text:"лимонний сік, чорниця, цукровий сироп, м'ята, 7up",
+   // },
     {
         id:8,
         title:"Бамбл 350мл",
