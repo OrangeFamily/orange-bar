@@ -195,7 +195,7 @@ export const App = () => {
                   <AccordionButton className={s.titleAction}>Акції</AccordionButton>
                 </h1>
                 <AccordionPanel>
-                <p className={s.akcTitle}>пропозиції не діють на самовивіз та доставку</p>
+                <p className={s.akcTitle}>пропозиції не діють на самовивіз та доставку!</p>
                   <Accordion allowMultiple>
                   <img src={pn} alt="" className={s.fctionPhoto}/>
                   <img src={vt} alt="" className={s.fctionPhoto}/>
