@@ -46,8 +46,8 @@ const GarnishMass=[
         id:6,
         title:"овочі гриль 200г",
         price:"114 грн",
-        src: require('../img/ovogril.webp'),
-        text:"цукіні, помідор, печериці, перець болгарський, соєвий соус",
+        src: require('../img/ovogril.png'),
+        text:"кукуруза, помідор, печериці, перець болгарський, соєвий соус",
     },
 
     
