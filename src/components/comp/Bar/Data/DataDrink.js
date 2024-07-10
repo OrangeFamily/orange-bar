@@ -2,7 +2,7 @@ const DrinkMass=[
     {
         id:1,
         title:"Сік 0,95л",
-        price:"145 грн",
+        price:"120 грн",
         src: require('../img/sandora.webp'),
         text:"200мл - 29грн",
     },
@@ -58,14 +58,14 @@ const DrinkMass=[
     {
         id:9,
         title:"Пепсі 1 л",
-        price:"120 грн",
+        price:"89 грн",
         src: require('../img/pepsil.webp'),
         text:"",
     },
     {
         id:10,
         title:"Пепсі без цукру 1 л",
-        price:"120 грн",
+        price:"89 грн",
         src: require('../img/pepsil.webp'),
         text:"",
     },
