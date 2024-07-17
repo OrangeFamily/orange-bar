@@ -15,13 +15,20 @@ const GinMass = [
   },
   {
     id: 3,
+    title: "Гордон'с Лондон Драй 0.0 (Великобританія) 1л",
+    price: '1900 грн',
+    src: require('../img/gordonsba.png'),
+    text: '50мл - 95 грн',
+  },
+  {
+    id: 4,
     title: "гордон`c середземноморський апельсин (Великобританія) 1л",
     price: '1900 грн',
     src: require('../img/ginorange.png'),
     text: '50мл - 95 грн',
   },
   {
-    id: 4,
+    id: 5,
     title: 'Тенкері №ТЕН (Великобританія) 1л',
     price: '3300 грн',
     src: require('../img/Tanqueray.png'),
