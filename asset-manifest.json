@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.2003e5c1.css",
-    "main.js": "/orange-bar/static/js/main.39ce2b0a.js",
+    "main.js": "/orange-bar/static/js/main.920ac9c1.js",
     "static/media/1.PNG": "/orange-bar/static/media/1.7c8a7b1f3f97b2ef3785.PNG",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -129,7 +129,6 @@
     "static/media/med.webp": "/orange-bar/static/media/med.909cf6858deaae4da45d.webp",
     "static/media/meattarelka.webp": "/orange-bar/static/media/meattarelka.cebe6fa926541b9b8ba9.webp",
     "static/media/doshkomp.webp": "/orange-bar/static/media/doshkomp.eef9458dfbdde1214298.webp",
-    "static/media/tartobear.webp": "/orange-bar/static/media/tartobear.223dda6bf382872fdbe3.webp",
     "static/media/jun.webp": "/orange-bar/static/media/jun.e4d0a4c8c65aeeb8ed09.webp",
     "static/media/selo.webp": "/orange-bar/static/media/selo.2ae0c80b086e11ee750a.webp",
     "static/media/tovodka.webp": "/orange-bar/static/media/tovodka.c3416bcb3374dd3640fe.webp",
@@ -237,18 +236,15 @@
     "static/media/fri.webp": "/orange-bar/static/media/fri.9cee5c5ba5a4635b7eee.webp",
     "static/media/fly.webp": "/orange-bar/static/media/fly.2d84481e820700fcd9ac.webp",
     "static/media/solyanka.webp": "/orange-bar/static/media/solyanka.97a6d05d6f2f4a00cdc1.webp",
-    "static/media/tomato.webp": "/orange-bar/static/media/tomato.5971041c244e9deebae2.webp",
     "static/media/dubl-chik.webp": "/orange-bar/static/media/dubl-chik.8de09d7a1703603a430e.webp",
     "static/media/red-fish.webp": "/orange-bar/static/media/red-fish.c8c3c046452b5c8651bc.webp",
     "static/media/suh.webp": "/orange-bar/static/media/suh.5233d49bb651cb717746.webp",
     "static/media/soeg.webp": "/orange-bar/static/media/soeg.6e8d0db645343c319612.webp",
-    "static/media/chiken.webp": "/orange-bar/static/media/chiken.f3618ecef46d693b886b.webp",
     "static/media/krevetka.webp": "/orange-bar/static/media/krevetka.149a67aa1cf930c2d49e.webp",
     "static/media/visk.webp": "/orange-bar/static/media/visk.02c90767214afea8383b.webp",
     "static/media/chips.webp": "/orange-bar/static/media/chips.49ebdc1b8e0b202432cc.webp",
     "static/media/naget.webp": "/orange-bar/static/media/naget.882b037d6d7669129645.webp",
     "static/media/cheesbeer.webp": "/orange-bar/static/media/cheesbeer.bb304029045fee8f8e4e.webp",
-    "static/media/chees.webp": "/orange-bar/static/media/chees.a30e4bb17941692aeced.webp",
     "static/media/mush.webp": "/orange-bar/static/media/mush.a88d2c0485da5fac12ad.webp",
     "static/media/corona.webp": "/orange-bar/static/media/corona.06e33848279998f2a963.webp",
     "static/media/cherry.webp": "/orange-bar/static/media/cherry.241a9b00bba9d5ca6846.webp",
@@ -265,10 +261,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.2003e5c1.css.map": "/orange-bar/static/css/main.2003e5c1.css.map",
-    "main.39ce2b0a.js.map": "/orange-bar/static/js/main.39ce2b0a.js.map"
+    "main.920ac9c1.js.map": "/orange-bar/static/js/main.920ac9c1.js.map"
   },
   "entrypoints": [
     "static/css/main.2003e5c1.css",
-    "static/js/main.39ce2b0a.js"
+    "static/js/main.920ac9c1.js"
   ]
 }
