@@ -12,7 +12,7 @@ import { Modal } from './Modal/Modal';
 import s from './App.module.scss';
 
 import { List } from './comp/List/List';
-import first from './img/1.PNG';
+// import first from './img/1.PNG';
 import second from './img/2.JPG';
 //import third from './img/3.JPG'
 // import fourth from './img/4.jpg'
@@ -21,7 +21,7 @@ import second from './img/2.JPG';
 import pn from './img/pn.jpg';
 import vt from './img/vt.jpg';
 import sr from './img/sr.jpg';
-import cht from './img/cht.jpg';
+import cht from './img/cht1.jpg';
 import ned from './img/ned.jpg';
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
@@ -200,7 +200,7 @@ export const App = () => {
                     <img src={cht} alt="" className={s.fctionPhoto} />
                     <img src={ned} alt="" className={s.fctionPhoto} />
 
-                    <img src={first} alt="" className={s.fctionPhoto} />
+                    {/* <img src={first} alt="" className={s.fctionPhoto} /> */}
                     <img src={second} alt="" className={s.fctionPhoto} />
                     {/* <img src={third} alt="" className={s.fctionPhoto}/>*/}
                     {/* <img src={fourth} alt="" className={s.fctionPhoto}/> */}
