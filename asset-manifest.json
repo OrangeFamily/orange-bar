@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.2003e5c1.css",
-    "main.js": "/orange-bar/static/js/main.f24e8a6b.js",
+    "main.js": "/orange-bar/static/js/main.5620db62.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
@@ -19,12 +19,15 @@
     "static/media/teplsal.png": "/orange-bar/static/media/teplsal.50a295aa9d07fc839436.png",
     "static/media/salatsmorem.png": "/orange-bar/static/media/salatsmorem.c536f495940472d74139.png",
     "static/media/chizcake.png": "/orange-bar/static/media/chizcake.bf008d2880bac0d454f1.png",
+    "static/media/partyjager.png": "/orange-bar/static/media/partyjager.a25e319dd41d79ca163d.png",
     "static/media/skovorkalmar.png": "/orange-bar/static/media/skovorkalmar.7d282eb60b647d81904c.png",
     "static/media/spargasvet.png": "/orange-bar/static/media/spargasvet.c7e5c4eceafb35e8cd64.png",
     "static/media/myasnadoska.png": "/orange-bar/static/media/myasnadoska.1b17da1a750c6e553256.png",
     "static/media/corndog.png": "/orange-bar/static/media/corndog.fe931ffb017d1081daab.png",
     "static/media/hamon.png": "/orange-bar/static/media/hamon.75daafc29f4cfc2d3816.png",
     "static/media/doskapodpivo.png": "/orange-bar/static/media/doskapodpivo.089f56d60c1e080d8a6f.png",
+    "static/media/partyvodka.png": "/orange-bar/static/media/partyvodka.723446cf383c679921c0.png",
+    "static/media/partybells.png": "/orange-bar/static/media/partybells.f41f8705796434c37f75.png",
     "static/media/skovormidii.png": "/orange-bar/static/media/skovormidii.c5d117a6be668d8bc9f6.png",
     "static/media/vyalsv.png": "/orange-bar/static/media/vyalsv.48bf183cd7139d1d29dc.png",
     "static/media/pn.jpg": "/orange-bar/static/media/pn.61b4fea904efbf49ae98.jpg",
@@ -260,10 +263,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.2003e5c1.css.map": "/orange-bar/static/css/main.2003e5c1.css.map",
-    "main.f24e8a6b.js.map": "/orange-bar/static/js/main.f24e8a6b.js.map"
+    "main.5620db62.js.map": "/orange-bar/static/js/main.5620db62.js.map"
   },
   "entrypoints": [
     "static/css/main.2003e5c1.css",
-    "static/js/main.f24e8a6b.js"
+    "static/js/main.5620db62.js"
   ]
 }
