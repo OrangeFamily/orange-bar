@@ -3,14 +3,14 @@ const LemonadMass=[
         id:1,
         title:"Класичний 450мл",
         price:"65 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/lemonadclasic.png'),
         text:"лимонад, 7up",
     },
     {
         id:2,
         title:"М’ятний 450мл",
         price:"65 грн",
-        src: require('../../../img/orangeLogo.png'),
+        src: require('../img/lemonadmyata.png'),
         text:"лимонад, м’ята, 7up",
     },
    // {
