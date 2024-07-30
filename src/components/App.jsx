@@ -561,7 +561,7 @@ export const App = () => {
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <Coffe data={dataCoffe} onModal={dataModal} />
+                          <List data={dataCoffe} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
@@ -698,7 +698,7 @@ export const App = () => {
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <Coffe data={dataJager} onModal={dataModal} />
+                          <List data={dataJager} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
 
@@ -709,7 +709,7 @@ export const App = () => {
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <Coffe data={dataMixDrink} onModal={dataModal} />
+                          <List data={dataMixDrink} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
