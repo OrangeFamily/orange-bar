@@ -90,18 +90,18 @@ const CoffeMass=[
     //     src: require('../img/cof.webp'),
     //     text:"",
     // },
-    {
-        id:12,
-        title:"Шейк 0,350л",
-        price:"69 грн",
-        src: require('../img/shakecof.png'),
-        text:"",
-    },
+    // {
+    //     id:12,
+    //     title:"Шейк 0,350л",
+    //     price:"69 грн",
+    //     src: require('../img/shakecof.png'),
+    //     text:"",
+    // },
     {
         id:13,
         title:"Какао з маршмелоу 0,250л",
         price:"55 грн",
-        src: require('../img/cacao.png'),
+        src: require('../img/shakecof.png'),
         text:"",
     },
     
