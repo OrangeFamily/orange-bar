@@ -739,7 +739,7 @@ export const App = () => {
                           </AccordionButton>
                         </h2>
                         <AccordionPanel>
-                          <Coffe data={dataLemonad} onModal={dataModal} />
+                          <List data={dataLemonad} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                     </Accordion>
