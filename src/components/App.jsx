@@ -23,6 +23,8 @@ import vt from './img/vt.jpg';
 import sr from './img/sr.jpg';
 import cht from './img/cht1.jpg';
 import ned from './img/ned.jpg';
+import bullAct from './img/bullAct.jpg';
+import bullActg from './img/bullActg.jpg';
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
@@ -206,6 +208,8 @@ export const App = () => {
 
                     {/* <img src={first} alt="" className={s.fctionPhoto} /> */}
                     <img src={second} alt="" className={s.fctionPhoto} />
+                    <img src={bullAct} alt="" className={s.fctionPhoto} />
+                    <img src={bullActg} alt="" className={s.fctionPhoto} />
                     {/* <img src={third} alt="" className={s.fctionPhoto}/>*/}
                     {/* <img src={fourth} alt="" className={s.fctionPhoto}/> */}
                     {/*<img src={fifth} alt="" className={s.fctionPhoto}/>*/}
