@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.2003e5c1.css",
-    "main.js": "/orange-bar/static/js/main.de11015a.js",
+    "main.js": "/orange-bar/static/js/main.9f6af6f7.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
@@ -68,6 +68,7 @@
     "static/media/JaranaR.png": "/orange-bar/static/media/JaranaR.6379a6380a15c02be276.png",
     "static/media/chinazez.png": "/orange-bar/static/media/chinazez.edd4f19aec36013294d3.png",
     "static/media/flem.png": "/orange-bar/static/media/flem.bc8dfc889d8904018b8a.png",
+    "static/media/tropic.png": "/orange-bar/static/media/tropic.ad8162082e75e6027dc5.png",
     "static/media/oreo.png": "/orange-bar/static/media/oreo.bd7f4a98f94cb2f49cc9.png",
     "static/media/burgchees.png": "/orange-bar/static/media/burgchees.3c255adc141b21d279e1.png",
     "static/media/jarry.png": "/orange-bar/static/media/jarry.a45b958f76eb957b6fb1.png",
@@ -275,10 +276,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.2003e5c1.css.map": "/orange-bar/static/css/main.2003e5c1.css.map",
-    "main.de11015a.js.map": "/orange-bar/static/js/main.de11015a.js.map"
+    "main.9f6af6f7.js.map": "/orange-bar/static/js/main.9f6af6f7.js.map"
   },
   "entrypoints": [
     "static/css/main.2003e5c1.css",
-    "static/js/main.de11015a.js"
+    "static/js/main.9f6af6f7.js"
   ]
 }
