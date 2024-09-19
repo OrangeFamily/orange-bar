@@ -60,10 +60,10 @@ const AssortiMassBanket=[
     },
     {
         id:2,
-        title:"тарілка під пиво 150г",
-        price:"214 грн",
-        src:require('../img/tartobear.webp'),
-        text:"курка в'ялена, свинина в'ялена, хамон",
+        title:"тарілка під пиво 200г",
+        price:"220 грн",
+        src:require('../img/myastar.png'),
+        text:"курка в'ялена, хамон, бастурма, фісташки",
     },
     
     {
