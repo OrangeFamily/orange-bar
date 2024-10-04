@@ -66,7 +66,7 @@ import { Coffe } from './comp/Bar/List/Coffe';
 import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
-import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
+// import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
 import JagerMass from './comp/Cocotail/Data/DataJager';
 import LemonadMass from './comp/Cocotail/Data/DataLemonad';
 import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
@@ -132,7 +132,7 @@ export const App = () => {
   const dataAuth = AuthMass;
   const dataBanda = BandaMass;
   const dataClasic = ClasicMass;
-  const dataColdTea = ColdTeaMass;
+  // const dataColdTea = ColdTeaMass;
   const dataJager = JagerMass;
   const dataCorona = CoronaMass;
   const dataLemonad = LemonadMass;
@@ -546,7 +546,10 @@ export const App = () => {
                             Корковий збір
                           </AccordionButton>
                         </h2>
-                        <AccordionPanel style={{color: 'white'}}><h3>0,5 -200 грн</h3>  <h3>0,7-300 грн</h3> <h3>1л-400 грн</h3></AccordionPanel>
+                        <AccordionPanel style={{ color: 'white' }}>
+                          <h3>0,5 -200 грн</h3> <h3>0,7-300 грн</h3>{' '}
+                          <h3>1л-400 грн</h3>
+                        </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
                         <h2>
@@ -726,7 +729,7 @@ export const App = () => {
                           <List data={dataPartyMzix} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
-                      <AccordionItem>
+                      {/* <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             холодні чаї
@@ -735,7 +738,7 @@ export const App = () => {
                         <AccordionPanel>
                           <List data={dataColdTea} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
+                      </AccordionItem> */}
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
