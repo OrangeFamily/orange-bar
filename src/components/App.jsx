@@ -20,7 +20,7 @@ import { List } from './comp/List/List';
 
 import pn from './img/IMG_2347.JPG';
 import vt from './img/IMG_2348.JPG';
-import sr from './img/sr.jpg';
+import sr from './img/srr.jpg';
 import cht from './img/cht1.jpg';
 import ned from './img/IMG_2349.JPG';
 // import bullAct from './img/bullAct.jpg';
