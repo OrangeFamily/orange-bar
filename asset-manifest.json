@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.673b3e91.js",
+    "main.js": "/orange-bar/static/js/main.ff2da992.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
@@ -99,6 +99,7 @@
     "static/media/polunbanan.png": "/orange-bar/static/media/polunbanan.f83e81acb9f4d7a86985.png",
     "static/media/pussykiss.png": "/orange-bar/static/media/pussykiss.9244ed4cdd1b9d11b2f8.png",
     "static/media/whitedon.png": "/orange-bar/static/media/whitedon.86cf4be632070103c2a6.png",
+    "static/media/blacklabel.png": "/orange-bar/static/media/blacklabel.85b9bb929823ae599631.png",
     "static/media/capuchino.png": "/orange-bar/static/media/capuchino.b1b99bcf816acbfb499b.png",
     "static/media/rbws.png": "/orange-bar/static/media/rbws.a98dcefffecb5e763e33.png",
     "static/media/corona4.png": "/orange-bar/static/media/corona4.8ffff4d01cd3606d7b13.png",
@@ -265,10 +266,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.673b3e91.js.map": "/orange-bar/static/js/main.673b3e91.js.map"
+    "main.ff2da992.js.map": "/orange-bar/static/js/main.ff2da992.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.673b3e91.js"
+    "static/js/main.ff2da992.js"
   ]
 }
