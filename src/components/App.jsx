@@ -18,6 +18,7 @@ import { List } from './comp/List/List';
 // import fourth from './img/4.jpg'
 // import fifth from './img/5.JPG'
 
+import jag from './img/Jägermeister3.jpg';
 import pn from './img/IMG_2347.JPG';
 import vt from './img/IMG_2348.JPG';
 import sr from './img/srr.jpg';
@@ -201,6 +202,7 @@ export const App = () => {
                     пропозиції не діють на самовивіз та доставку!
                   </p>
                   <Accordion allowMultiple>
+                  <img src={jag} alt="" className={s.fctionPhoto} />
                     <img src={pn} alt="" className={s.fctionPhoto} />
                     <img src={vt} alt="" className={s.fctionPhoto} />
                     <img src={sr} alt="" className={s.fctionPhoto} />
