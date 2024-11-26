@@ -2,14 +2,14 @@ const AssortiMass=[
     {
         id:6,
         title:"оливки 80г",
-        price:"59 грн",
+        price:"75 грн",
         src: require('../img/olivki.png'),
      
     },
     {
         id:7,
         title:"маслини 80г",
-        price:"59 грн",
+        price:"75 грн",
         src: require('../img/maslini.png'),
         
     },
@@ -23,7 +23,7 @@ const AssortiMass=[
     {
         id:2,
         title:"тарілка під пиво 200г",
-        price:"220 грн",
+        price:"250 грн",
         src:require('../img/tarpidbear.png'),
         text:"курка в'ялена, хамон, бастурма, фісташки",
     },
