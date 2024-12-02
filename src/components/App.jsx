@@ -762,7 +762,7 @@ export const App = () => {
 
               {/* Банкетне меню */}
 
-              {/* <AccordionItem className={s.banket}>
+              <AccordionItem className={s.banket}>
                 <>
                   <h1>
                     <AccordionButton className={s.title}>
@@ -1280,7 +1280,7 @@ export const App = () => {
                     </AccordionItem>
                   </AccordionPanel>
                 </>
-              </AccordionItem> */}
+              </AccordionItem>
 
               {showModal && (
                 <Modal objectModal={objectModal} toggleModal={toggleModal} />
