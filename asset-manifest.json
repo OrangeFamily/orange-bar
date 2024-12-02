@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.6cd751e4.js",
+    "main.js": "/orange-bar/static/js/main.0a8c9d02.js",
     "static/media/bbq.png": "/orange-bar/static/media/bbq.6bd580bb4e03964fd3b3.png",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/salatproshuto.png": "/orange-bar/static/media/salatproshuto.9f1d66166caf5b8289bc.png",
@@ -260,17 +260,16 @@
     "static/media/aperol.webp": "/orange-bar/static/media/aperol.853faa0bc6dd3146cded.webp",
     "static/media/kmg.webp": "/orange-bar/static/media/kmg.6751f2dd027595ff4c07.webp",
     "static/media/xenta.webp": "/orange-bar/static/media/xenta.f1abe57ca562584903fc.webp",
-    "static/media/123123.webp": "/orange-bar/static/media/123123.40539eee89666303d5ec.webp",
     "static/media/bail.webp": "/orange-bar/static/media/bail.a5ba5f13a61bbe6c1b94.webp",
     "static/media/fragolinob.webp": "/orange-bar/static/media/fragolinob.515f25a564448c7af589.webp",
     "static/media/fragolinor.webp": "/orange-bar/static/media/fragolinor.bee0c14e1e773298fd5a.webp",
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.6cd751e4.js.map": "/orange-bar/static/js/main.6cd751e4.js.map"
+    "main.0a8c9d02.js.map": "/orange-bar/static/js/main.0a8c9d02.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.6cd751e4.js"
+    "static/js/main.0a8c9d02.js"
   ]
 }
