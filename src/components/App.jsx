@@ -28,7 +28,7 @@ import hook from './img/hook.jpg';
 // import bullAct from './img/bullAct.jpg';
 // import bullActg from './img/bullActg.jpg';
 
-// import FrutMass from './comp/Kitchen/Data/DataFrut';
+import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
 import AssortiMass from './comp/Kitchen/Data/DataAssorti';
 
@@ -61,14 +61,14 @@ import PastaMass from './comp/Kitchen/Data/DataPasta';
 import SousMass from './comp/Kitchen/Data/DataSous';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import ToBearMass from './comp/Kitchen/Data/DataToBear';
-// import PizzaMass from './comp/Kitchen/Data/DataPizza';
+import PizzaMass from './comp/Kitchen/Data/DataPizza';
 import AdditivesMass from './comp/Kitchen/Data/DataAdd';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import { Coffe } from './comp/Bar/List/Coffe';
 import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
-// import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
+import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
 import JagerMass from './comp/Cocotail/Data/DataJager';
 import LemonadMass from './comp/Cocotail/Data/DataLemonad';
 import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
@@ -81,8 +81,8 @@ import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 // import eger from './img/norm.jpg'
 // import { ListAction } from './ModalAction/ListAction/ListAction';
 // import { ModalAction } from './ModalAction/ModalAction';
-// import AssortiMassBanket from './comp/Kitchen/DataBanket/DataAssortiBanket';
-// import HotMassBanket from './comp/Kitchen/DataBanket/DataHotBanket';
+import AssortiMassBanket from './comp/Kitchen/DataBanket/DataAssortiBanket';
+import HotMassBanket from './comp/Kitchen/DataBanket/DataHotBanket';
 import CoronaMass from './comp/Cocotail/Data/DataCorona';
 // import egerakc from './img/akc.jpg'
 
@@ -91,13 +91,13 @@ export const App = () => {
   // const [showModalAction, setShowModalAction] = useState(true);
   const [objectModal, setObjectModal] = useState({});
 
-  // const dataFrut = FrutMass;
+  const dataFrut = FrutMass;
   const dataBurgers = BurgerMass;
   const dataAssorti = AssortiMass;
-  // const dataAssortiBanket = AssortiMassBanket;
+  const dataAssortiBanket = AssortiMassBanket;
   const dataSalads = SaladsMass;
   // const dataHot = HotMass;
-  // const dataHotBanket = HotMassBanket;
+  const dataHotBanket = HotMassBanket;
   const dataFirst = FirstMass;
   const dataMain = MainMass;
   const dataPasta = PastaMass;
@@ -105,7 +105,7 @@ export const App = () => {
   const dataSous = SousMass;
   const dataGarnish = GarnishMass;
   const dataToBear = ToBearMass;
-  // const dataPizza = PizzaMass;
+  const dataPizza = PizzaMass;
   const dataKitAdd = AdditivesMass;
   const dataDeserts = DesertsMass;
 
@@ -134,7 +134,7 @@ export const App = () => {
   const dataAuth = AuthMass;
   const dataBanda = BandaMass;
   const dataClasic = ClasicMass;
-  // const dataColdTea = ColdTeaMass;
+  const dataColdTea = ColdTeaMass;
   const dataJager = JagerMass;
   const dataCorona = CoronaMass;
   const dataLemonad = LemonadMass;
