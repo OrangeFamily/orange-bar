@@ -19,14 +19,12 @@ import { List } from './comp/List/List';
 // import fifth from './img/5.JPG'
 
 import jag from './img/Jägermeister3.jpg';
-import pn from './img/IMG_2347.JPG';
-import vt from './img/IMG_2348.JPG';
-import sr from './img/srr.jpg';
-import cht from './img/cht.jpg';
-import ned from './img/IMG_2349.JPG';
-import hook from './img/hook.jpg';
-// import bullAct from './img/bullAct.jpg';
-// import bullActg from './img/bullActg.jpg';
+import pn from './img/pon.png';
+import vt from './img/vt.png';
+import sr from './img/sr.png';
+import cht from './img/cht.png';
+import ned from './img/nd.png';
+import hook from './img/hook.png';
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
