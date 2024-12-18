@@ -67,9 +67,9 @@ import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
 // import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
-import JagerMass from './comp/Cocotail/Data/DataJager';
+// import JagerMass from './comp/Cocotail/Data/DataJager';
 import LemonadMass from './comp/Cocotail/Data/DataLemonad';
-import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
+// import MixDrinkMass from './comp/Cocotail/Data/DataMixDrink';
 import NonMass from './comp/Cocotail/Data/DataNon';
 import PartyMixMass from './comp/Cocotail/Data/DataPartyMix';
 import ShotDrinkMass from './comp/Cocotail/Data/DataShotDrink';
@@ -81,7 +81,7 @@ import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 // import { ModalAction } from './ModalAction/ModalAction';
 // import AssortiMassBanket from './comp/Kitchen/DataBanket/DataAssortiBanket';
 // import HotMassBanket from './comp/Kitchen/DataBanket/DataHotBanket';
-import CoronaMass from './comp/Cocotail/Data/DataCorona';
+// import CoronaMass from './comp/Cocotail/Data/DataCorona';
 // import egerakc from './img/akc.jpg'
 
 export const App = () => {
@@ -133,10 +133,10 @@ export const App = () => {
   const dataBanda = BandaMass;
   const dataClasic = ClasicMass;
   // const dataColdTea = ColdTeaMass;
-  const dataJager = JagerMass;
-  const dataCorona = CoronaMass;
+  // const dataJager = JagerMass;
+  // const dataCorona = CoronaMass;
   const dataLemonad = LemonadMass;
-  const dataMixDrink = MixDrinkMass;
+  // const dataMixDrink = MixDrinkMass;
   const dataNon = NonMass;
   const dataPartyMzix = PartyMixMass;
   const dataShotDrink = ShotDrinkMass;
@@ -639,7 +639,7 @@ export const App = () => {
                   </h1>
                   <AccordionPanel>
                     <Accordion allowMultiple>
-                      <AccordionItem>
+                    {/*   <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             Corona cocktails
@@ -648,7 +648,7 @@ export const App = () => {
                         <AccordionPanel>
                           <List data={dataCorona} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
+                      </AccordionItem>*/}
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
@@ -699,7 +699,7 @@ export const App = () => {
                           <List data={dataShotDrink} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
-                      <AccordionItem>
+                     {/* <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             jagermeister
@@ -710,7 +710,7 @@ export const App = () => {
                         </AccordionPanel>
                       </AccordionItem>
 
-                      <AccordionItem>
+                     <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             mix drinks
@@ -719,7 +719,7 @@ export const App = () => {
                         <AccordionPanel>
                           <List data={dataMixDrink} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
+                      </AccordionItem>*/} 
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>

@@ -13,27 +13,27 @@ const JagerMass=[
     //     src: require('../../Bar/img/jager.webp'),
     //     text:"",
     // },
-    {
-        id:2,
-        title:"Jager-Tonic 200мл",
-        price:"150 грн",
-        src: require('../img/jagertonic.png'),
-        text:"Jägermeister, тонік",
-    },
-    {
-        id:3,
-        title:"Jager-Cherry 200мл",
-        price:"150 грн",
-        src: require('../img/jagercherry.png'),
-        text:"Jägermeister, вишневий сік",
-    },
-    {
-        id:4,
-        title:"Flying Deer 300мл",
-        price:"190 грн",
-        src: require('../img/jagercherry.png'),
-        text:"Jägermeister, Red Bull",
-    },
+    // {
+    //     id:2,
+    //     title:"Jager-Tonic 200мл",
+    //     price:"150 грн",
+    //     src: require('../img/jagertonic.png'),
+    //     text:"Jägermeister, тонік",
+    // },
+    // {
+    //     id:3,
+    //     title:"Jager-Cherry 200мл",
+    //     price:"150 грн",
+    //     src: require('../img/jagercherry.png'),
+    //     text:"Jägermeister, вишневий сік",
+    // },
+    // {
+    //     id:4,
+    //     title:"Flying Deer 300мл",
+    //     price:"190 грн",
+    //     src: require('../img/jagercherry.png'),
+    //     text:"Jägermeister, Red Bull",
+    // },
 ]
 
 export default JagerMass;
