@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.20119123.js",
+    "main.js": "/orange-bar/static/js/main.d11d94cd.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -175,7 +175,6 @@
     "static/media/meduza.webp": "/orange-bar/static/media/meduza.db3eb8b08a87ef38d154.webp",
     "static/media/jdh.webp": "/orange-bar/static/media/jdh.e19b64f4db67673f8072.webp",
     "static/media/dam.webp": "/orange-bar/static/media/dam.b7a94dae52e4022803b1.webp",
-    "static/media/sex.webp": "/orange-bar/static/media/sex.0b31d8bf2ef49aa4b726.webp",
     "static/media/asf.webp": "/orange-bar/static/media/asf.a6a30414ec99ed6429e5.webp",
     "static/media/beli.webp": "/orange-bar/static/media/beli.4ee8c01251e04c1d3549.webp",
     "static/media/redbull.webp": "/orange-bar/static/media/redbull.a4a293dfc08ea3d6fd6b.webp",
@@ -246,10 +245,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.20119123.js.map": "/orange-bar/static/js/main.20119123.js.map"
+    "main.d11d94cd.js.map": "/orange-bar/static/js/main.d11d94cd.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.20119123.js"
+    "static/js/main.d11d94cd.js"
   ]
 }
