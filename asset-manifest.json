@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.2c733f49.js",
+    "main.js": "/orange-bar/static/js/main.0277695c.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -122,7 +122,7 @@
     "static/media/metaxa.png": "/orange-bar/static/media/metaxa.e8c34570c0213f5a0b9e.png",
     "static/media/firmshot.png": "/orange-bar/static/media/firmshot.62a617fc8ff8051ddc98.png",
     "static/media/corona2.png": "/orange-bar/static/media/corona2.03bee1c6a2f7da40f0f9.png",
-    "static/media/Jägermeister3.jpg": "/orange-bar/static/media/Jägermeister3.160030e0dbf97742cfc7.jpg",
+    "static/media/Jägermeister3.jpg": "/orange-bar/static/media/Jägermeister3.898fb8231173e6c8f47c.jpg",
     "static/media/espresso.png": "/orange-bar/static/media/espresso.9eb9e0f0d8848a40b015.png",
     "static/media/donkr.png": "/orange-bar/static/media/donkr.5fac167059f1b81c9303.png",
     "static/media/americano.png": "/orange-bar/static/media/americano.067b2faa7d7501dd4c4f.png",
@@ -258,10 +258,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.2c733f49.js.map": "/orange-bar/static/js/main.2c733f49.js.map"
+    "main.0277695c.js.map": "/orange-bar/static/js/main.0277695c.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.2c733f49.js"
+    "static/js/main.0277695c.js"
   ]
 }
