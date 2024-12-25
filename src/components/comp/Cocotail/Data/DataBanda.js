@@ -4,6 +4,7 @@ const BandaMass=[
         title:"Hot aperol 300мл ",
         isNew: true,
         price:"190 грн",
+        isHot: true,
         src: require('../img/Hotaperol.png'),
         text:`Апероль, 
 Дон симон біле сухе, 
@@ -14,6 +15,7 @@ const BandaMass=[
         id:2,
         title:"Black maister 250мл",
         isNew: true,
+        isHot: true,
         price:"180 грн",
         src: require('../img/Blackmaister.png'),
         text:`Чорний чай, 
@@ -72,17 +74,6 @@ const BandaMass=[
         title:"captain sweetie 250мл",
         isNew: true,
         price:"170 грн",
-        src: require('../img/kepsweety.png'),
-        text:`золотий ром, 
-Сироп кориці 
-Сік вишни, 
-Прянощі`,
-    },
-    {
-        id:8,
-        title:"captain sweetie 250мл",
-        isNew: true,
-        price:"170рн",
         src: require('../img/kepsweety.png'),
         text:`золотий ром, 
 Сироп кориці 

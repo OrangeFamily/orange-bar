@@ -102,6 +102,7 @@ const  NonMass=[
         title:"Б/а глінтвейн 300мл",
         price:"99 грн",
         src: require('../img/glintChervoniy.png'),
+        isHot: true,
         text:`Сік вишня, 
 Сироп кориця,
 Спеції,
