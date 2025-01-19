@@ -73,6 +73,7 @@ const BandaMass=[
         id:7,
         title:"captain sweetie 250мл",
         isNew: true,
+        isHot: true,
         price:"170 грн",
         src: require('../img/kepsweety.png'),
         text:`золотий ром, 
