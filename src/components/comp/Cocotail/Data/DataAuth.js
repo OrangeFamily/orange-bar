@@ -31,14 +31,14 @@ const AuthMass=[
     {
         id:5,
         title:"Азія мінор айс ті 450мл",
-        price:"200 грн",
+        price:"210 грн",
         src: require('../img/azia.webp'),
         text:"горілка, ром золотий, джин, лікер диня, сік лимона, 7up",
     },
     {
         id:6,
         title:"Оргазм Тарзана 350мл",
-        price:"170 грн",
+        price:"185 грн",
         src: require('../img/org.webp'),
         text:"горілка, лікер динний, сироп блю кюрасао, сік ананасовий",
     },
@@ -73,7 +73,7 @@ const AuthMass=[
     {
         id:11,
         title:"Cherry Valley 350мл",
-        price:"150 грн",
+        price:"180 грн",
         src: require('../img/granma.webp'),
         text:"горілка, сік вишневий, морс із журавлини, сироп гранатовий, тонік",
     },
@@ -102,7 +102,7 @@ const AuthMass=[
     {
         id:15,
         title:"Tropical Hurricane 450мл",
-        price:"200 грн",
+        price:"210 грн",
         src: require('../img/tropic.png'),
         text:"ром золотий, лікер кокосовий, сироп ананасовий, ред бул тропічний",
     },

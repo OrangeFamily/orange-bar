@@ -23,9 +23,9 @@ const GinMass = [
   {
     id: 4,
     title: "гордон`c середземноморський апельсин (Великобританія) 1л",
-    price: '1900 грн',
+    price: '2100 грн',
     src: require('../img/ginorange.png'),
-    text: '50мл - 95 грн',
+    text: '50мл - 100 грн',
   },
   {
     id: 5,

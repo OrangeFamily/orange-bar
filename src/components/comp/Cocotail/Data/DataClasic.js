@@ -9,7 +9,7 @@ const ClasicMass=[
     {
         id:2,
         title:"Май Тай 450мл",
-        price:"220 грн",
+        price:"230 грн",
         src: require('../img/may.webp'),
         text:"ром білий, чорний, золотий лікер мигдальний, лікер апельсиновий, сік апельсиновий, ананасовий",
     },
@@ -23,7 +23,7 @@ const ClasicMass=[
     {
         id:4,
         title:"Мохіто 350мл",
-        price:"170 грн",
+        price:"180 грн",
         src: require('../img/moh.webp'),
         text:"ром, лайм, м’ята, цукор, 7up",
     },
@@ -37,7 +37,7 @@ const ClasicMass=[
     {
         id:6,
         title:"Апероль спрітц 350мл",
-        price:"230 грн",
+        price:"240 грн",
         src: require('../img/aper.webp'),
         text:"апероль, просекко, мінеральна вода",
     },
@@ -72,7 +72,7 @@ const ClasicMass=[
     {
         id:11,
         title:"Негроні 200мл",
-        price:"210 грн",
+        price:"220 грн",
         src: require('../img/neg.webp'),
         text:"джин, червоний вермут, кампарі, цедра апельсина",
     },
@@ -86,7 +86,7 @@ const ClasicMass=[
     {
         id:13,
         title:"Віскі сауер 200мл",
-        price:"190 грн",
+        price:"210 грн",
         src: require('../img/sau.webp'),
         text:"Бурбон Буліт, лимонний фреш, ізі фом, цукровий сироп, лимонна цедра",
     },
@@ -100,14 +100,14 @@ const ClasicMass=[
     {
         id:15,
         title:"Срібна затока 400мл",
-        price:"220 грн",
+        price:"230 грн",
         src: require('../img/zaliv.webp'),
         text:"джин, кокосовий лікер, персиковий лікер, сік ананасовий, сік апельсиновий",
     },
     {
         id:16,
         title:"Секс на пляжі 350мл",
-        price:"170 грн",
+        price:"180 грн",
         src: require('../img/bich.webp'),
         text:"горілка, персиковий лікер, сік апельсиновий, журавлиний морс",
     },
@@ -135,7 +135,7 @@ const ClasicMass=[
     {
         id:20,
         title:"Блакитна лагуна 350мл",
-        price:"170 грн",
+        price:"180 грн",
         src: require('../img/lagu.webp'),
         text:"горілка, лікер Блю Кюрасао, лимонний фреш, 7up",
     },
@@ -146,13 +146,13 @@ const ClasicMass=[
     //     src: require('../img/day.webp'),
     //     text:"ром, цукровий сироп, лаймовий фреш",
     // },
-    // {
-    //     id:22,
-    //     title:"Манхеттен 120мл",
-    //     price:"180 грн",
-    //     src: require('../img/manh.webp'),
-    //     text:"бурбон, червоний вермут, ангостура",
-    // },
+    {
+        id:22,
+        title:"Манхеттен 120мл",
+        price:"190 грн",
+        src: require('../img/manh.webp'),
+        text:"бурбон, червоний вермут, ангостура",
+    },
     // {
     //     id:23,
     //     title:"Кловер клаб 120мл",
@@ -177,14 +177,14 @@ const ClasicMass=[
     {
         id:26,
         title:"викрутка 250мл",
-        price:"90 грн",
+        price:"100 грн",
         src: require('../img/vikr.png'),
         text:"горілка, сік апельсиновий",
     },
     {
         id:27,
         title:"бренді кола 250мл",
-        price:"100 грн",
+        price:"120 грн",
         src: require('../img/brendycoe.png'),
         text:"бренді коблево, пепсі",
     },
@@ -205,7 +205,7 @@ const ClasicMass=[
     {
         id:30,
         title:"Корона санрайз",
-        price:"160 грн",
+        price:"170 грн",
         src: require('../img/corona2.png'),
         text:"корона, текіла, сироп гренадін, апельсиновий сік, лайм",
     },

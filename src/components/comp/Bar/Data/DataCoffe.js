@@ -100,7 +100,7 @@ const CoffeMass=[
     {
         id:13,
         title:"Какао з маршмелоу 0,250л",
-        price:"55 грн",
+        price:"75 грн",
         src: require('../img/shakecof.png'),
         text:"",
     },
