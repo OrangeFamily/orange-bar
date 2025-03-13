@@ -204,13 +204,20 @@ const ClasicMass=[
     },
     {
         id:30,
+        title:"віскі кола 250мл",
+        price:"140 грн",
+        src: require('../img/cuba.webp'),
+        text:"віскі, пепсі",
+    },
+    {
+        id:31,
         title:"Корона санрайз",
         price:"170 грн",
         src: require('../img/corona2.png'),
         text:"корона, текіла, сироп гренадін, апельсиновий сік, лайм",
     },
     {
-        id:31,
+        id:32,
         title:"Білий глінтвейн  300мл",
         price:"150 грн",
         src: require('../img/biliyglint.png'),
@@ -223,7 +230,7 @@ const ClasicMass=[
 Спеції`,
     },
     {
-        id:32,
+        id:33,
         title:"глінтвейн  300мл",
         price:"150 грн",
         src: require('../img/biliyglint.png'),
