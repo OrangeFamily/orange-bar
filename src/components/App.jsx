@@ -51,7 +51,7 @@ import CoffeMass from './comp/Bar/Data/DataCoffe';
 import TeaMass from './comp/Bar/Data/DataTea';
 import DrinkMass from './comp/Bar/Data/DataDrink';
 import EnergyMass from './comp/Bar/Data/DataEnergy';
-import AddMass from './comp/Bar/Data/DataAdd';
+// import AddMass from './comp/Bar/Data/DataAdd';
 import FirstMass from './comp/Kitchen/Data/DataFirst';
 import MainMass from './comp/Kitchen/Data/DataMain';
 import PetelnaMass from './comp/Kitchen/Data/DataPetelna';
@@ -60,7 +60,7 @@ import SousMass from './comp/Kitchen/Data/DataSous';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import ToBearMass from './comp/Kitchen/Data/DataToBear';
 // import PizzaMass from './comp/Kitchen/Data/DataPizza';
-import AdditivesMass from './comp/Kitchen/Data/DataAdd';
+// import AdditivesMass from './comp/Kitchen/Data/DataAdd';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import { Coffe } from './comp/Bar/List/Coffe';
 import AuthMass from './comp/Cocotail/Data/DataAuth';
@@ -104,7 +104,7 @@ export const App = () => {
   const dataGarnish = GarnishMass;
   const dataToBear = ToBearMass;
   // const dataPizza = PizzaMass;
-  const dataKitAdd = AdditivesMass;
+  // const dataKitAdd = AdditivesMass;
   const dataDeserts = DesertsMass;
 
   const dataNarCoct = NarCoctMass;
@@ -127,7 +127,7 @@ export const App = () => {
   const dataTeaNatural = TeaNatural;
   const dataDrink = DrinkMass;
   const dataEnergy = EnergyMass;
-  const dataAdd = AddMass;
+  // const dataAdd = AddMass;
 
   const dataAuth = AuthMass;
   const dataBanda = BandaMass;
