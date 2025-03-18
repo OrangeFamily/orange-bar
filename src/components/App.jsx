@@ -345,7 +345,7 @@ export const App = () => {
                         <List data={dataToBear} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
-                    <AccordionItem>
+                    {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           Доповнення
@@ -354,7 +354,7 @@ export const App = () => {
                       <AccordionPanel>
                         <Coffe data={dataKitAdd} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem> */}
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
@@ -612,7 +612,7 @@ export const App = () => {
                           <List data={dataEnergy} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
-                      <AccordionItem>
+                      {/* <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             Доповнення
@@ -621,7 +621,7 @@ export const App = () => {
                         <AccordionPanel>
                           <List data={dataAdd} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
+                      </AccordionItem> */}
                     </Accordion>
                     <h3 className={s.orign}>
                       *фото можуть не відповідати оригіналу

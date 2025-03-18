@@ -1,5 +1,12 @@
 const ShampanMass=[
     {
+        id:9,
+        title:"Просеко кег 150 мл",
+        price:"100 грн",
+        src: require('../img/prossecoKeg.png'),
+        text:"",
+    },
+    {
         id:8,
         title:"Моет і Шандон Імперіаль (Франція) ігр.,брют біле 0,75л",
         price:"3020 грн",
