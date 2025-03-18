@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.9efd4960.js",
+    "main.js": "/orange-bar/static/js/main.0b85a272.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -124,6 +124,7 @@
     "static/media/corona2.png": "/orange-bar/static/media/corona2.03bee1c6a2f7da40f0f9.png",
     "static/media/espresso.png": "/orange-bar/static/media/espresso.9eb9e0f0d8848a40b015.png",
     "static/media/donkr.png": "/orange-bar/static/media/donkr.5fac167059f1b81c9303.png",
+    "static/media/prossecoKeg.png": "/orange-bar/static/media/prossecoKeg.048edfcf311cf1e9f440.png",
     "static/media/americano.png": "/orange-bar/static/media/americano.067b2faa7d7501dd4c4f.png",
     "static/media/rada.png": "/orange-bar/static/media/rada.5f9e61eb92efdce29137.png",
     "static/media/century-gotic.ttf": "/orange-bar/static/media/century-gotic.b194aa2bd524e2c973f7.ttf",
@@ -136,10 +137,8 @@
     "static/media/steykred.webp": "/orange-bar/static/media/steykred.c2d9fc3da94c19902f2d.webp",
     "static/media/orangeLogo.png": "/orange-bar/static/media/orangeLogo.9679a3f9a5d07c05ddb0.png",
     "static/media/caw.webp": "/orange-bar/static/media/caw.1fa653e593f491bff964.webp",
-    "static/media/orange.webp": "/orange-bar/static/media/orange.53429a0e0eabeb24490a.webp",
     "static/media/martini.webp": "/orange-bar/static/media/martini.057a822c8c113fa00fb5.webp",
     "static/media/tea.webp": "/orange-bar/static/media/tea.1338e15cdc8ac40ff2c1.webp",
-    "static/media/med.webp": "/orange-bar/static/media/med.909cf6858deaae4da45d.webp",
     "static/media/meattarelka.webp": "/orange-bar/static/media/meattarelka.cebe6fa926541b9b8ba9.webp",
     "static/media/doshkomp.webp": "/orange-bar/static/media/doshkomp.eef9458dfbdde1214298.webp",
     "static/media/selo.webp": "/orange-bar/static/media/selo.2ae0c80b086e11ee750a.webp",
@@ -153,7 +152,6 @@
     "static/media/azia.webp": "/orange-bar/static/media/azia.57aca363191c904d308f.webp",
     "static/media/hoegarden.webp": "/orange-bar/static/media/hoegarden.d84afa47a7080b6354de.webp",
     "static/media/belbar.webp": "/orange-bar/static/media/belbar.1f252ee6feb4561e30dd.webp",
-    "static/media/lime.webp": "/orange-bar/static/media/lime.b06b6c121f758e36dc2f.webp",
     "static/media/kalmar.webp": "/orange-bar/static/media/kalmar.29c4de663fb177f60e87.webp",
     "static/media/arb.webp": "/orange-bar/static/media/arb.b3ae6279fa73b2677667.webp",
     "static/media/tarelkachees.webp": "/orange-bar/static/media/tarelkachees.db42472b9f92590e74c3.webp",
@@ -165,7 +163,6 @@
     "static/media/tiger.webp": "/orange-bar/static/media/tiger.c4828640bf6f83de4f83.webp",
     "static/media/or.webp": "/orange-bar/static/media/or.36b24d996cc3c5a224f6.webp",
     "static/media/lem.webp": "/orange-bar/static/media/lem.a8f72f13b8e2155a6163.webp",
-    "static/media/lemon.webp": "/orange-bar/static/media/lemon.4a214cdf5749c07339ec.webp",
     "static/media/chikenpasta.webp": "/orange-bar/static/media/chikenpasta.64e1aef9517c851271e0.webp",
     "static/media/moh.webp": "/orange-bar/static/media/moh.41a0f72eca95137e87bc.webp",
     "static/media/tigersal.webp": "/orange-bar/static/media/tigersal.5e3aa286eac1f46c54ce.webp",
@@ -217,7 +214,6 @@
     "static/media/mex.webp": "/orange-bar/static/media/mex.3dfaf7b4ef82d503da50.webp",
     "static/media/sparkling.webp": "/orange-bar/static/media/sparkling.5e90b1fd6b4ab4737254.webp",
     "static/media/up.webp": "/orange-bar/static/media/up.b19b2e17e325c134d1c9.webp",
-    "static/media/milk.webp": "/orange-bar/static/media/milk.c56c51593acd7a55015c.webp",
     "static/media/rmvsop.webp": "/orange-bar/static/media/rmvsop.bba004ff4eb7d65266b0.webp",
     "static/media/sensidal.webp": "/orange-bar/static/media/sensidal.7edfefce43224db42ec8.webp",
     "static/media/neuropol-mwdium.ttf": "/orange-bar/static/media/neuropol-mwdium.56c96f5897e7961cef60.ttf",
@@ -228,7 +224,6 @@
     "static/media/mushsup.webp": "/orange-bar/static/media/mushsup.268294c04e0a46c55d46.webp",
     "static/media/chikensup.webp": "/orange-bar/static/media/chikensup.ceecf8e6e606a643edda.webp",
     "static/media/tigerburg.webp": "/orange-bar/static/media/tigerburg.2ef67eec0fe48b3130a7.webp",
-    "static/media/cream.webp": "/orange-bar/static/media/cream.5468fde51d04ce1ab781.webp",
     "static/media/pork-burg.webp": "/orange-bar/static/media/pork-burg.f3dcec6d8c37d831214e.webp",
     "static/media/fri.webp": "/orange-bar/static/media/fri.9cee5c5ba5a4635b7eee.webp",
     "static/media/fly.webp": "/orange-bar/static/media/fly.2d84481e820700fcd9ac.webp",
@@ -244,7 +239,6 @@
     "static/media/cheesbeer.webp": "/orange-bar/static/media/cheesbeer.bb304029045fee8f8e4e.webp",
     "static/media/mush.webp": "/orange-bar/static/media/mush.a88d2c0485da5fac12ad.webp",
     "static/media/corona.webp": "/orange-bar/static/media/corona.06e33848279998f2a963.webp",
-    "static/media/cherry.webp": "/orange-bar/static/media/cherry.241a9b00bba9d5ca6846.webp",
     "static/media/bels.webp": "/orange-bar/static/media/bels.c27bf2c1b3f0bde18645.webp",
     "static/media/kmd.webp": "/orange-bar/static/media/kmd.fa12c669b91ca144fe13.webp",
     "static/media/tonic.webp": "/orange-bar/static/media/tonic.e95d8cc993129bc206fa.webp",
@@ -257,10 +251,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.9efd4960.js.map": "/orange-bar/static/js/main.9efd4960.js.map"
+    "main.0b85a272.js.map": "/orange-bar/static/js/main.0b85a272.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.9efd4960.js"
+    "static/js/main.0b85a272.js"
   ]
 }
