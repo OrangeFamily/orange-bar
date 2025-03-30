@@ -15,14 +15,15 @@ const BearMass = [
     src: require('../img/beloe.png'),
     text: '',
   },
-  {
-    id: 3,
-    title: 'Чернігівське Біла Ніч (Україна) кегове',
-    price: '0,5л - 75 грн',
-    price2: '0,33л - 60 грн',
-    src: require('../img/bilanich.png'),
-    text: '',
-  },
+  // {
+  //   id: 3,
+  //   title: 'Чернігівське Біла Ніч (Україна) кегове',
+  //   price: '0,5л - 75 грн',
+  //   price2: '0,33л - 60 грн',
+  //   src: require('../img/bilanich.png'),
+  //   text: '',
+  // },
+  
   
 //   {
 //     id:4,
@@ -32,14 +33,14 @@ const BearMass = [
 //     src: require('../img/somers.png'),
 //     text:"",
 // },
-  // {
-  //     id:4,
-  //     title:"Повна діжка (Україна) кегове",
-  //     price:"0,5л - 65 грн",
-  //     price2:"0,33л - 50 грн",
-  //     src: require('../img/dizhka.png'),
-  //     text:"",
-  // },
+  {
+      id:4,
+      title:"Повна діжка (Україна) кегове",
+      price:"0,5л - 75 грн",
+      price2:"0,33л - 60 грн",
+      src: require('../img/dizhka.png'),
+      text:"",
+  },
   // {
   //     id:5,
   //     title:"Хмелевус вайс (Україна) кегове",
