@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.071593d1.js",
+    "main.js": "/orange-bar/static/js/main.4fc75806.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -90,9 +90,9 @@
     "static/media/koblevo.png": "/orange-bar/static/media/koblevo.53154833b934e056b016.png",
     "static/media/lemonadclasic.png": "/orange-bar/static/media/lemonadclasic.df04c5cb062b996c199e.png",
     "static/media/singlton.png": "/orange-bar/static/media/singlton.65bd45c5bd4c0a045070.png",
-    "static/media/bilanich.png": "/orange-bar/static/media/bilanich.bafdf2372c57d0604102.png",
     "static/media/stelakeg.png": "/orange-bar/static/media/stelakeg.91fa438e57a0c44002a5.png",
     "static/media/gordonsba.png": "/orange-bar/static/media/gordonsba.45e9dd533f851665204c.png",
+    "static/media/dizhka.png": "/orange-bar/static/media/dizhka.325f70270671b3583fec.png",
     "static/media/Neverfake.png": "/orange-bar/static/media/Neverfake.a1dd509b15c820788fb6.png",
     "static/media/rby.png": "/orange-bar/static/media/rby.6e70882d211ce5f6c8ca.png",
     "static/media/summerkiss.png": "/orange-bar/static/media/summerkiss.d6417429632375b81e9e.png",
@@ -254,10 +254,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.071593d1.js.map": "/orange-bar/static/js/main.071593d1.js.map"
+    "main.4fc75806.js.map": "/orange-bar/static/js/main.4fc75806.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.071593d1.js"
+    "static/js/main.4fc75806.js"
   ]
 }
