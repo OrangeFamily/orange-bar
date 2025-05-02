@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.9633246f.css",
-    "main.js": "/orange-bar/static/js/main.d73ce4e8.js",
+    "main.js": "/orange-bar/static/js/main.76599828.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -33,7 +33,6 @@
     "static/media/lukkolca.png": "/orange-bar/static/media/lukkolca.5c3e1c912df98dac08d5.png",
     "static/media/kurkot.png": "/orange-bar/static/media/kurkot.455ef42f7344f75eb29c.png",
     "static/media/greeny.png": "/orange-bar/static/media/greeny.e827536877c39d490ae0.png",
-    "static/media/kepsweety.png": "/orange-bar/static/media/kepsweety.0db48f7db6f902894233.png",
     "static/media/fiesta.png": "/orange-bar/static/media/fiesta.bd89d87b9943cfdc0f5e.png",
     "static/media/fiat.png": "/orange-bar/static/media/fiat.c893d9a46fb81dace121.png",
     "static/media/brendycoe.png": "/orange-bar/static/media/brendycoe.6b92b11d78c0173e3054.png",
@@ -51,10 +50,8 @@
     "static/media/pracovrotik.png": "/orange-bar/static/media/pracovrotik.a1d92e14a51a24d6ef85.png",
     "static/media/Chunky.png": "/orange-bar/static/media/Chunky.a01859594ac1ce6c3b11.png",
     "static/media/maracuyasun.png": "/orange-bar/static/media/maracuyasun.fe70027534210a112923.png",
-    "static/media/Hotaperol.png": "/orange-bar/static/media/Hotaperol.9d9a8b956fd132d7e786.png",
     "static/media/fayniyjin.png": "/orange-bar/static/media/fayniyjin.93f8c5d020fed7d6a030.png",
     "static/media/biliyglint.png": "/orange-bar/static/media/biliyglint.dceeb859bd69ee576c07.png",
-    "static/media/Blackmaister.png": "/orange-bar/static/media/Blackmaister.a77dd234db07067da083.png",
     "static/media/late.png": "/orange-bar/static/media/late.4ef7f8f11584cf0fd705.png",
     "static/media/burgcezar.png": "/orange-bar/static/media/burgcezar.31acff720ea52536b1e5.png",
     "static/media/bambl.png": "/orange-bar/static/media/bambl.7f86341740a554cf5b4a.png",
@@ -255,10 +252,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.9633246f.css.map": "/orange-bar/static/css/main.9633246f.css.map",
-    "main.d73ce4e8.js.map": "/orange-bar/static/js/main.d73ce4e8.js.map"
+    "main.76599828.js.map": "/orange-bar/static/js/main.76599828.js.map"
   },
   "entrypoints": [
     "static/css/main.9633246f.css",
-    "static/js/main.d73ce4e8.js"
+    "static/js/main.76599828.js"
   ]
 }
