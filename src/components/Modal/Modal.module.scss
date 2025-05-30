@@ -19,9 +19,9 @@
   // background-image: url(./img/fon2.jpg);
   // background-size: contain;
   width: 600px;
-  height: 900px;
+  height: 600px;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 140px;
   border-radius: 10px;
   padding: 40px;
   display: flex;
@@ -54,7 +54,7 @@
   margin-bottom: 10px;
   padding: 7px 0;
   text-transform: uppercase;
-  font-size: 50px;
+  font-size: 35px;
   @media (min-width: 320px) and (max-width: 480px) {
     font-size: 20px;
     width: 235px;
@@ -79,5 +79,5 @@
   }
 }
 .imgSize{
-  width: 100%;
+  width: 70%;
 }
