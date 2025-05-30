@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.179e0b4b.css",
-    "main.js": "/orange-bar/static/js/main.3d3c21c3.js",
+    "main.js": "/orange-bar/static/js/main.ad443f71.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -248,10 +248,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.179e0b4b.css.map": "/orange-bar/static/css/main.179e0b4b.css.map",
-    "main.3d3c21c3.js.map": "/orange-bar/static/js/main.3d3c21c3.js.map"
+    "main.ad443f71.js.map": "/orange-bar/static/js/main.ad443f71.js.map"
   },
   "entrypoints": [
     "static/css/main.179e0b4b.css",
-    "static/js/main.3d3c21c3.js"
+    "static/js/main.ad443f71.js"
   ]
 }
