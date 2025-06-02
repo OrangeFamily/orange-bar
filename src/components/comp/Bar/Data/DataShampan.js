@@ -24,7 +24,7 @@ const ShampanMass=[
         id:2,
         // title:"Latinium Sparkling Rose, рожеве напівсолодке 0.75 л",
         title:"Latinium, Peter Mertes «Sparkling» (Німеччина) ігристе, біл./напівсол. 0,75л",
-        price:"490 грн",
+        price:"540 грн",
         src: require('../img/sparkling.webp'),
         text:"",
     },

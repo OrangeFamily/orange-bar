@@ -23,9 +23,9 @@ const RomMass=[
     {
         id:3,
         title:"Кептен Морган Дарк (Ямайка) 1л",
-        price:"1900 грн",
+        price:"2200 грн",
         src: require('../img/kmd.webp'),
-        text:"50мл - 95 грн",
+        text:"50мл - 110 грн",
     },
     {
         id:4,
