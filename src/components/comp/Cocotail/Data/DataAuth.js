@@ -70,13 +70,13 @@ const AuthMass=[
     //     src: require('../img/smer.webp'),
     //     text:"абсент, горілка, лікер м’ятний, тонік, лимнонний фреш",
     // },
-    {
-        id:11,
-        title:"Cherry Valley 350мл",
-        price:"180 грн",
-        src: require('../img/granma.webp'),
-        text:"горілка, сік вишневий, морс із журавлини, сироп гранатовий, тонік",
-    },
+    // {
+    //     id:11,
+    //     title:"Cherry Valley 350мл",
+    //     price:"180 грн",
+    //     src: require('../img/granma.webp'),
+    //     text:"горілка, сік вишневий, морс із журавлини, сироп гранатовий, тонік",
+    // },
     
     {
         id:12,

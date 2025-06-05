@@ -1,4 +1,41 @@
 const  NonMass=[
+    
+  {
+    id: 3,
+    title: 'Mirage 350мл',
+    isNew: true,
+    price: '95 грн',
+    src: require('../img/Mirage.png'),
+    text: `сироп карамель,
+сироп корица,
+сироп малина,
+сок лимон,
+сок вишня,
+7ап`,
+  }, 
+  {
+    id: 3,
+    title: 'Sour Me 250мл',
+    isNew: true,
+    price: '90 грн',
+    src: require('../img/SourMe.png'),
+    text: `ciк лимона,
+сiк ананас, 
+сироп маракуя,
+7ап`,
+  },
+  
+  {
+    id: 3,
+    title: 'apple snap 250мл',
+    isNew: true,
+    price: '100 грн',
+    src: require('../img/applesnap.png'),
+    text: `cироп яблоко,
+сок лимон,
+тоник,
+Вода з огірком`,
+  },
     {
         id:1,
         title:"Перфекціоніст 350мл",
@@ -97,18 +134,18 @@ const  NonMass=[
         src: require('../img/ton.webp'),
         text:"джин 0.0, тонік, лимон",
     },
-    {
-        id:15,
-        title:"Б/а глінтвейн 300мл",
-        price:"99 грн",
-        src: require('../img/glintChervoniy.png'),
-        isHot: true,
-        text:`Сік вишня, 
-Сироп кориця,
-Спеції,
-Лимон,
-Апельсин`,
-    },
+//     {
+//         id:15,
+//         title:"Б/а глінтвейн 300мл",
+//         price:"99 грн",
+//         src: require('../img/glintChervoniy.png'),
+//         isHot: true,
+//         text:`Сік вишня, 
+// Сироп кориця,
+// Спеції,
+// Лимон,
+// Апельсин`,
+//     },
 ]
 
 export default NonMass;
