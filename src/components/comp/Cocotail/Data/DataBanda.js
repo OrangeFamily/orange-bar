@@ -1,6 +1,6 @@
 const BandaMass = [
     {
-    id: 3,
+    id: 1,
     title: 'apple smash  250мл',
     isNew: true,
     price: '210 грн',
@@ -12,7 +12,7 @@ const BandaMass = [
 изи фом`,
   },
   {
-    id: 3,
+    id: 2,
     title: 'Tropic menta  250мл',
     isNew: true,
     price: '200 грн',
@@ -36,7 +36,7 @@ const BandaMass = [
 тоник`,
   },
   {
-    id: 3,
+    id: 4,
     title: 'inferno 200мл',
     isNew: true,
     price: '200 грн',
@@ -48,7 +48,7 @@ const BandaMass = [
 сахар сироп`,
   },
   {
-    id: 3,
+    id: 5,
     title: 'juice sun 150мл',
     isNew: true,
     price: '190 грн',
@@ -60,7 +60,7 @@ const BandaMass = [
 ангостура`,
   },
   {
-    id: 3,
+    id: 6,
     title: 'sweet sin 150мл',
     isNew: true,
     price: '200 грн',
@@ -72,7 +72,7 @@ const BandaMass = [
 Вершки`,
   },
   {
-    id: 3,
+    id: 7,
     title: 'Black Velvet 150мл',
     isNew: true,
     price: '190 грн',
@@ -84,7 +84,7 @@ const BandaMass = [
 ангостура`,
   },
   {
-    id: 3,
+    id: 8,
     title: 'deep basil 250мл',
     isNew: true,
     price: '200 грн',
@@ -121,7 +121,7 @@ const BandaMass = [
   // Корица сироп`,
   //     },
   {
-    id: 3,
+    id: 9,
     title: 'Пряне яблуко  250мл',
     // isNew: true,
     price: '200 грн',
@@ -133,7 +133,7 @@ const BandaMass = [
 Спрайт`,
   },
   {
-    id: 4,
+    id: 10,
     title: 'keep it honney  200мл',
     // isNew: true,
     price: '190 грн',
@@ -155,7 +155,7 @@ const BandaMass = [
   // ізі фом`,
   //     },
   {
-    id: 6,
+    id: 11,
     title: 'Chunky  200мл',
     // isNew: true,
     price: '179 грн',
@@ -178,7 +178,7 @@ const BandaMass = [
   // Прянощі`,
   //     },
   {
-    id: 9,
+    id: 12,
     title: 'Чіназез 450мл ',
     // isNew: true,
     price: '220 грн',
@@ -186,7 +186,7 @@ const BandaMass = [
     text: 'ром золотий, егермайстер, кокосовий лікер, лимонний сік, вишневий сік',
   },
   {
-    id: 10,
+    id: 13,
     title: 'Працьовитий ротик 200мл ',
     // isNew: true,
     price: '210 грн',
@@ -194,7 +194,7 @@ const BandaMass = [
     text: 'текіла, сироп блю кюрасао, лікер блю кюрасао, бейліс, ананасовий сік',
   },
   {
-    id: 11,
+    id: 14,
     title: 'Грінні 250мл ',
     // isNew: true,
     price: '180 грн',
@@ -202,7 +202,7 @@ const BandaMass = [
     text: 'ром золотий, лікер амаретто, сік яблучний, лимонний сік',
   },
   {
-    id: 12,
+    id: 15,
     title: 'Джеррі 350мл ',
     // isNew: true,
     price: '180 грн',
@@ -210,7 +210,7 @@ const BandaMass = [
     text: 'вишневий лікер, горілка, сік грейпфрут, тонік',
   },
   {
-    id: 13,
+    id: 16,
     title: 'Simba 350мл ',
     // isNew: true,
     price: '200 грн',
@@ -226,7 +226,7 @@ const BandaMass = [
   //     text:"ром золотий, лікер апельсиновий, ангостура, ананасовий сироп, лимонний сік, апельсин, м'ята",
   // },
   {
-    id: 15,
+    id: 17,
     title: 'Pussy kiss 250мл ',
     // isNew: true,
     price: '200 грн',
@@ -234,7 +234,7 @@ const BandaMass = [
     text: 'джин, вишневий лікер, полуничний сироп, ананасовий сік',
   },
   {
-    id: 16,
+    id: 18,
     title: 'Summer kiss 250мл ',
     // isNew: true,
     price: '200 грн',
@@ -242,7 +242,7 @@ const BandaMass = [
     text: 'текіла, апероль, полуничний сироп, лимонний сік, ізі фом',
   },
   {
-    id: 17,
+    id: 19,
     title: 'Фієста 350мл ',
     // isNew: true,
     price: '200 грн',
