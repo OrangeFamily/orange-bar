@@ -79,7 +79,7 @@ import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 // import eger from './img/norm.jpg'
 // import { ListAction } from './ModalAction/ListAction/ListAction';
 // import { ModalAction } from './ModalAction/ModalAction';
-// import CoronaMass from './comp/Cocotail/Data/DataCorona';
+import CoronaMass from './comp/Cocotail/Data/DataCorona';
 // import egerakc from './img/akc.jpg'
 
 export const App = () => {
@@ -132,7 +132,7 @@ export const App = () => {
   const dataClasic = ClasicMass;
   // const dataColdTea = ColdTeaMass;
   // const dataJager = JagerMass;
-  // const dataCorona = CoronaMass;
+  const dataCorona = CoronaMass;
   const dataLemonad = LemonadMass;
   // const dataMixDrink = MixDrinkMass;
   const dataNon = NonMass;
@@ -637,16 +637,7 @@ export const App = () => {
                   </h1>
                   <AccordionPanel>
                     <Accordion allowMultiple>
-                    {/*   <AccordionItem>
-                        <h2>
-                          <AccordionButton className={s.titleItem}>
-                            Corona cocktails
-                          </AccordionButton>
-                        </h2>
-                        <AccordionPanel>
-                          <List data={dataCorona} onModal={dataModal} />
-                        </AccordionPanel>
-                      </AccordionItem>*/}
+                      
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
@@ -655,6 +646,16 @@ export const App = () => {
                         </h2>
                         <AccordionPanel>
                           <List data={dataBanda} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            Corona cocktails
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataCorona} onModal={dataModal} />
                         </AccordionPanel>
                       </AccordionItem>
                       <AccordionItem>
