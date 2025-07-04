@@ -32,7 +32,7 @@ const RomMass=[
         title:"Кептен Морган Блек Спайсед (Ямайка) 1л",
         price:"2600 грн",
         src: require('../img/kmgbs.png'),
-        text:"50мл - 230 грн",
+        text:"50мл - 130 грн",
     },
     
     
