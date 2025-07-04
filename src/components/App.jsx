@@ -25,6 +25,7 @@ import sr from './img/sr.png';
 import cht from './img/cht.png';
 import ned from './img/nd.png';
 import hook from './img/hook.png';
+import jagGlass from './img/jagGlass.jpg'
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
@@ -205,6 +206,7 @@ export const App = () => {
                     <img src={cht} alt="" className={s.fctionPhoto} />
                     <img src={ned} alt="" className={s.fctionPhoto} />
                     <img src={hook} alt="" className={s.fctionPhoto} />
+                    <img src={jagGlass} alt="" className={s.fctionPhoto} />
                     {/* <img src={first} alt="" className={s.fctionPhoto} /> */}
                     {/* <img src={second} alt="" className={s.fctionPhoto} /> */}
                     {/* <img src={bullAct} alt="" className={s.fctionPhoto} />
