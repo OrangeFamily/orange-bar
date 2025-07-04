@@ -105,6 +105,13 @@ const CoffeMass=[
         text:"",
     },
     
+    {
+        id:14,
+        title:"айс лате 0,250л",
+        price:"65 грн",
+        src: '',
+        text:"",
+    },
     
 ]
 

@@ -62,7 +62,7 @@ const LemonadMass=[
     {
         id:8,
         title:"Бамбл 350мл",
-        price:"65 грн",
+        price:"70 грн",
         src: require('../img/bambl.png'),
         text:"сік на вибір, еспресо, карамельний сироп",
     },

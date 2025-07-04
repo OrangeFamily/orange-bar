@@ -16,7 +16,7 @@ const ClasicMass=[
     {
         id:3,
         title:"Лонг Айленд 450мл",
-        price:"230 грн",
+        price:"240 грн",
         src: require('../img/long.webp'),
         text:"ром, джин, горілка, текіла, лікер апельсиновий, лимонний фреш, пепсі",
     },{
@@ -232,7 +232,7 @@ const ClasicMass=[
     {
         id:32,
         title:"Корона санрайз",
-        price:"170 грн",
+        price:"200 грн",
         src: require('../img/corona2.png'),
         text:"корона, текіла, сироп гренадін, апельсиновий сік, лайм",
     },
