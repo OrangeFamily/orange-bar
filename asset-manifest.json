@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.179e0b4b.css",
-    "main.js": "/orange-bar/static/js/main.c61770e6.js",
+    "main.js": "/orange-bar/static/js/main.68214c30.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -21,6 +21,7 @@
     "static/media/teplsal.png": "/orange-bar/static/media/teplsal.50a295aa9d07fc839436.png",
     "static/media/salatsmorem.png": "/orange-bar/static/media/salatsmorem.c536f495940472d74139.png",
     "static/media/chizcake.png": "/orange-bar/static/media/chizcake.bf008d2880bac0d454f1.png",
+    "static/media/jagGlass.jpg": "/orange-bar/static/media/jagGlass.85891031c3367afd007c.jpg",
     "static/media/tovodka.png": "/orange-bar/static/media/tovodka.f8d2f909eff6e3d57aa6.png",
     "static/media/partyjager.png": "/orange-bar/static/media/partyjager.a25e319dd41d79ca163d.png",
     "static/media/skovorkalmar.png": "/orange-bar/static/media/skovorkalmar.7d282eb60b647d81904c.png",
@@ -263,10 +264,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.179e0b4b.css.map": "/orange-bar/static/css/main.179e0b4b.css.map",
-    "main.c61770e6.js.map": "/orange-bar/static/js/main.c61770e6.js.map"
+    "main.68214c30.js.map": "/orange-bar/static/js/main.68214c30.js.map"
   },
   "entrypoints": [
     "static/css/main.179e0b4b.css",
-    "static/js/main.c61770e6.js"
+    "static/js/main.68214c30.js"
   ]
 }
