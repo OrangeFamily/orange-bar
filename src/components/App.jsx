@@ -35,7 +35,7 @@ import SaladsMass from './comp/Kitchen/Data/DataSalads';
 import HotMass from './comp/Kitchen/Data/DataHot';
 
 import AperetivMass from './comp/Bar/Data/DataAperetiv';
-import NarCoctMass from './comp/Bar/Data/DataNarCoct';
+// import NarCoctMass from './comp/Bar/Data/DataNarCoct';
 import RomMass from './comp/Bar/Data/DataRom';
 import TekilaMass from './comp/Bar/Data/DataTekila';
 import WiskeyMass from './comp/Bar/Data/DataWiskey';
@@ -106,7 +106,7 @@ export const App = () => {
   // const dataKitAdd = AdditivesMass;
   const dataDeserts = DesertsMass;
 
-  const dataNarCoct = NarCoctMass;
+  // const dataNarCoct = NarCoctMass;
   const dataAperetiv = AperetivMass;
   const dataRom = RomMass;
   const dataTekila = TekilaMass;
@@ -401,7 +401,7 @@ export const App = () => {
                         <img src={egerakc} alt="" className={s.imgeger}/>
                       </AccordionPanel>
                     </AccordionItem> */}
-                      <AccordionItem>
+                      {/* <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
                             Народні коктейлі
@@ -410,7 +410,7 @@ export const App = () => {
                         <AccordionPanel>
                           <List data={dataNarCoct} onModal={dataModal} />
                         </AccordionPanel>
-                      </AccordionItem>
+                      </AccordionItem> */}
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
