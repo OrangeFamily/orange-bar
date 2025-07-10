@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.179e0b4b.css",
-    "main.js": "/orange-bar/static/js/main.68214c30.js",
+    "main.js": "/orange-bar/static/js/main.7ec19462.js",
     "static/media/nd.png": "/orange-bar/static/media/nd.5309e1e7ba14601d8eff.png",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/sr.png": "/orange-bar/static/media/sr.073cd95ad8107cb0c5a8.png",
@@ -174,23 +174,17 @@
     "static/media/ton.webp": "/orange-bar/static/media/ton.9d00f7c35fd95a9f086a.webp",
     "static/media/neg.webp": "/orange-bar/static/media/neg.bc10bb6ff0bef7fc94ab.webp",
     "static/media/jager.webp": "/orange-bar/static/media/jager.4ba53a6a7575d36dc59b.webp",
-    "static/media/smor.webp": "/orange-bar/static/media/smor.8127937057d2b3abbb75.webp",
     "static/media/tiger.webp": "/orange-bar/static/media/tiger.c4828640bf6f83de4f83.webp",
-    "static/media/or.webp": "/orange-bar/static/media/or.36b24d996cc3c5a224f6.webp",
-    "static/media/lem.webp": "/orange-bar/static/media/lem.a8f72f13b8e2155a6163.webp",
     "static/media/chikenpasta.webp": "/orange-bar/static/media/chikenpasta.64e1aef9517c851271e0.webp",
     "static/media/moh.webp": "/orange-bar/static/media/moh.41a0f72eca95137e87bc.webp",
     "static/media/tigersal.webp": "/orange-bar/static/media/tigersal.5e3aa286eac1f46c54ce.webp",
     "static/media/cezar.webp": "/orange-bar/static/media/cezar.aad6b8cf7060267bea1d.webp",
-    "static/media/hren.webp": "/orange-bar/static/media/hren.86bb15572223c0ccb1a8.webp",
     "static/media/manh.webp": "/orange-bar/static/media/manh.6275dd03c657d6c42e39.webp",
     "static/media/dol.webp": "/orange-bar/static/media/dol.b7a9a0f1c777c90f3d2a.webp",
     "static/media/bumka.webp": "/orange-bar/static/media/bumka.d1d444bf76f9f2765721.webp",
     "static/media/fea.webp": "/orange-bar/static/media/fea.2519a5e7a05f53319e34.webp",
     "static/media/spokusa.webp": "/orange-bar/static/media/spokusa.1bfdd6b7d7c1382bc33e.webp",
     "static/media/krevetki-kalmar.webp": "/orange-bar/static/media/krevetki-kalmar.3d47b433bca04558d6fe.webp",
-    "static/media/co.webp": "/orange-bar/static/media/co.a0486777fb2625f656b3.webp",
-    "static/media/che.webp": "/orange-bar/static/media/che.bc32ead681e0cda71f81.webp",
     "static/media/chiken-mush.webp": "/orange-bar/static/media/chiken-mush.ae3a76c05dd7c3eb5af1.webp",
     "static/media/long.webp": "/orange-bar/static/media/long.c85d5c31dcdb329f3b24.webp",
     "static/media/pepsil.webp": "/orange-bar/static/media/pepsil.bd6498674e040cd225af.webp",
@@ -264,10 +258,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.179e0b4b.css.map": "/orange-bar/static/css/main.179e0b4b.css.map",
-    "main.68214c30.js.map": "/orange-bar/static/js/main.68214c30.js.map"
+    "main.7ec19462.js.map": "/orange-bar/static/js/main.7ec19462.js.map"
   },
   "entrypoints": [
     "static/css/main.179e0b4b.css",
-    "static/js/main.68214c30.js"
+    "static/js/main.7ec19462.js"
   ]
 }
