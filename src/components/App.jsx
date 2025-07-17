@@ -19,6 +19,8 @@ import { List } from './comp/List/List';
 // import fifth from './img/5.JPG'
 
 // import jag from './img/Jägermeister3.jpg';
+import grn from './img/grn.jpg'
+import dr from './img/dr.jpg'
 import pn from './img/pon.png';
 import vt from './img/vt.png';
 import sr from './img/sr.png';
@@ -200,6 +202,8 @@ export const App = () => {
                   </p>
                   <Accordion allowMultiple>
                 {/*  <img src={jag} alt="" className={s.fctionPhoto} />*/}
+                <img src={grn} alt="" className={s.fctionPhoto} />
+                <img src={dr} alt="" className={s.fctionPhoto} />
                     <img src={pn} alt="" className={s.fctionPhoto} />
                     <img src={vt} alt="" className={s.fctionPhoto} />
                     <img src={sr} alt="" className={s.fctionPhoto} />
