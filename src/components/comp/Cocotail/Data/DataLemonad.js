@@ -2,14 +2,14 @@ const LemonadMass=[
     {
         id:1,
         title:"Класичний 450мл",
-        price:"65 грн",
+        price:"80 грн",
         src: require('../img/lemonadclasic.png'),
         text:"лимонад, 7up",
     },
     {
         id:2,
         title:"М’ятний 450мл",
-        price:"65 грн",
+        price:"80 грн",
         src: require('../img/lemonadmyata.png'),
         text:"лимонад, м’ята, 7up",
     },
@@ -24,7 +24,7 @@ const LemonadMass=[
  {
        id:3,
        title:"манго маракуя 450мл",
-       price:"65 грн",
+       price:"85 грн",
        src: require('../../../img/orangeLogo.png'),
        text:"лимонад, 7up, сироп в асортименті",
     },
@@ -69,7 +69,7 @@ const LemonadMass=[
     {
         id:9,
         title:"Фіалковий 450мл",
-        price:"69 грн",
+        price:"89 грн",
         src: require('../img/flem.png'),
         text:"сироп фіалки, лимонний сік, лимон, 7up",
     },

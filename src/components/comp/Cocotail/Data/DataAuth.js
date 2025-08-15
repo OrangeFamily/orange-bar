@@ -2,7 +2,7 @@ const AuthMass=[
     {
         id:1,
         title:"Файний джин 250мл",
-        price:"179 грн",
+        price:"200 грн",
         src: require('../img/fayniyjin.png'),
         text:"гордон`c середземноморський апельсин, тонік, апельсин",
     },
@@ -17,14 +17,14 @@ const AuthMass=[
     {
         id:3,
         title:"Німецька ніч 350мл",
-        price:"210 грн",
+        price:"220 грн",
         src: require('../img/noch.webp'),
         text:"ром золотий, jagermaister, амарето лікер, сік лимона, cахарний сироп, пепсі ",
     },
     {
         id:4,
         title:"Жіноча спокуса 350мл",
-        price:"190 грн",
+        price:"200 грн",
         src: require('../img/spokusa.webp'),
         text:"ром золотий, самбука, сік персиковий, сік ананасовий",
     },
@@ -38,7 +38,7 @@ const AuthMass=[
     {
         id:6,
         title:"Оргазм Тарзана 350мл",
-        price:"185 грн",
+        price:"190 грн",
         src: require('../img/org.webp'),
         text:"горілка, лікер динний, сироп блю кюрасао, сік ананасовий",
     },
@@ -81,7 +81,7 @@ const AuthMass=[
     {
         id:12,
         title:"Дамський Угодник 450мл",
-        price:"200 грн",
+        price:"220 грн",
         src: require('../img/dam.webp'),
         text:"горілка, сироп кокосовий, сироп мараскіновий, сік вишневий, ред бул",
     },

@@ -9,7 +9,7 @@ const ShotDrinkMass = [
   {
     id: 1,
     title: 'Yumi',
-    price: '130 грн',
+    price: '140 грн',
     src: require('../img/Yumi.png'),
     isNew: true,
     text: `Лікер персик
@@ -89,7 +89,7 @@ const ShotDrinkMass = [
   {
     id: 12,
     title: 'Текіла Бум ',
-    price: '190 грн',
+    price: '220 грн',
     src: require('../img/bumka.webp'),
     text: 'текіла, лимонній фреш 7up',
   },

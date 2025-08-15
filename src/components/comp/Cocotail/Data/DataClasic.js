@@ -43,14 +43,14 @@ const ClasicMass=[
     {
         id:6,
         title:"Апероль спрітц 350мл",
-        price:"240 грн",
+        price:"250 грн",
         src: require('../img/aper.webp'),
         text:"апероль, просекко, тонік",
     },
     {
         id:7,
         title:"Джин-тонік 250мл",
-        price:"179 грн",
+        price:"189 грн",
         src: require('../img/ton.webp'),
         text:"джин, тонік, лимон",
     },
@@ -71,7 +71,7 @@ const ClasicMass=[
     {
         id:10,
         title:"Блакитні Гаваї 350мл",
-        price:"200 грн",
+        price:"210 грн",
         src: require('../img/gav.webp'),
         text:"ром, кокосовий лікер, лікер Блю Кюрасао, ананасовий сік",
     },
@@ -99,7 +99,7 @@ const ClasicMass=[
     {
         id:13,
         title:"Віскі сауер 200мл",
-        price:"210 грн",
+        price:"220 грн",
         src: require('../img/sau.webp'),
         text:"Бурбон Буліт, лимонний фреш, ізі фом, цукровий сироп, лимонна цедра, ангостура",
     },
@@ -120,7 +120,7 @@ const ClasicMass=[
     {
         id:16,
         title:"Секс на пляжі 350мл",
-        price:"180 грн",
+        price:"190 грн",
         src: require('../img/bich.webp'),
         text:"горілка, персиковий лікер, сік апельсиновий, журавлиний морс",
     },
@@ -134,7 +134,7 @@ const ClasicMass=[
     {
         id:18,
         title:"Текіла санрайз 350мл",
-        price:"180 грн",
+        price:"195 грн",
         src: require('../img/sun.webp'),
         text:"текіла, сироп Гренадін, сік апельсиновий",
     },
@@ -225,7 +225,7 @@ const ClasicMass=[
     {
         id:31,
         title:"віскі кола 250мл",
-        price:"140 грн",
+        price:"150 грн",
         src: require('../img/cuba.webp'),
         text:"віскі, пепсі",
     },
