@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.179e0b4b.css",
-    "main.js": "/orange-bar/static/js/main.f5d0a37d.js",
+    "main.js": "/orange-bar/static/js/main.856d76a5.js",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/dr.jpg": "/orange-bar/static/media/dr.7740f38f6fbfe252bc4a.jpg",
     "static/media/cht.png": "/orange-bar/static/media/cht.3a8379c68ecf71cba177.png",
@@ -103,6 +103,7 @@
     "static/media/perlina.png": "/orange-bar/static/media/perlina.87f9ebab624f0fea6c83.png",
     "static/media/JaranaB.png": "/orange-bar/static/media/JaranaB.7e7e873f70bee6fc593e.png",
     "static/media/shakecof.png": "/orange-bar/static/media/shakecof.2767c99950deb6a03d1b.png",
+    "static/media/tonicsteklo.png": "/orange-bar/static/media/tonicsteklo.0235e6840b6c66ee09ff.png",
     "static/media/perfect.png": "/orange-bar/static/media/perfect.6b5339e174aa6e05debb.png",
     "static/media/koblevo.png": "/orange-bar/static/media/koblevo.53154833b934e056b016.png",
     "static/media/lemonadclasic.png": "/orange-bar/static/media/lemonadclasic.df04c5cb062b996c199e.png",
@@ -261,10 +262,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.179e0b4b.css.map": "/orange-bar/static/css/main.179e0b4b.css.map",
-    "main.f5d0a37d.js.map": "/orange-bar/static/js/main.f5d0a37d.js.map"
+    "main.856d76a5.js.map": "/orange-bar/static/js/main.856d76a5.js.map"
   },
   "entrypoints": [
     "static/css/main.179e0b4b.css",
-    "static/js/main.f5d0a37d.js"
+    "static/js/main.856d76a5.js"
   ]
 }
