@@ -15,6 +15,7 @@ const ShotDrinkMass = [
     text: `Jägermeister orange, 
 Aperol,
 Сироп Маракуя`,
+ isNew: true,
   },
   {
     id: 1,
