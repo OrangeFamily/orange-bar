@@ -11,7 +11,7 @@ const ShotDrinkMass = [
     title: 'Gold Oasis',
     price: '140 грн',
     src: require('../img/GoldOasis.png'),
-    isNew: true,
+   
     text: `Jägermeister orange, 
 Aperol,
 Сироп Маракуя`,
