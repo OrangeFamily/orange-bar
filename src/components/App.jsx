@@ -21,13 +21,13 @@ import { List } from './comp/List/List';
 // import jag from './img/Jägermeister3.jpg';
 import grn from './img/grn.jpg'
 import dr from './img/dr.jpg'
-import pn from './img/pn.jpg';
-import vt from './img/vt.jpg';
-import sr from './img/patelnaday.jpg';
-import cht from './img/cht.png';
+// import pn from './img/pn.jpg';
+// import vt from './img/vt.jpg';
+// import sr from './img/patelnaday.jpg';
+// import cht from './img/cht.png';
 import ned from './img/nd.jpg';
 import hook from './img/hook.png';
-import jagGlass from './img/jagGlass.jpg'
+// import jagGlass from './img/jagGlass.jpg'
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
 import BurgerMass from './comp/Kitchen/Data/DataBurg';
@@ -204,14 +204,15 @@ export const App = () => {
                 {/*  <img src={jag} alt="" className={s.fctionPhoto} />*/}
                 <img src={grn} alt="" className={s.fctionPhoto} />
                 <img src={dr} alt="" className={s.fctionPhoto} />
-                    <img src={pn} alt="" className={s.fctionPhoto} />
+                <img src={ned} alt="" className={s.fctionPhoto} />
+                    <img src={hook} alt="" className={s.fctionPhoto} />
+                  {/*  <img src={pn} alt="" className={s.fctionPhoto} />
                     <img src={vt} alt="" className={s.fctionPhoto} />
                     <img src={sr} alt="" className={s.fctionPhoto} />
                     <img src={cht} alt="" className={s.fctionPhoto} />
-                    <img src={ned} alt="" className={s.fctionPhoto} />
-                    <img src={hook} alt="" className={s.fctionPhoto} />
+                    
                     <img src={jagGlass} alt="" className={s.fctionPhoto} />
-                    {/* <img src={first} alt="" className={s.fctionPhoto} /> */}
+                     <img src={first} alt="" className={s.fctionPhoto} /> */}
                     {/* <img src={second} alt="" className={s.fctionPhoto} /> */}
                     {/* <img src={bullAct} alt="" className={s.fctionPhoto} />
                     <img src={bullActg} alt="" className={s.fctionPhoto} />
