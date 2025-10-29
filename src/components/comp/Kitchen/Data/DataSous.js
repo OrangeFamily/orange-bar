@@ -1,10 +1,11 @@
 const SousMass=[
     {
         id:1,
-        title:"Кисло-солодкий 40г",
+        title:"медово-гірчичний 40г",
         price:"20 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"",
+    allergy: `🌱 соя ,🍯 мед ,🌶️гірчиця`
     },
     {
         id:2,
@@ -12,6 +13,7 @@ const SousMass=[
         price:"20 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"",
+    allergy: `🥚 яйце`
     },
     {
         id:3,
@@ -26,6 +28,7 @@ const SousMass=[
         price:"20 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"",
+    allergy: `🥚 яйце,🌶️гірчиця`
     },
     {
         id:5,
@@ -40,6 +43,7 @@ const SousMass=[
         price:"20 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"",
+    allergy: `🌶️ гірчиця`
     },
     {
         id:7,
@@ -47,6 +51,7 @@ const SousMass=[
         price:"20 грн",
         src: require('../../../img/orangeLogo.png'),
         text:"кетчуп, перець болгарський, часник, цибуля, зелень",
+    allergy: `🌱 соя`
     },
     {
         id:8,

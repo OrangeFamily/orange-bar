@@ -142,9 +142,9 @@ export const App = () => {
   const dataPartyMzix = PartyMixMass;
   const dataShotDrink = ShotDrinkMass;
 
-  const dataModal = (title, price, text, src) => {
+  const dataModal = (title, price, text, src, allergy) => {
     toggleModal();
-    setObjectModal({ title, price, text, src });
+    setObjectModal({ title, price, text, src, allergy });
   };
   const dataModalBeer = (title, price, price2, text, src) => {
     toggleModal();
@@ -189,6 +189,7 @@ export const App = () => {
               alt=""
               className={s.logo}
             />
+      <p className={s.allergy}>Деякі страви можуть містити сліди сульфітів, глютену, сої, горіхів або інших алергенів через умови виробництва</p>
             <Accordion allowMultiple>
               <AccordionItem>
                 <h1>
@@ -775,6 +776,7 @@ export const App = () => {
             </Accordion>
           </section>
         </div>
+     
       </LazyLoad>
     </>
   );
