@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.179e0b4b.css",
-    "main.js": "/orange-bar/static/js/main.0ef178f7.js",
+    "main.css": "/orange-bar/static/css/main.4e1fc00f.css",
+    "main.js": "/orange-bar/static/js/main.7bb2c037.js",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/dr.jpg": "/orange-bar/static/media/dr.7740f38f6fbfe252bc4a.jpg",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -16,7 +16,6 @@
     "static/media/sirnayapasta.png": "/orange-bar/static/media/sirnayapasta.2201648d9f2f993506b3.png",
     "static/media/teplsal.png": "/orange-bar/static/media/teplsal.50a295aa9d07fc839436.png",
     "static/media/salatsmorem.png": "/orange-bar/static/media/salatsmorem.c536f495940472d74139.png",
-    "static/media/chizcake.png": "/orange-bar/static/media/chizcake.bf008d2880bac0d454f1.png",
     "static/media/tovodka.png": "/orange-bar/static/media/tovodka.f8d2f909eff6e3d57aa6.png",
     "static/media/partyjager.png": "/orange-bar/static/media/partyjager.a25e319dd41d79ca163d.png",
     "static/media/skovorkalmar.png": "/orange-bar/static/media/skovorkalmar.7d282eb60b647d81904c.png",
@@ -260,11 +259,11 @@
     "static/media/fragolinor.webp": "/orange-bar/static/media/fragolinor.bee0c14e1e773298fd5a.webp",
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
-    "main.179e0b4b.css.map": "/orange-bar/static/css/main.179e0b4b.css.map",
-    "main.0ef178f7.js.map": "/orange-bar/static/js/main.0ef178f7.js.map"
+    "main.4e1fc00f.css.map": "/orange-bar/static/css/main.4e1fc00f.css.map",
+    "main.7bb2c037.js.map": "/orange-bar/static/js/main.7bb2c037.js.map"
   },
   "entrypoints": [
-    "static/css/main.179e0b4b.css",
-    "static/js/main.0ef178f7.js"
+    "static/css/main.4e1fc00f.css",
+    "static/js/main.7bb2c037.js"
   ]
 }
