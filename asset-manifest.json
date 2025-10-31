@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/orange-bar/static/css/main.4e1fc00f.css",
-    "main.js": "/orange-bar/static/js/main.11303def.js",
+    "main.css": "/orange-bar/static/css/main.93202430.css",
+    "main.js": "/orange-bar/static/js/main.12fd8dd2.js",
     "static/media/hook.png": "/orange-bar/static/media/hook.3fe130464cbac2ee6f6a.png",
     "static/media/dr.jpg": "/orange-bar/static/media/dr.7740f38f6fbfe252bc4a.jpg",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
@@ -46,6 +46,7 @@
     "static/media/fiat.png": "/orange-bar/static/media/fiat.c893d9a46fb81dace121.png",
     "static/media/brendycoe.png": "/orange-bar/static/media/brendycoe.6b92b11d78c0173e3054.png",
     "static/media/beton.png": "/orange-bar/static/media/beton.a780af17e2c0ed2bed3b.png",
+    "static/media/halloween.png": "/orange-bar/static/media/halloween.f394271a9c870f83c00d.png",
     "static/media/Portokali.png": "/orange-bar/static/media/Portokali.d7b5918b8fa5bc0b05f7.png",
     "static/media/vyalkur.png": "/orange-bar/static/media/vyalkur.8469241fb3a10ae56835.png",
     "static/media/fist.png": "/orange-bar/static/media/fist.6ebae044bdd0a764537a.png",
@@ -265,11 +266,11 @@
     "static/media/fragolinor.webp": "/orange-bar/static/media/fragolinor.bee0c14e1e773298fd5a.webp",
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
-    "main.4e1fc00f.css.map": "/orange-bar/static/css/main.4e1fc00f.css.map",
-    "main.11303def.js.map": "/orange-bar/static/js/main.11303def.js.map"
+    "main.93202430.css.map": "/orange-bar/static/css/main.93202430.css.map",
+    "main.12fd8dd2.js.map": "/orange-bar/static/js/main.12fd8dd2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e1fc00f.css",
-    "static/js/main.11303def.js"
+    "static/css/main.93202430.css",
+    "static/js/main.12fd8dd2.js"
   ]
 }
