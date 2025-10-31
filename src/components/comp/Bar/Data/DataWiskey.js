@@ -1,6 +1,13 @@
 const WiskeyMass=[
 
     
+    {
+        id:15,
+        title:"Ardbeg Ten, 10 уо (Шотландія) 0,7л",
+        price:"5600 грн",
+        src:require('../img/ardbeg.png'),
+        text:"50мл - 400 грн",
+    },
    
     {
         id:1,
