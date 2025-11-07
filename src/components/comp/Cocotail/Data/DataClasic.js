@@ -10,7 +10,7 @@ const ClasicMass=[
 Сіль,
 Перець,
 Вустерський соус`,
- isHalloween: true
+//  isHalloween: true
     },
     {
         id:2,
@@ -22,7 +22,7 @@ const ClasicMass=[
     {
         id:3,
         title:"Май Тай 450мл",
-        price:"240 грн",
+        price:"250 грн",
         src: require('../img/may.webp'),
         text:"ром чорний, ром золотий, лікер мигдальний, лікер апельсиновий, сік апельсиновий, ананасовий",
     },
@@ -56,7 +56,7 @@ const ClasicMass=[
     {
         id:8,
         title:"Апероль спрітц 350мл",
-        price:"250 грн",
+        price:"265 грн",
         src: require('../img/aper.webp'),
         text:"апероль, просекко, тонік",
     },
@@ -84,7 +84,7 @@ const ClasicMass=[
     {
         id:11,
         title:"Блакитні Гаваї 350мл",
-        price:"210 грн",
+        price:"220 грн",
         src: require('../img/gav.webp'),
         text:"ром, кокосовий лікер, лікер Блю Кюрасао, ананасовий сік",
     },
@@ -112,7 +112,7 @@ const ClasicMass=[
     {
         id:15,
         title:"Віскі сауер 200мл",
-        price:"230 грн",
+        price:"250 грн",
         src: require('../img/sau.webp'),
         text:"Бурбон Буліт, лимонний фреш, ізі фом, цукровий сироп, лимонна цедра, ангостура",
     },
@@ -126,7 +126,7 @@ const ClasicMass=[
     {
         id:17,
         title:"Срібна затока 400мл",
-        price:"230 грн",
+        price:"250 грн",
         src: require('../img/zaliv.webp'),
         text:"джин, кокосовий лікер, персиковий лікер, сік ананасовий, сік апельсиновий",
     },
@@ -140,7 +140,7 @@ const ClasicMass=[
     {
         id:19,
         title:"Сік Джунглів 350мл",
-        price:"200 грн",
+        price:"220 грн",
         src: require('../img/jus.webp'),
         text:"джин, лікер «Зелений банан» сік апельсиновий",
     },
@@ -154,7 +154,7 @@ const ClasicMass=[
     {
         id:21,
         title:"Маргарита 200мл",
-        price:"200 грн",
+        price:"220 грн",
         src: require('../img/margo.png'),
         text:`Текіла, куантро, сік лайма, сіль`,
     },

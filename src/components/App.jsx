@@ -26,7 +26,7 @@ import dr from './img/dr.jpg'
 // import sr from './img/patelnaday.jpg';
 // import cht from './img/cht.png';
 import ned from './img/nd.jpg';
-import hook from './img/hook.png';
+import hook from './img/hook.JPG';
 // import jagGlass from './img/jagGlass.jpg'
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
