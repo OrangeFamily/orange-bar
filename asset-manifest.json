@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.93202430.css",
-    "main.js": "/orange-bar/static/js/main.dc80b073.js",
+    "main.js": "/orange-bar/static/js/main.cb630727.js",
     "static/media/dr.jpg": "/orange-bar/static/media/dr.7740f38f6fbfe252bc4a.jpg",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/ovogril.png": "/orange-bar/static/media/ovogril.c1e0068be92d82f8393d.png",
@@ -52,7 +52,6 @@
     "static/media/tartartlosos.png": "/orange-bar/static/media/tartartlosos.da173abc23c89b2f48a2.png",
     "static/media/DonPapaMaskara.png": "/orange-bar/static/media/DonPapaMaskara.9eedff4d7599617338cc.png",
     "static/media/cherysour.png": "/orange-bar/static/media/cherysour.8a04b2418e5df9e1af4d.png",
-    "static/media/nd.jpg": "/orange-bar/static/media/nd.b1d708d3e3977caabd24.jpg",
     "static/media/basturma.png": "/orange-bar/static/media/basturma.3f79e48be019c03f89bd.png",
     "static/media/hook.JPG": "/orange-bar/static/media/hook.5ee64a531947491da58b.JPG",
     "static/media/keepithonney.png": "/orange-bar/static/media/keepithonney.ec06b9ed396c0138d678.png",
@@ -262,10 +261,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.93202430.css.map": "/orange-bar/static/css/main.93202430.css.map",
-    "main.dc80b073.js.map": "/orange-bar/static/js/main.dc80b073.js.map"
+    "main.cb630727.js.map": "/orange-bar/static/js/main.cb630727.js.map"
   },
   "entrypoints": [
     "static/css/main.93202430.css",
-    "static/js/main.dc80b073.js"
+    "static/js/main.cb630727.js"
   ]
 }
