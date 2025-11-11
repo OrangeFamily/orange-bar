@@ -25,7 +25,7 @@ import dr from './img/dr.jpg'
 // import vt from './img/vt.jpg';
 // import sr from './img/patelnaday.jpg';
 // import cht from './img/cht.png';
-import ned from './img/nd.jpg';
+// import ned from './img/nd.jpg';
 import hook from './img/hook.JPG';
 // import jagGlass from './img/jagGlass.jpg'
 
@@ -205,7 +205,7 @@ export const App = () => {
                 {/*  <img src={jag} alt="" className={s.fctionPhoto} />*/}
                 <img src={grn} alt="" className={s.fctionPhoto} />
                 <img src={dr} alt="" className={s.fctionPhoto} />
-                <img src={ned} alt="" className={s.fctionPhoto} />
+                {/*<img src={ned} alt="" className={s.fctionPhoto} />*/}
                     <img src={hook} alt="" className={s.fctionPhoto} />
                   {/*  <img src={pn} alt="" className={s.fctionPhoto} />
                     <img src={vt} alt="" className={s.fctionPhoto} />
