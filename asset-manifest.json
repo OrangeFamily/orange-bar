@@ -1,13 +1,12 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.93202430.css",
-    "main.js": "/orange-bar/static/js/main.cb630727.js",
+    "main.js": "/orange-bar/static/js/main.f9d8a7f6.js",
     "static/media/dr.jpg": "/orange-bar/static/media/dr.7740f38f6fbfe252bc4a.jpg",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/ovogril.png": "/orange-bar/static/media/ovogril.c1e0068be92d82f8393d.png",
     "static/media/lososVershki.png": "/orange-bar/static/media/lososVershki.e03aa5793fe3bc035dde.png",
     "static/media/svinOvochi.png": "/orange-bar/static/media/svinOvochi.10d6092079e44d134468.png",
-    "static/media/kurSerd.png": "/orange-bar/static/media/kurSerd.f06289b9850e3f6fc598.png",
     "static/media/tarpidbear.png": "/orange-bar/static/media/tarpidbear.229ba6d1e3dd37b35feb.png",
     "static/media/tarelkachees.png": "/orange-bar/static/media/tarelkachees.29ab79b584aecb115387.png",
     "static/media/grn.jpg": "/orange-bar/static/media/grn.010d2e8a59365d63f2c9.jpg",
@@ -67,7 +66,6 @@
     "static/media/fayniyjin.png": "/orange-bar/static/media/fayniyjin.93f8c5d020fed7d6a030.png",
     "static/media/late.png": "/orange-bar/static/media/late.4ef7f8f11584cf0fd705.png",
     "static/media/beherovka.png": "/orange-bar/static/media/beherovka.00c0758e502eba0ada84.png",
-    "static/media/burgcezar.png": "/orange-bar/static/media/burgcezar.31acff720ea52536b1e5.png",
     "static/media/bambl.png": "/orange-bar/static/media/bambl.7f86341740a554cf5b4a.png",
     "static/media/Jägermeisterorange.png": "/orange-bar/static/media/Jägermeisterorange.0678893d55cb2aafd3f3.png",
     "static/media/stellagb.png": "/orange-bar/static/media/stellagb.0167ef0c9537f44ba0ad.png",
@@ -85,7 +83,6 @@
     "static/media/flem.png": "/orange-bar/static/media/flem.bc8dfc889d8904018b8a.png",
     "static/media/tropic.png": "/orange-bar/static/media/tropic.ad8162082e75e6027dc5.png",
     "static/media/oreo.png": "/orange-bar/static/media/oreo.bd7f4a98f94cb2f49cc9.png",
-    "static/media/burgchees.png": "/orange-bar/static/media/burgchees.3c255adc141b21d279e1.png",
     "static/media/jarry.png": "/orange-bar/static/media/jarry.a45b958f76eb957b6fb1.png",
     "static/media/fon1.webp": "/orange-bar/static/media/fon1.657bcf82fef57161434a.webp",
     "static/media/pekelnamala.png": "/orange-bar/static/media/pekelnamala.f6af920723a78be387fc.png",
@@ -122,6 +119,7 @@
     "static/media/sterling.png": "/orange-bar/static/media/sterling.ed1288f6323521193743.png",
     "static/media/simba.png": "/orange-bar/static/media/simba.10af2006a92abfe1ad29.png",
     "static/media/persha.png": "/orange-bar/static/media/persha.af96eb9c832cb34aa081.png",
+    "static/media/kapitanPonsh.png": "/orange-bar/static/media/kapitanPonsh.37892f53c2b67cceef81.png",
     "static/media/legenda.png": "/orange-bar/static/media/legenda.3f20a25e441e36566a3d.png",
     "static/media/beloe.png": "/orange-bar/static/media/beloe.d324c90c58c31a7606c8.png",
     "static/media/ginorange.png": "/orange-bar/static/media/ginorange.e3d80283e4b7e32740ec.png",
@@ -234,7 +232,6 @@
     "static/media/glen.webp": "/orange-bar/static/media/glen.d13603ae5b8d54e3c5eb.webp",
     "static/media/mushsup.webp": "/orange-bar/static/media/mushsup.268294c04e0a46c55d46.webp",
     "static/media/chikensup.webp": "/orange-bar/static/media/chikensup.ceecf8e6e606a643edda.webp",
-    "static/media/pork-burg.webp": "/orange-bar/static/media/pork-burg.f3dcec6d8c37d831214e.webp",
     "static/media/fri.webp": "/orange-bar/static/media/fri.9cee5c5ba5a4635b7eee.webp",
     "static/media/fly.webp": "/orange-bar/static/media/fly.2d84481e820700fcd9ac.webp",
     "static/media/solyanka.webp": "/orange-bar/static/media/solyanka.97a6d05d6f2f4a00cdc1.webp",
@@ -261,10 +258,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.93202430.css.map": "/orange-bar/static/css/main.93202430.css.map",
-    "main.cb630727.js.map": "/orange-bar/static/js/main.cb630727.js.map"
+    "main.f9d8a7f6.js.map": "/orange-bar/static/js/main.f9d8a7f6.js.map"
   },
   "entrypoints": [
     "static/css/main.93202430.css",
-    "static/js/main.cb630727.js"
+    "static/js/main.f9d8a7f6.js"
   ]
 }
