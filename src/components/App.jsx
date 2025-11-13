@@ -30,7 +30,7 @@ import hook from './img/hook.JPG';
 // import jagGlass from './img/jagGlass.jpg'
 
 // import FrutMass from './comp/Kitchen/Data/DataFrut';
-import BurgerMass from './comp/Kitchen/Data/DataBurg';
+// import BurgerMass from './comp/Kitchen/Data/DataBurg';
 import AssortiMass from './comp/Kitchen/Data/DataAssorti';
 
 import SaladsMass from './comp/Kitchen/Data/DataSalads';
@@ -91,7 +91,7 @@ export const App = () => {
   const [objectModal, setObjectModal] = useState({});
 
   // const dataFrut = FrutMass;
-  const dataBurgers = BurgerMass;
+  // const dataBurgers = BurgerMass;
   const dataAssorti = AssortiMass;
 
   const dataSalads = SaladsMass;
@@ -311,7 +311,7 @@ export const App = () => {
                         <List data={dataPetelna} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem>
-                    <AccordionItem>
+                    {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           Бургери
@@ -320,7 +320,7 @@ export const App = () => {
                       <AccordionPanel>
                         <List data={dataBurgers} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem>
+                    </AccordionItem> */}
                     {/* <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>

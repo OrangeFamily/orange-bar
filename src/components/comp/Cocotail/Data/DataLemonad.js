@@ -25,7 +25,7 @@ const LemonadMass=[
        id:3,
        title:"манго маракуя 450мл",
        price:"85 грн",
-       src: require('../../../img/orangeLogo.png'),
+       src: require('../img/maracuyasun.png'),
        text:"лимонад, 7up, сироп в асортименті",
     },
 

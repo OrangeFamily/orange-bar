@@ -48,8 +48,8 @@ const ClasicMass=[
     },
     {
         id:7,
-        title:"Куба Лібре 250мл",
-        price:"185 грн",
+        title:"Капітан-кола 250мл",
+        price:"200 грн",
         src: require('../img/cuba.webp'),
         text:"ром, лайм, пепсі",
     },
@@ -63,7 +63,7 @@ const ClasicMass=[
     {
         id:9,
         title:"Джин-тонік 250мл",
-        price:"195 грн",
+        price:"200 грн",
         src: require('../img/ton.webp'),
         text:"джин, тонік, лимон",
     },
