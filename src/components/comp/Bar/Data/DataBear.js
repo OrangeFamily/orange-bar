@@ -33,14 +33,14 @@ const BearMass = [
 //     src: require('../img/somers.png'),
 //     text:"",
 // },
-  {
-      id:4,
-      title:"Повна діжка (Україна) кегове",
-      price:"0,5л - 80 грн",
-      price2:"0,33л - 65 грн",
-      src: require('../img/dizhka.png'),
-      text:"",
-  },
+  // {
+  //     id:4,
+  //     title:"Повна діжка (Україна) кегове",
+  //     price:"0,5л - 80 грн",
+  //     price2:"0,33л - 65 грн",
+  //     src: require('../img/dizhka.png'),
+  //     text:"",
+  // },
   // {
   //     id:5,
   //     title:"Хмелевус вайс (Україна) кегове",
