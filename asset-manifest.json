@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/orange-bar/static/css/main.93202430.css",
-    "main.js": "/orange-bar/static/js/main.008ebc64.js",
+    "main.js": "/orange-bar/static/js/main.9e5923d5.js",
     "static/media/dr.jpg": "/orange-bar/static/media/dr.7740f38f6fbfe252bc4a.jpg",
     "static/media/obrayen.png": "/orange-bar/static/media/obrayen.cc76be3c3a9688f5e746.png",
     "static/media/ovogril.png": "/orange-bar/static/media/ovogril.c1e0068be92d82f8393d.png",
@@ -109,7 +109,6 @@
     "static/media/Coronapaloma.png": "/orange-bar/static/media/Coronapaloma.7f8aba51e5bad47cb645.png",
     "static/media/stelakeg.png": "/orange-bar/static/media/stelakeg.91fa438e57a0c44002a5.png",
     "static/media/gordonsba.png": "/orange-bar/static/media/gordonsba.45e9dd533f851665204c.png",
-    "static/media/dizhka.png": "/orange-bar/static/media/dizhka.325f70270671b3583fec.png",
     "static/media/Coronapassion.png": "/orange-bar/static/media/Coronapassion.78539e15cbd2430353de.png",
     "static/media/Neverfake.png": "/orange-bar/static/media/Neverfake.a1dd509b15c820788fb6.png",
     "static/media/rby.png": "/orange-bar/static/media/rby.6e70882d211ce5f6c8ca.png",
@@ -258,10 +257,10 @@
     "static/media/campary.webp": "/orange-bar/static/media/campary.c38df340fc6f4ecf6c9a.webp",
     "index.html": "/orange-bar/index.html",
     "main.93202430.css.map": "/orange-bar/static/css/main.93202430.css.map",
-    "main.008ebc64.js.map": "/orange-bar/static/js/main.008ebc64.js.map"
+    "main.9e5923d5.js.map": "/orange-bar/static/js/main.9e5923d5.js.map"
   },
   "entrypoints": [
     "static/css/main.93202430.css",
-    "static/js/main.008ebc64.js"
+    "static/js/main.9e5923d5.js"
   ]
 }
