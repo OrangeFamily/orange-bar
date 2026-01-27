@@ -203,7 +203,7 @@ export const App = () => {
                   </p>
                   <Accordion allowMultiple>
                 {/*  <img src={jag} alt="" className={s.fctionPhoto} />*/}
-                <img src={grn} alt="" className={s.fctionPhoto} />
+                <img src={grn} alt="grn" className={s.fctionPhoto} />
                 <img src={dr} alt="" className={s.fctionPhoto} />
                 {/*<img src={ned} alt="" className={s.fctionPhoto} />*/}
                     <img src={hook} alt="" className={s.fctionPhoto} />
