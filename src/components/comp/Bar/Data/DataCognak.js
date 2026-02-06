@@ -44,9 +44,9 @@ const CognakMass=[
     {
         id:7,
         title:"Метакса 5 Зірок (Греція) 0,5л",
-        price:"1100 грн",
+        price:"1250 грн",
         src: require('../img/metaxa.png'),
-        text:"50мл - 110 грн",
+        text:"50мл - 125 грн",
     },
     {
         id:8,
