@@ -68,6 +68,7 @@ import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import { Coffe } from './comp/Bar/List/Coffe';
 import AuthMass from './comp/Cocotail/Data/DataAuth';
 import BandaMass from './comp/Cocotail/Data/DataBanda';
+import CoctValent from './comp/Cocotail/Data/CoctValent';
 import ClasicMass from './comp/Cocotail/Data/DataClasic';
 // import ColdTeaMass from './comp/Cocotail/Data/DataColdTea';
 // import JagerMass from './comp/Cocotail/Data/DataJager';
@@ -83,6 +84,7 @@ import TeaNatural from './comp/Bar/Data/DataTeaNatural';
 // import { ListAction } from './ModalAction/ListAction/ListAction';
 // import { ModalAction } from './ModalAction/ModalAction';
 import CoronaMass from './comp/Cocotail/Data/DataCorona';
+import ValentineHearts from './comp/ValentineHearts';
 // import egerakc from './img/akc.jpg'
 
 export const App = () => {
@@ -132,6 +134,7 @@ export const App = () => {
 
   const dataAuth = AuthMass;
   const dataBanda = BandaMass;
+  const dataValent = CoctValent;
   const dataClasic = ClasicMass;
   // const dataColdTea = ColdTeaMass;
   // const dataJager = JagerMass;
@@ -160,6 +163,7 @@ export const App = () => {
 
   return (
     <>
+    <ValentineHearts count={10} />
       <LazyLoad>
         <div className={s.upper}>
           <header className={s.header}>
@@ -645,7 +649,16 @@ export const App = () => {
                   </h1>
                   <AccordionPanel>
                     <Accordion allowMultiple>
-                      
+                      <AccordionItem>
+                        <h2>
+                          <AccordionButton className={s.titleItem}>
+                            коктель вечора
+                          </AccordionButton>
+                        </h2>
+                        <AccordionPanel>
+                          <List data={dataValent} onModal={dataModal} />
+                        </AccordionPanel>
+                      </AccordionItem>
                       <AccordionItem>
                         <h2>
                           <AccordionButton className={s.titleItem}>
