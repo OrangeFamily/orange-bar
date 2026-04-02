@@ -62,7 +62,7 @@ import PastaMass from './comp/Kitchen/Data/DataPasta';
 import SousMass from './comp/Kitchen/Data/DataSous';
 import GarnishMass from './comp/Kitchen/Data/DataGarnish';
 import ToBearMass from './comp/Kitchen/Data/DataToBear';
-// import PizzaMass from './comp/Kitchen/Data/DataPizza';
+import PizzaMass from './comp/Kitchen/Data/DataPizza';
 // import AdditivesMass from './comp/Kitchen/Data/DataAdd';
 import DesertsMass from './comp/Kitchen/Data/DataDeserts';
 import { Coffe } from './comp/Bar/List/Coffe';
@@ -106,7 +106,7 @@ export const App = () => {
   const dataSous = SousMass;
   const dataGarnish = GarnishMass;
   const dataToBear = ToBearMass;
-  // const dataPizza = PizzaMass;
+  const dataPizza = PizzaMass;
   // const dataKitAdd = AdditivesMass;
   const dataDeserts = DesertsMass;
 
@@ -325,7 +325,7 @@ export const App = () => {
                         <List data={dataBurgers} onModal={dataModal} />
                       </AccordionPanel>
                     </AccordionItem> */}
-                    {/* <AccordionItem>
+                    <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
                           піца
@@ -334,7 +334,7 @@ export const App = () => {
                       <AccordionPanel>
                         <List data={dataPizza} onModal={dataModal} />
                       </AccordionPanel>
-                    </AccordionItem> */}
+                    </AccordionItem> 
                     <AccordionItem>
                       <h2>
                         <AccordionButton className={s.titleItem}>
